@@ -7,9 +7,10 @@ section {
 }
 
 .blue, .green, .orange {
-	width: 33.3%;
+	margin: 15px 1.65%;
+	width: 30%;
 	display: inline-block;
-	height: 500px;
+	height: 400px;
 }
 
 .container {
