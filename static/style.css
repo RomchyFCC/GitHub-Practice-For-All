@@ -1,0 +1,39 @@
+footer {
+	clear: both;
+}
+
+section {
+	height: auto;
+}
+
+.blue, .green, .orange {
+	width: 33.3%;
+	display: inline-block;
+	height: 500px;
+}
+
+.container {
+	background-color: maroon;
+	margin: 0 auto;
+	padding: 10px 10px;
+}
+
+.blue {
+	background-color: lightblue;
+}
+
+.green {
+	background-color: #0f8;
+}
+
+.orange {
+	background-color: orange;
+}
+
+.silver {
+	background-color: silver;
+}
+
+.gold {
+	background-color: gold;
+}
