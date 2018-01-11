@@ -33,7 +33,7 @@ Aside from that, stick to the fork-pull workflow outlined below.
   + eg: `git clone https://github.com/RomchyFCC/collaborative_effort.git`
 + In your terminal navigate to the folder that was just created.
   + The command for this is `cd`
-  + eg: `cd fcc-directory`
+  + eg: `cd collaborative_effort`
 + If your version of the repo is ever out of sync with the original repo, i.e. there are new commits on the master branch of the original that you don't have, you need to sync your repo before adding your contributions. **See below, in the section called 'How to sync your local repo with the original repo' for details**
 + **Create a new branch to work on** (you'll do this for your real contributions, too).
   + At the terminal, in the correct folder, run `git checkout -b <new-branch-name>`
@@ -67,9 +67,9 @@ Aside from that, stick to the fork-pull workflow outlined below.
     You should see two links with `origin` in front of them.  
     The links will begin either with `https` or `git@`
   + Specify a new remote upstream repository that will be synced with the fork:  
-    `git remote add upstream https://github.com/mrslwiseman/fcc-directory.git`  
+    `git remote add upstream https://github.com/RomchyFCC/collaborative_effort.git`  
     or  
-    `git remote add upstream git@github.com:mrslwiseman/fcc-directory.git`  
+    `git remote add upstream git@github.com:RomchyFCC/collaborative_effort.git`  
     depending on which protocol you saw in the first step.
   + Verify the new upstream repository you've specified for your fork:  
     `git remote -v`  
