@@ -1,3 +1,12 @@
+/*
+Global styles
+*/
+.container {
+	background-color: maroon;
+	margin: 0 auto;
+	padding: 10px 10px;
+}
+
 footer {
 	clear: both;
 }
@@ -5,36 +14,27 @@ footer {
 section {
 	height: auto;
 }
+/*
+Section boxes
+*/
 
-.blue, .green, .orange {
+.box1,
+.box2,
+.box3 {
 	margin: 15px 1.65%;
 	width: 30%;
 	display: inline-block;
 	height: 400px;
 }
 
-.container {
-	background-color: maroon;
-	margin: 0 auto;
-	padding: 10px 10px;
-}
-
-.blue {
+.box1 {
 	background-color: lightblue;
 }
 
-.green {
+.box2 {
 	background-color: #0f8;
 }
 
-.orange {
+.box3 {
 	background-color: orange;
-}
-
-.silver {
-	background-color: silver;
-}
-
-.gold {
-	background-color: gold;
 }
