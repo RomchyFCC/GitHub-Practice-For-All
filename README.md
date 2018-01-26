@@ -1,6 +1,37 @@
 # collaborative_effort
 
 
+# TL;DR Version
+
+## How to contribute
+
+1. Fork a copy of this project to your own repository in the upper-right corner of this page!
+
+2. Keep your fork synched! You need to create a git clone in your local storage, the step by step guide is available here https://help.github.com/articles/fork-a-repo/
+
+3. Now open the files in your own editor of choice. (SublimeText, Atom, Handlebrackets etc.)
+
+4. Write your name anywhere in the file so it shows up in the webpage!
+
+5. Now git push the changes made to your own repository (if you use git push origin master it will automaticly put it in your forked repository, no need to fear that your git push will affect the original repository-this one)
+
+6. SUBMIT A PULL REQUEST ON GITHUB (How to steps written below)
+
+7. THAT'S IT, YOU'RE DONE, YOU SUCCESSFULLY CONTRIBUTED TO THE PROJECT AND HOPEFULLY LEARNED SOMETHING ALONG THE WAY
+
+
+A few guidance rules to follow:
+- you mustn't delete/replace the names already in the file
+- you can contribute more than once
+- you can also style the whole document, remove or place new styles to your own desires BUT the names already approved must stay in the document and must show up on the webpage(no matter how big or small, hint hint)
+- you can put your name anywhere in the body tag of the html file or even create a new page linked to the first one and put it there
+- Me and darrenFj will use our discretion with merge conflicts and will notify all parties of the decision (this sounds so formal)
+- your best weapon here is your creativity
+- all pull requests will be approved as long as they meet the first criteria
+
+---
+
+
 # Thank you JacksonBates @ https://github.com/JacksonBates for the well written contributions documentation
 
 # Contributing
