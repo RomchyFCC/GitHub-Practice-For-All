@@ -1,40 +1,17 @@
 /*
-Global styles
-*/
-.container {
-	background-color: maroon;
-	margin: 0 auto;
-	padding: 10px 10px;
-}
-
-footer {
-	clear: both;
-}
-
-section {
-	height: auto;
-}
-/*
-Section boxes
+** Globals
 */
 
-.box1,
-.box2,
-.box3 {
-	margin: 15px 1.65%;
-	width: 30%;
-	display: inline-block;
-	height: 400px;
+body {
+	margin: 0;
+	padding: 0;
+	background: linear-gradient(90deg, purple, blue);
 }
 
-.box1 {
-	background-color: lightblue;
-}
-
-.box2 {
-	background-color: #0f8;
-}
-
-.box3 {
-	background-color: orange;
+.co-creator {
+	margin-top: 25%;
+	color: lightblue;
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 50px;
 }
