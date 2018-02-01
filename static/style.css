@@ -15,6 +15,23 @@ body {
 	text-align: center;
 	font-size: 50px;
 }
+.romchy{
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	left: 40%;
+	display: inline-block;
+	transform: rotateZ(270deg);
+	animation: rotate 3s infinite alternate;
+	color: orange;
+}
+
+#romchy {
+	position: relative;
+}
+.empty {
+	min-height: 200px;
+}
 
 .forkers {
 	background-color: lightblue; 
@@ -35,4 +52,10 @@ body {
 .steamPunk {
 	color: blue;
 	text-shadow: 2px 0px 0 #F71735, 0 2px 0 #41EAD4;
+}
+
+@keyframes rotate {
+  0%{ transform: rotateZ(270deg) }
+  50%{ transform: rotateZ(450deg) }
+  100%{ transform: rotateZ(0deg) }
 }
