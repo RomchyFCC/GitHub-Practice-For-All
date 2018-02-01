@@ -17,5 +17,10 @@ body {
 }
 
 .forkers {
-	background-color: lightblue; 
+	background-color: lightblue;
+}
+
+.steamPunk {
+	color: blue;
+	text-shadow: 2px 0px 0 #F71735, 0 2px 0 #41EAD4;
 }
