@@ -1,9 +1,8 @@
 # GitHub-Practice-For-All
 
+Our FCC forum post: (https://forum.freecodecamp.org/t/git-and-github-practice-for-all-us-noobies/171808)
 
-# TL;DR Version
-
-## How to contribute
+### How to contribute, TL;DR Version
 
 1. Fork a copy of this project to your own repository in the upper-right corner of this page!
 
@@ -38,7 +37,7 @@ A few guidance rules to follow:
 
 # Contributing
 
-Please note we have a code of conduct, please follow it in all your interactions with the project.
+Please note that we have a code of conduct, please follow it in all your interactions with the project.
 
 <b>If you don't know where to start, check the "Guides" file for more information.</b>
 
