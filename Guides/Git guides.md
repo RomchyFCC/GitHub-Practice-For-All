@@ -1,18 +1,12 @@
-# collaborative_effort
-
-
-### Git Guides
-
-the P1xt guides link: <https://github.com/P1xt/p1xt-guides>
-
-FAQ: <https://github.com/P1xt/p1xt-guides/blob/master/faq.md>
-
-Official Documentation:
-<https://git-scm.com/documentation>
-
 ### Git Courses 
 
-All courses are free unless otherwise marked.
+All courses are free unless otherwise marked. 
+
+If you want to learn or just get more comfortable with Git, pick ONE of the courses below, then come back here to test what you've learned!
+
+**Official Documentation**
+
+<https://git-scm.com/documentation>
 
 **Udacity**
 

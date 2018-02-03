@@ -1,4 +1,4 @@
-# collaborative_effort
+# GitHub-Practice-For-All
 
 
 # TL;DR Version
@@ -9,7 +9,7 @@
 
 2. Keep your fork synched! You need to create a git clone in your local storage, the step by step guide is available here https://help.github.com/articles/fork-a-repo/
 
-3. Now open the files in your own editor of choice. (SublimeText, Atom, Handlebrackets etc.)
+3. Now open the files in your own text editor of choice. You will find the files in "The Website" folder.
 
 4. Write your name anywhere in the file so it shows up in the webpage!
 
@@ -18,6 +18,8 @@
 6. SUBMIT A PULL REQUEST ON GITHUB (How to steps written below)
 
 7. THAT'S IT, YOU'RE DONE, YOU SUCCESSFULLY CONTRIBUTED TO THE PROJECT AND HOPEFULLY LEARNED SOMETHING ALONG THE WAY
+
+8. Extra credit if you stay around for a few git pull's and more pull requests.
 
 
 A few guidance rules to follow:
@@ -32,16 +34,13 @@ A few guidance rules to follow:
 ---
 
 
-# Thank you JacksonBates @ https://github.com/JacksonBates for the well written contributions documentation
+#### Thank you JacksonBates @ https://github.com/JacksonBates for the well written contributions documentation
 
 # Contributing
 
-When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. 
-
 Please note we have a code of conduct, please follow it in all your interactions with the project.
 
-### If you don't know where to start, check the links and support file for more information and guides.
+<b>If you don't know where to start, check the "Guides" file for more information.</b>
 
 ## Making contributions
 
@@ -57,16 +56,18 @@ Aside from that, stick to the fork-pull workflow outlined below.
 
 + Create issues on **this** repo, not your fork, if you encounter bugs, non-ideal behaviour/css, or wish to request features.
 
+<b>Below, you will find the summary of git guides from the Guides file. </b>
+
 ## How to PR (pull request)
 
 + On your forked verision of the repo on GitHub, click the green 'clone or download' button and copy the link.
-  + The link will look something like this: `https://github.com/RomchyFCC/collaborative_effort.git` (but with your username, not mine)
+  + The link will look something like this: `https://github.com/RomchyFCC/GitHub-Practice-For-All.git` (but with your username, not mine)
 + In the terminal write the following command to clone the repo. This will give you a local copy to work on:
   + `git clone <paste-the-link-of-your-repo.git-here>`
-  + eg: `git clone https://github.com/RomchyFCC/collaborative_effort.git`
+  + eg: `git clone https://github.com/RomchyFCC/GitHub-Practice-For-All.git`
 + In your terminal navigate to the folder that was just created.
   + The command for this is `cd`
-  + eg: `cd collaborative_effort`
+  + eg: `cd GitHub-Practice-For-All`
 + If your version of the repo is ever out of sync with the original repo, i.e. there are new commits on the master branch of the original that you don't have, you need to sync your repo before adding your contributions. **See below, in the section called 'How to sync your local repo with the original repo' for details**
 + **Create a new branch to work on** (you'll do this for your real contributions, too).
   + At the terminal, in the correct folder, run `git checkout -b <new-branch-name>`
@@ -100,9 +101,9 @@ Aside from that, stick to the fork-pull workflow outlined below.
     You should see two links with `origin` in front of them.  
     The links will begin either with `https` or `git@`
   + Specify a new remote upstream repository that will be synced with the fork:  
-    `git remote add upstream https://github.com/RomchyFCC/collaborative_effort.git`  
+    `git remote add upstream https://github.com/RomchyFCC/GitHub-Practice-For-All.git`  
     or  
-    `git remote add upstream git@github.com:RomchyFCC/collaborative_effort.git`  
+    `git remote add upstream git@github.com:RomchyFCC/GitHub-Practice-For-All.git`  
     depending on which protocol you saw in the first step.
   + Verify the new upstream repository you've specified for your fork:  
     `git remote -v`  
@@ -121,9 +122,6 @@ Aside from that, stick to the fork-pull workflow outlined below.
     `git push`
 
 Now your local repo and your GitHub repo is up to date with the original repo you forked from.
-
-### Important
-Please keep your commits and pull requests focused purely on the objectives discussed in your communications with the team. If you find _other minor bugs_, _typos_ or _whitespace issues_ while working on your feature / fix, rather than fixing them, please open a **new issue** and **leave it out of your current contribution**. Reviewing Pull Requests and comparing diffs will be much easier that way!
 
 ## Code of Conduct
 
@@ -182,7 +180,7 @@ further defined and clarified by project maintainers.
 ### Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at [INSERT EMAIL ADDRESS]. All
+reported by contacting the project team (@RomchyFCC & @DarrenfJ). All
 complaints will be reviewed and investigated and will result in a response that
 is deemed necessary and appropriate to the circumstances. The project team is
 obligated to maintain confidentiality with regard to the reporter of an incident.
