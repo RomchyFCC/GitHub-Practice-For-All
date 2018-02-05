@@ -5,7 +5,7 @@
 body {
 	margin: 0;
 	padding: 0;
-	background: linear-gradient(90deg, purple, blue);
+	background: linear-gradient(180deg,blue,black, green);
 }
 
 .co-creator {
