@@ -6,7 +6,7 @@ Our FCC forum post: (https://forum.freecodecamp.org/t/git-and-github-practice-fo
 
 1. Fork a copy of this project to your own repository in the upper-right corner of this page!
 
-2. Keep your fork synched! You need to create a git clone in your local storage, the step by step guide is available here https://help.github.com/articles/fork-a-repo/
+2. Keep your fork synched! You need to create a git clone in your local storage, the step by step guide is available [here](## How to PR (pull request))
 
 3. Now open the files in your own text editor of choice. You will find the files in "The Website" folder.
 
