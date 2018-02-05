@@ -8,7 +8,7 @@ Our FCC forum post: (https://forum.freecodecamp.org/t/git-and-github-practice-fo
 
 2. Keep your fork synched! You need to create a git clone in your local storage, the step by step guide is available here https://help.github.com/articles/fork-a-repo/
 
-3. Now open the files in your own text editor of choice. You will find the files in "The Website" folder.
+3. Make a new branch (see instructions below) and then open the files in your own text editor of choice. You will find the files in "The Website" folder.
 
 4. Write your name anywhere in the file so it shows up in the webpage!
 
