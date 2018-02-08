@@ -29,6 +29,11 @@ body {
 #romchy {
 	position: relative;
 }
+#myName {
+	position: absolute;
+	top:300px;
+	left:300px;
+}
 .empty {
 	min-height: 200px;
 }
