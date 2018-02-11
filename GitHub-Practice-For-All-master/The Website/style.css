@@ -34,7 +34,7 @@ body {
 }
 
 .forkers {
-	background-color: lightblue; 
+	background-color: lightblue;
 }
 
 .motWrap {
@@ -78,4 +78,17 @@ position: relative;
 left: 100px;
 font-size: 1.25em;
 color: orange;
+}
+
+.stacy {
+	color: purple;
+	font-size: 1.5em;
+	margin: 2em;
+	text-align: center;
+	animation: pulse 1.5s ease alternate infinite;
+}
+
+@keyframes pulse {
+	0% {transform: scale(1);}
+	100% {transform: scale(2);}
 }
