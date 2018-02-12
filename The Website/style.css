@@ -5,7 +5,7 @@
 body {
 	margin: 0;
 	padding: 0;
-	background: linear-gradient(180deg,blue,black, green);
+	background: linear-gradient(225deg, orange, slateblue);
 }
 
 .co-creator {
@@ -52,6 +52,9 @@ body {
 .steamPunk {
 	color: blue;
 	text-shadow: 2px 0px 0 #F71735, 0 2px 0 #41EAD4;
+	position: absolute;
+	top: 123px;
+	left: 721px;
 }
 
 @keyframes rotate {
@@ -74,8 +77,9 @@ body {
 
 .dmac {
 font-family: Georgia;
-position: relative;
-left: 100px;
+position: absolute;
+top: 20px;
+left: 20px;
 font-size: 1.25em;
 color: orange;
 }
@@ -90,4 +94,33 @@ color: orange;
 @keyframes pulse {
 	0% {transform: scale(1);}
 	100% {transform: scale(2);}
+  
+.mills {
+	position: absolute;
+	bottom: 0;
+	margin: 0;
+	font-size: 20vmin;
+	font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+	font-weight: 100;
+  color: #fff;
+	letter-spacing: -70px;
+	opacity: 0;
+	animation: stretch forwards 1.5s;
+	animation-delay: 1s;
+	animation-timing-function: cubic-bezier(0, 1.14, .85, 1.36);
+	cursor: pointer;
+}
+
+@keyframes stretch {
+	0% { letter-spacing: -70px; opacity: 0 }
+	65% { letter-spacing: 180px; opacity: 0.25; }
+	80% { letter-spacing: -10px; opacity: 0.5; }
+	90% { letter-spacing: 10px; opacity: 0.75; }
+	100% { letter-spacing: normal; opacity: 1; }
+}
+
+.ariel {
+	position: absolute;
+	top: 440px;
+	left: 600px;
 }
