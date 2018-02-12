@@ -84,6 +84,14 @@ font-size: 1.25em;
 color: orange;
 }
 
+.sunny {
+position: absolute;
+top: 100px;
+left: 30px;
+font-size: 50px;
+color: red;
+}
+
 .stacy {
 	font-size: 1.5em;
 	color: purple;
