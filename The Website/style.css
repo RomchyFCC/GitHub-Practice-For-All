@@ -94,7 +94,8 @@ color: orange;
 @keyframes pulse {
 	0% {transform: scale(1);}
 	100% {transform: scale(2);}
-  
+}
+
 .mills {
 	position: absolute;
 	bottom: 0;
