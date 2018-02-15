@@ -8,6 +8,10 @@ body {
 	background: linear-gradient(225deg, orange, slateblue);
 }
 
+div {
+	border: solid black;
+}
+
 .co-creator {
 	margin-top: 15%;
 	color: lightblue;
