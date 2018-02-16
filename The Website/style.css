@@ -18,10 +18,11 @@ div {
 	text-transform: uppercase;
 	text-align: center;
 	font-size: 50px;
+	background: linear-gradient(90deg, rgba(0,0,0,0.2), rgb(0,0,0), rgba(0,0,0,0.2));
 }
 .romchy{
 	margin: 0;
-	padding: 0;
+	padding: 0 5px;
 	position: absolute;
 	left: 40%;
 	display: inline-block;
