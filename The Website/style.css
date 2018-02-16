@@ -144,3 +144,13 @@ color: red;
 	margin-left: 20px;
 	color: white; 
 }
+
+#secret {
+	width: 1px;
+	height: 1px;
+	background: transparent;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	border: none;
+}
