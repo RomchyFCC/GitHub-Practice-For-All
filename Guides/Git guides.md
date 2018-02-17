@@ -14,6 +14,8 @@ If you want to learn or just get more comfortable with Git, pick ONE of the cour
 
 [GitHub & Collaboration](https://www.udacity.com/course/github-collaboration--ud456)
 
+[How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+
 **Code School**
 
 [Try Git](https://try.github.io/levels/1/challenges/1)
