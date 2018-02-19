@@ -1,7 +1,6 @@
 window.addEventListener('click', ()=>{
   // Show picture when user clicks anywhere on screen
   document.getElementById("secret-picture").style.visibility = "visible";
-  // TODO Show picture only when user types secret word
 })
 
 let secretArray = ['r', 'o', 'm', 'c', 'h', 'y'];
@@ -16,14 +15,14 @@ const secretCompare = (e) => {
   let partialArray = secretArray.slice(0, userArray.length);
 
   //If key pressed doesn't match sliced secretArray, clear userArray
+  //so they can try again
   if(userArray.join('') !== partialArray.join('')) {
     userArray = [];
   }
 
-  //If user types secret code, do awesome stuff!
-  //Clear userArray so they can keep adding unicorns
+  //If user types secret code, show picture
   if(userArray.join('') === secretArray.join('')) {
-    cornify_add();
+    document.getElementById("secret-picture").style.visibility = "visible";
     userArray = [];
   }
 }
