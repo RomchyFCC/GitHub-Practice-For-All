@@ -1,3 +1,3 @@
-document.querySelector('#secret').addEventListener('mouseover', ()=>{
-  cornify_add();
+window.addEventListener('click', ()=>{
+  document.getElementById("secret-picture").style.visibility = "visible";
 })
