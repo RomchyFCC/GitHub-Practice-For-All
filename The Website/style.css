@@ -111,6 +111,7 @@ color: red;
 	animation: pulse 1.5s ease alternate infinite;
 }
 
+
 @keyframes pulse {
 	0% {transform: scale(1);}
 	100% {transform: scale(2);}
@@ -160,4 +161,20 @@ color: red;
 	top: 50%;
 	left: 50%;
 	border: none;
+}
+
+.sheena-style{
+	position: absolute;
+	font-size: 30px;
+	text-decoration: none;
+	margin:20px;
+	background: transparent;
+	color:#fff;
+	box-shadow: 0 20px 10px #000;
+	padding:30px;
+	margin-top: 150px;
+}
+.sheena-style:hover{
+	background:#fff;
+	color:#000;
 }
