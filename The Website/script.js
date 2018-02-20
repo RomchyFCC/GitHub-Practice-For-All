@@ -3,7 +3,7 @@ window.addEventListener('click', ()=>{
   document.getElementById("secret-picture").style.visibility = "visible";
 })
 
-let secretArray = ['r', 'o', 'm', 'c', 'h', 'y'];
+let secretArray = ['m','i','l','l','s',' ','r','u','l','e','s'];
 let userArray = [];
 
 const secretCompare = (e) => {
