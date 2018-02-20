@@ -161,3 +161,12 @@ color: red;
 	left: 50%;
 	border: none;
 }
+
+#ppessi {
+	font-family: "Comic Sans MS";
+	color: Chartreuse;
+	background: DeepPink;
+	font-size: 40px;
+	padding: 10px;
+	border: 5px dashed Yellow;
+}
