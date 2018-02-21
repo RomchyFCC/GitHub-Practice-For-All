@@ -7,7 +7,7 @@ body {
 	padding: 0;
 	background: url('./img/feather-3010848_1280.jpg');
 	background-size: cover;
-	
+
 }
 
 div {
@@ -133,6 +133,7 @@ color: red;
 	animation-delay: 1s;
 	animation-timing-function: cubic-bezier(0, 1.14, .85, 1.36);
 	cursor: pointer;
+	text-shadow: 4px 4px 4px #000;
 }
 
 @keyframes stretch {
@@ -192,4 +193,3 @@ color: red;
 	padding: 10px;
 	border: 5px dashed Yellow;
 }
-
