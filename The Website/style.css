@@ -163,6 +163,7 @@ color: red;
 	border: none;
 }
 
+
 .sheena-style{
 	position: static;
 	margin-top: 50px;
@@ -180,3 +181,13 @@ color: red;
 .sheena-style:hover{
 	background:#fff;
 }
+
+#ppessi {
+	font-family: "Comic Sans MS";
+	color: Chartreuse;
+	background: DeepPink;
+	font-size: 40px;
+	padding: 10px;
+	border: 5px dashed Yellow;
+}
+
