@@ -111,6 +111,7 @@ color: red;
 	animation: pulse 1.5s ease alternate infinite;
 }
 
+
 @keyframes pulse {
 	0% {transform: scale(1);}
 	100% {transform: scale(2);}
@@ -162,6 +163,25 @@ color: red;
 	border: none;
 }
 
+
+.sheena-style{
+	position: static;
+	margin-top: 50px;
+	background: transparent;
+	box-shadow: 5px 5px 10px #000;
+	padding:30px;
+	width:15%;
+
+}
+.sheena-style a{
+	font-size: 30px;
+	text-decoration: none;
+	color:#000;
+}
+.sheena-style:hover{
+	background:#fff;
+}
+
 #ppessi {
 	font-family: "Comic Sans MS";
 	color: Chartreuse;
@@ -170,3 +190,4 @@ color: red;
 	padding: 10px;
 	border: 5px dashed Yellow;
 }
+
