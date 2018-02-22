@@ -1,4 +1,5 @@
 # GitHub-Practice-For-All
+[![first-timers-only](http://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](http://www.firsttimersonly.com/)
 
 Our FCC forum post: (https://forum.freecodecamp.org/t/git-and-github-practice-for-all-us-noobies/171808)
 
