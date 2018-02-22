@@ -2,6 +2,8 @@
 
 Our FCC forum post: (https://forum.freecodecamp.org/t/git-and-github-practice-for-all-us-noobies/171808)
 
+[![first-timers-only](http://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](http://www.firsttimersonly.com/)
+
 ### How to contribute, TL;DR Version
 
 1. Fork a copy of this project to your own repository in the upper-right corner of this page!
