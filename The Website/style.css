@@ -11,7 +11,8 @@ body {
 }
 
 div {
-	border: solid black;
+	border: groove #022c4d 1px;
+	padding: 20px;
 }
 
 .co-creator {
