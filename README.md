@@ -1,4 +1,5 @@
 # GitHub-Practice-For-All
+[![first-timers-only](http://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](http://www.firsttimersonly.com/)
 
 Our FCC forum post: (https://forum.freecodecamp.org/t/git-and-github-practice-for-all-us-noobies/171808)
 
@@ -6,7 +7,7 @@ Our FCC forum post: (https://forum.freecodecamp.org/t/git-and-github-practice-fo
 
 1. Fork a copy of this project to your own repository in the upper-right corner of this page!
 
-2. Keep your fork synched! You need to create a git clone in your local storage, the step by step guide is available here https://help.github.com/articles/fork-a-repo/
+2. Keep your fork synched! You need to create a git clone in your local storage, the step by step guide is available [here](#how-to-pr)
 
 3. Now open the files in your own text editor of choice. You will find the files in "The Website" folder.
 
@@ -57,7 +58,8 @@ Aside from that, stick to the fork-pull workflow outlined below.
 
 <b>Below, you will find the summary of git guides from the Guides file. </b>
 
-## How to PR (pull request)
+## How to PR
+(pull request)
 
 + On your forked verision of the repo on GitHub, click the green 'clone or download' button and copy the link.
   + The link will look something like this: `https://github.com/RomchyFCC/GitHub-Practice-For-All.git` (but with your username, not mine)
