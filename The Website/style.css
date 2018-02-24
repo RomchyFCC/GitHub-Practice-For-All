@@ -3,8 +3,9 @@
 */
 
 body {
-	margin: 0;
-	padding: 0;
+	margin: 50px;
+	padding: 50px;
+    border:50px;
 	background: url('./img/feather-3010848_1280.jpg');
 	background-size: cover;
 
@@ -103,10 +104,10 @@ color: orange;
 
 .sunny {
 position: absolute;
-top: 100px;
-left: 30px;
+top: 40px;
+left: 60px;
 font-size: 50px;
-color: red;
+color: #ff00eb;
 }
 
 .stacy {
@@ -129,6 +130,7 @@ color: red;
 	font-size: 20vmin;
 	font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
 	font-weight: 100;
+    top:400px;
   color: #fff;
 	letter-spacing: -70px;
 	opacity: 0;
@@ -150,7 +152,8 @@ color: red;
 .ariel {
 	position: absolute;
 	top: 440px;
-	left: 600px;
+	left: 1000px;
+    color:azure;
 }
 
 .firuz {
