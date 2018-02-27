@@ -72,6 +72,10 @@ div {
 	top: 123px;
 	left: 721px;
 }
+#sun00{
+	font-size: 100px;
+	color:rgb(69, 240, 126);
+}
 
 @keyframes rotate {
   0%{ transform: rotateZ(270deg) }
