@@ -1,25 +1,33 @@
 # GitHub-Practice-For-All
 [![first-timers-only](http://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](http://www.firsttimersonly.com/)
 
-Our FCC forum post: (https://forum.freecodecamp.org/t/git-and-github-practice-for-all-us-noobies/171808)
+[Project Website](https://romchyfcc.github.io/GitHub-Practice-For-All/)
 
-### How to contribute, TL;DR Version
+[FreeCodeCamp Forum Post](https://forum.freecodecamp.org/t/git-and-github-practice-for-all-us-noobies/171808)
+
+[Our Contributors so far!](#Contributors)
+
+### How to contribute: 
 
 1. Fork a copy of this project to your own repository in the upper-right corner of this page!
 
-2. Keep your fork synched! You need to create a git clone in your local storage, the step by step guide is available [here](#how-to-pr)
+2. Now create a `git clone` in your local storage, the step by step guide is available [here](#how-to-pr)
+ - Create a new branch `git checkout -b <branch-name>`
+ - Set `upstream` branch so you can keep your local files synched with the original repository; [Details](#How-to-sync-your-local-repo-with-the-original-repo)
 
-3. Now open the files in your own text editor of choice. You will find the files in "The Website" folder.
+3. Now open the files in your own text editor of choice.
 
 4. Write your name anywhere in the file so it shows up in the webpage!
 
-5. Now git push the changes made to your own repository (if you use git push origin master it will automaticly put it in your forked repository, no need to fear that your git push will affect the original repository-this one)
+5. Now git push the changes made to your own repository `git push origin <branch-name>`
 
-6. SUBMIT A PULL REQUEST ON GITHUB (How to steps written below)
+6. Submit a pull request in this repository; [Details](#how-to-pr)
 
-7. THAT'S IT, YOU'RE DONE, YOU SUCCESSFULLY CONTRIBUTED TO THE PROJECT AND HOPEFULLY LEARNED SOMETHING ALONG THE WAY
+7. THAT'S IT, you're done, we will review the Pull Request and if it fits the theme, we will merge.
 
-8. Extra credit if you stay around for a few git pull's and more pull requests.
+8. For the best team like experience, stay in sync with our repository and contribute more by resolving our [issues](https://github.com/RomchyFCC/GitHub-Practice-For-All/issues) or submit your own!
+
+9. Thank you for contributing!
 
 
 A few guidance rules to follow:
@@ -34,7 +42,7 @@ A few guidance rules to follow:
 ---
 
 
-#### Thank you JacksonBates @ https://github.com/JacksonBates for the well written contributions documentation
+#### Thank you [JacksonBates](https://github.com/JacksonBates) for the well written contributions documentation
 
 # Contributing
 
@@ -202,3 +210,29 @@ available at [http://contributor-covenant.org/version/1/4][version]
 ## Any questions?
 
 Could this CONTRIBUTING file be improved? Was anything inaccurate or unclear? Please open up an issue and suggest appropriate fixes. Good documentation is just as crucial as good code - so documentation contributions are just as valued as fancy code contributions!
+
+## Contributors
+
+- [Darren](https://github.com/DarrenfJ)
+- [Ariel Leslie](https://github.com/ArielLeslie)
+- [Ivan Oung](https://github.com/ivanoung)
+- [Tom](https://github.com/moT01)
+- [Aaron Schmidt](https://github.com/Schmidt-Aaron)
+- [Alex Nielsen](https://github.com/bushbass)
+- [Sachithra Lahiru Kahatapitiya](https://github.com/Sacheec47)
+- [dmac0505](https://github.com/dmac0505)
+- [Alan Moir](https://github.com/mills3)
+- [stacyHere](https://github.com/stacyHere)
+- [akashksunny13](https://github.com/akashksunny13)
+- [Firuz Shoev](https://github.com/FiruzShoev)
+- [Bratislav](https://github.com/bracar)
+- [Catherine Fromont](https://github.com/catherinefromont)
+- [Tian](https://github.com/tian-dutoit)
+- [Elyse Wyatt](https://github.com/ElyseWyatt)
+- [rkimmi](https://github.com/rkimmi)
+- [Sheena Mattu](https://github.com/sheenapercy)
+- [Pinja Pessi](https://github.com/ppessi)
+- [h1tag](https://github.com/h1tag)
+- [Danielle Shwed](https://github.com/danielleshwed)
+- [dinamahmoud25](https://github.com/dinamahmoud25)
+- [sunil](https://github.com/usunil0)

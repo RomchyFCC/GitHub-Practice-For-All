@@ -5,13 +5,14 @@
 body {
 	margin: 50px;
 	padding: 50px;
-    border:50px;
+  border:50px;
 	background: url('./img/feather-3010848_1280.jpg');
 	background-size: cover;
 
 }
 
 div {
+	display: inline-block;
 	border: groove #022c4d 1px;
 	padding: 20px;
 }
@@ -72,6 +73,7 @@ div {
 	top: 123px;
 	left: 721px;
 }
+
 #sun00{
 	font-size: 100px;
 	color:rgb(69, 240, 126);
@@ -94,8 +96,6 @@ div {
 	font-size: 5em;
 	text-shadow: 5px 5px 6px crimson;
 }
-<<<<<<< HEAD
-=======
 
 .dmac {
 font-family: Georgia;
@@ -128,13 +128,14 @@ color: #ff00eb;
 }
 
 .mills {
+	border: 1px solid red;
 	position: absolute;
-	bottom: 0;
 	margin: 0;
 	font-size: 20vmin;
 	font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
 	font-weight: 100;
-    top:400px;
+	top: 50px;
+	left: 900px;
   color: #fff;
 	letter-spacing: -70px;
 	opacity: 0;
@@ -143,6 +144,7 @@ color: #ff00eb;
 	animation-timing-function: cubic-bezier(0, 1.14, .85, 1.36);
 	cursor: pointer;
 	text-shadow: 4px 4px 4px #000;
+	height: 290px;
 }
 
 @keyframes stretch {
@@ -232,4 +234,3 @@ color: #ff00eb;
   100%{transform : rotate(360deg);}
 }
 /* Code above is added by Sachithra. */
->>>>>>> upstream/master
