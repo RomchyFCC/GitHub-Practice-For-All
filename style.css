@@ -163,9 +163,14 @@ color: #ff00eb;
 }
 
 .firuz {
-	font-size: 30px;
+	font-size: 40px;
+	font-weight: 900;
 	margin-left: 20px;
-	color: white;
+	color: transparent;
+	background: linear-gradient(#444110, #f6e46a, #444110);
+	background-clip: text;
+	position: absolute;
+	left: 350px;
 }
 
 #secret {
