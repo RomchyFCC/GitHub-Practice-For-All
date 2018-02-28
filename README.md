@@ -5,7 +5,7 @@
 
 [FreeCodeCamp Forum Post](https://forum.freecodecamp.org/t/git-and-github-practice-for-all-us-noobies/171808)
 
-[Our Contributors so far!](#Contributors)
+[Our Contributors so far!](#contributors)
 
 ### How to contribute: 
 
@@ -13,7 +13,7 @@
 
 2. Now create a `git clone` in your local storage, the step by step guide is available [here](#how-to-pr)
  - Create a new branch `git checkout -b <branch-name>`
- - Set `upstream` branch so you can keep your local files synched with the original repository; [Details](#How-to-sync-your-local-repo-with-the-original-repo)
+ - Set `upstream` branch so you can keep your local files synched with the original repository; [Details](#how-to-sync-your-local-repo-with-the-original-repo)
 
 3. Now open the files in your own text editor of choice.
 
