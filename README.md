@@ -236,3 +236,4 @@ Could this CONTRIBUTING file be improved? Was anything inaccurate or unclear? Pl
 - [Danielle Shwed](https://github.com/danielleshwed)
 - [dinamahmoud25](https://github.com/dinamahmoud25)
 - [sunil](https://github.com/usunil0)
+- [Nirmal Dalmia](https://github.com/nirmaldalmia)
