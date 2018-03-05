@@ -27,4 +27,37 @@ const secretCompare = (e) => {
   }
 }
 
+(function () {
+  'use strict';
+
+  // Get RGB channels from a Random Numbers
+  function RGBFromRandom() {
+    return [
+      (Math.floor(Math.random()*(255-0+1)+0)),
+      (Math.floor(Math.random()*(255-0+1)+0)),
+      (Math.floor(Math.random()*(255-0+1)+0))
+    ].map(Math.round);
+  }
+
+  // Get color luminance as a float from RGB channels
+  function colorLuminance(red, green, blue) {
+    return ((0.299 * red) + (0.587 * green) + (0.114 * blue)) / 256;
+  }
+
+  // Get font color from RGB channels from background
+  function colorFromRGB(red, green, blue) {
+    return colorLuminance(red, green, blue) > 0.7 ? 'black' : 'white';
+  }
+
+    function color() {
+    var channels = RGBFromRandom();
+
+    document.getElementById('mukul').style.color=colorFromRGB.apply(this, channels);
+    document.getElementById('mukul').style.color = 'rgb(' + channels.join(',') + ')';
+}
+
+  var t = setInterval(color, 100);
+}());
+
+
 document.addEventListener('keydown', (e) => secretCompare(e));
