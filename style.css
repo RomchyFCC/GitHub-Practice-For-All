@@ -97,6 +97,23 @@ div {
 	text-shadow: 5px 5px 6px crimson;
 }
 
+#i3123708 {
+  position: absolute;
+  margin-left: 500px;
+  border: none !important;
+}
+
+#i3123708 a {
+  padding: 10px;
+  font-size: 24px;
+  font-weight: bold;
+  font-family: 'Consolas', sans-serif;
+  text-decoration: none;
+  color: #2ed5ff;
+  background: #fa2f4a;
+  border-radius: 10px;
+}
+
 .dmac {
 font-family: Georgia;
 position: absolute;
