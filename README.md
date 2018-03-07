@@ -237,3 +237,5 @@ Could this CONTRIBUTING file be improved? Was anything inaccurate or unclear? Pl
 - [dinamahmoud25](https://github.com/dinamahmoud25)
 - [sunil](https://github.com/usunil0)
 - [Nirmal Dalmia](https://github.com/nirmaldalmia)
+- [mukul7](https://github.com/mukul7)
+- [Ivan Yakimov](https://github.com/ivan3123708)
