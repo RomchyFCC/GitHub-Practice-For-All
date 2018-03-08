@@ -9,25 +9,25 @@
 
 ### How to contribute: 
 
-1. Fork a copy of this project to your own repository in the upper-right corner of this page!
++ Fork a copy of this project to your own repository in the upper-right corner of this page!
 
-2. Now create a `git clone` in your local storage, the step by step guide is available [here](#how-to-pr)
-  - Create a new branch `git checkout -b <branch-name>`
-  - Set `upstream` branch so you can keep your local files synched with the original repository; [Details](#how-to-sync-your-local-repo-with-the-original-repo)
++ Now create a `git clone` in your local storage, the step by step guide is available [here](#how-to-pr)
+  + Create a new branch `git checkout -b <branch-name>`
+  + Set `upstream` branch so you can keep your local files synched with the original repository; [Details](#how-to-sync-your-local-repo-with-the-original-repo)
 
-3. Now open the files in your own text editor of choice.
++ Now open the files in your own text editor of choice.
 
-4. Write your name anywhere in the file so it shows up in the webpage!
++ Write your name anywhere in the file so it shows up in the webpage!
 
-5. Now git push the changes made to your own repository `git push origin <branch-name>`
++ Now git push the changes made to your own repository `git push origin <branch-name>`
 
-6. Submit a pull request in this repository; [Details](#how-to-pr)
++ Submit a pull request in this repository; [Details](#how-to-pr)
 
-7. THAT'S IT, you're done, we will review the Pull Request and if it fits the theme, we will merge.
++ THAT'S IT, you're done, we will review the Pull Request and if it fits the theme, we will merge.
 
-8. For the best team like experience, stay in sync with our repository and contribute more by resolving our [issues](https://github.com/RomchyFCC/GitHub-Practice-For-All/issues) or submit your own!
++ For the best team like experience, stay in sync with our repository and contribute more by resolving our [issues](https://github.com/RomchyFCC/GitHub-Practice-For-All/issues) or submit your own!
 
-9. Thank you for contributing!
++ Thank you for contributing!
 
 
 A few guidance rules to follow:
