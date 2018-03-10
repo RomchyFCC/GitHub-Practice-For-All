@@ -9,25 +9,27 @@
 
 ### How to contribute: 
 
-+ Fork a copy of this project to your own repository in the upper-right corner of this page!
+1. Fork a copy of this project to your own repository in the upper-right corner of this page!
 
-+ Now create a `git clone` in your local storage, the step by step guide is available [here](#how-to-pr)
-  + Create a new branch `git checkout -b <branch-name>`
-  + Set `upstream` branch so you can keep your local files synched with the original repository; [Details](#how-to-sync-your-local-repo-with-the-original-repo)
+2. Now create a `git clone` in your local storage, the step by step guide is available [here](#how-to-pr)
 
-+ Now open the files in your own text editor of choice.
+   - Create a new branch `git checkout -b <branch-name>`
+   - Set `upstream` branch so you can keep your local files synched with the original repository; [Details](#how-to-sync-your-local-repo-with-the-original-repo)
 
-+ Write your name anywhere in the file so it shows up in the webpage!
+3. Now open the files in your own text editor of choice.
 
-+ Now git push the changes made to your own repository `git push origin <branch-name>`
+4. Write your name anywhere in the file so it shows up in the webpage!
 
-+ Submit a pull request in this repository; [Details](#how-to-pr)
+5. Now git push the changes made to your own repository `git push origin <branch-name>`
 
-+ THAT'S IT, you're done, we will review the Pull Request and if it fits the theme, we will merge.
+6. Submit a pull request in this repository; [Details](#how-to-pr)
 
-+ For the best team like experience, stay in sync with our repository and contribute more by resolving our [issues](https://github.com/RomchyFCC/GitHub-Practice-For-All/issues) or submit your own!
+7. THAT'S IT, you're done, we will review the Pull Request and if it fits the theme, we will merge.
 
-+ Thank you for contributing!
+8. For the best team like experience, stay in sync with our repository and contribute more by resolving our [issues](https://github.com/RomchyFCC/GitHub-Practice-For-All/issues) or submit your own!
+
+9. Thank you for contributing!
+
 
 
 A few guidance rules to follow:
@@ -240,3 +242,4 @@ Could this CONTRIBUTING file be improved? Was anything inaccurate or unclear? Pl
 - [mukul7](https://github.com/mukul7)
 - [Ivan Yakimov](https://github.com/ivan3123708)
 - [Ayush](https://github.com/heyayushh)
+- [Bing](https://github.com/BingZL1983)
