@@ -3,8 +3,6 @@
 */
 
 body {
-	/*margin: 50px;
-	padding: 50px;*/
   border:50px;
 	background: url('./img/feather-3010848_1280.jpg');
 	background-size: cover;
@@ -23,7 +21,6 @@ div {
 }
 
 .co-creator {
-	/*margin-top: 15%;*/
 	color: lightblue;
 	text-transform: uppercase;
 	text-align: center;
@@ -34,7 +31,6 @@ div {
 	margin: 0;
 	padding: 0 5px;
 	position: relative;
-	/*left: 40%;*/
 	display: inline-block;
 	transform: rotateZ(270deg);
 	animation: rotate 3s infinite alternate;
@@ -47,8 +43,6 @@ div {
 
 #secret-picture{
 	position: relative;
-	/*top: 20px;
-	right: 100px;*/
 	visibility: hidden;
 }
 .empty {
@@ -74,8 +68,6 @@ div {
 	color: blue;
 	text-shadow: 2px 0px 0 #F71735, 0 2px 0 #41EAD4;
 	position: relative;
-	/*top: 123px;
-	left: 721px;*/
 }
 
 #sun00{
@@ -103,7 +95,6 @@ div {
 
 #i3123708 {
   position: relative;
-  /*margin-left: 500px;*/
   border: none !important;
 }
 
@@ -121,16 +112,11 @@ div {
 .dmac {
 font-family: Georgia;
 position: relative;
-/*top: 20px;
-left: 20px;*/
 font-size: 1.25em;
 color: orange;
 }
 
 .sunny {
-/*position: relative;
-top: 40px;
-left: 60px;*/
 font-size: 50px;
 color: #ff00eb;
 }
@@ -142,39 +128,22 @@ color: #ff00eb;
 	animation: pulse 1.5s ease alternate infinite;
 }
 
-
 @keyframes pulse {
 	0% {transform: scale(1);}
 	100% {transform: scale(2);}
 }
 
 .mills {
-	border: 1px solid red;
+	border: 1px solid #000;
 	position: relative;
 	margin: 0;
-	font-size: 20vmin;
+	font-size: 10vmin;
+  text-align: center;
 	font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
-	font-weight: 100;
-	/*top: 50px;
-	left: 900px;*/
   color: #fff;
-	letter-spacing: -70px;
-	opacity: 0;
-	animation: stretch forwards 1.5s;
-	animation-delay: 1s;
-	animation-timing-function: cubic-bezier(0, 1.14, .85, 1.36);
 	cursor: pointer;
-	text-shadow: 4px 4px 4px #000;
-	height: 290px;
+	text-shadow: 2px 2px 2px #000;
 	text-decoration: none;
-}
-
-@keyframes stretch {
-	0% { letter-spacing: -70px; opacity: 0 }
-	65% { letter-spacing: 180px; opacity: 0.25; }
-	80% { letter-spacing: -10px; opacity: 0.5; }
-	90% { letter-spacing: 10px; opacity: 0.75; }
-	100% { letter-spacing: normal; opacity: 1; }
 }
 
 .ariel-container {
@@ -184,8 +153,6 @@ color: #ff00eb;
 }
 .ariel {
 	position: relative;
-	/*top: 440px;
-	left: 1000px;*/
 	font-size: 24px;
   color: transparent;
   background: linear-gradient(to right, red, yellow, green, blue);
@@ -196,13 +163,11 @@ color: #ff00eb;
 .firuz {
 	font-size: 30px;
 	font-weight: 900;
-	/*margin-left: 20px;*/
 	color: transparent;
 	background: linear-gradient(0deg, #444110, #f6e46a, #444110);
 	background-clip: text;
 	-webkit-background-clip: text;
 	position: relative;
-	/*left: 350px;*/
 }
 
 #secret {
@@ -215,15 +180,11 @@ color: #ff00eb;
 	border: none;
 }
 
-
 .sheena-style{
 	position: static;
-	/*margin-top: 50px;*/
 	background: transparent;
 	box-shadow: 5px 5px 10px #000;
 	padding:30px;
-	/*width:15%;*/
-
 }
 .sheena-style a{
 	font-size: 30px;
@@ -245,16 +206,12 @@ color: #ff00eb;
 /* Code below is added by Sachithra. */
 #c47{
 	position:relative;
-	/*left: 515px;
-	top: 100px;*/
 	color: #ff00de;
   text-shadow:0 0 1px #fff, 0 0 2px #fff, 0 0 8px #ff00de,0 0 10px #ff00de;
 	font-size: 20px;
 }
 #break{
   position:relative;
-	/*left: 500px;
-	top: 60px;*/
   width: 100px;
   height: 100px;
   border-radius: 50%;

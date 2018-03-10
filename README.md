@@ -9,7 +9,6 @@
 
 ### How to contribute: 
 
-
 1. Fork a copy of this project to your own repository in the upper-right corner of this page!
 
 2. Now create a `git clone` in your local storage, the step by step guide is available [here](#how-to-pr)
@@ -242,4 +241,5 @@ Could this CONTRIBUTING file be improved? Was anything inaccurate or unclear? Pl
 - [Nirmal Dalmia](https://github.com/nirmaldalmia)
 - [mukul7](https://github.com/mukul7)
 - [Ivan Yakimov](https://github.com/ivan3123708)
+- [Ayush](https://github.com/heyayushh)
 - [Bing](https://github.com/BingZL1983)
