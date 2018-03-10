@@ -7,16 +7,15 @@
 
 [Our Contributors so far!](#contributors)
 
-### **How to contribute**: 
+### How to contribute: 
 
 
 1. Fork a copy of this project to your own repository in the upper-right corner of this page!
 
 2. Now create a `git clone` in your local storage, the step by step guide is available [here](#how-to-pr)
 
-   &#8226; Create a new branch `git checkout -b <branch-name>`
-  
-   &#8226; Set `upstream` branch so you can keep your local files synched with the original repository; [Details](#how-to-sync-your-local-repo-with-the-original-repo)
+   - Create a new branch `git checkout -b <branch-name>`
+   - Set `upstream` branch so you can keep your local files synched with the original repository; [Details](#how-to-sync-your-local-repo-with-the-original-repo)
 
 3. Now open the files in your own text editor of choice.
 
