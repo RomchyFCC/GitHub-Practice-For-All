@@ -228,3 +228,14 @@ color: #ff00eb;
   100%{transform : rotate(360deg);}
 }
 /* Code above is added by Sachithra. */
+
+.h1tag{
+  position: relative;
+}
+
+.h1tag a{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
