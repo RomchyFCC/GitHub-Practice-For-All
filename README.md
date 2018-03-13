@@ -79,13 +79,15 @@ Aside from that, stick to the fork-pull workflow outlined below.
 + In your terminal navigate to the folder that was just created.
   + The command for this is `cd`
   + eg: `cd GitHub-Practice-For-All`
-+ If your version of the repo is ever out of sync with the original repo, i.e. there are new commits on the master branch of the original that you don't have, you need to sync your repo before adding your contributions. **See below, in the section called 'How to sync your local repo with the original repo' for details**
++ If your version of the repo is ever out of sync with the original repo, i.e. there are new commits on the master branch of the original that you don't have, you need to sync your repo before adding your contributions. **See below, in the section called 'How to sync your local repo with the original repo' for details or click [here](#how-to-sync-your-local-repo-with-the-original-repo)**
 + **Create a new branch to work on** (you'll do this for your real contributions, too).
   + At the terminal, in the correct folder, run `git checkout -b <new-branch-name>`
   + `<new-branch-name>` should be replaced with something sensible, like `feature-login-form` or `fix-login-bug`
   + All together, an example: `git checkout -b feature-login-form`
 + Make the changes to the appropriate files.
 + Push your change to your fork:
+  + `git add .` (the `.` adds all modified and created items up for commit)
+  + `git commit -m "<comment-about-your-commit>"` (the `-m` signifies that you will pass a commit comment as an argument in quotes)
   + `git push origin <your-branch-name>`
 + Open a pull request. Follow the guide here: [Creating a pull request from a fork](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
   + @mention anyone you specifically want to review your PR
@@ -243,3 +245,4 @@ Could this CONTRIBUTING file be improved? Was anything inaccurate or unclear? Pl
 - [Ivan Yakimov](https://github.com/ivan3123708)
 - [Ayush](https://github.com/heyayushh)
 - [Bing](https://github.com/BingZL1983)
+- [Dimitra Karamperi](https://github.com/dimikara)
