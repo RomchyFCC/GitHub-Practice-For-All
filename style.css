@@ -261,3 +261,26 @@ margin-bottom: -10px;
   left: 50%;
   transform: translate(-50%, -50%);
 }
+
+.daria {
+  box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.6);
+  background-color: #cdcdc0;
+}
+.daria,
+.daria a
+{
+  color: #626d71 ;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration : none;
+  transition: color 0.5s;
+
+}
+.daria {
+  text-shadow: 4px 4px 2px rgba(150, 150, 150, 1);
+  padding-top: 30%;
+  text-align: center;
+}
+
+.daria a:hover {
+  color: #ddbc95;
+}
