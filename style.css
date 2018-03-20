@@ -3,51 +3,50 @@
 */
 
 body {
-  border: 50px;
-  background: url('./img/feather-3010848_1280.jpg');
-  background-size: cover;
-  background-repeat: no-repeat;
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-  grid-gap: 10px;
+  border:50px;
+	background: url('./img/feather-3010848_1280.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+	grid-gap: 10px;
   overflow-x: hidden;
 }
 
 div {
-  display: inline-block;
-  border: groove #022c4d 1px;
-  padding: 20px;
+	display: inline-block;
+	border: groove #022c4d 1px;
+	padding: 20px;
 }
 
 .co-creator {
-  color: lightblue;
-  text-transform: uppercase;
-  text-align: center;
-  font-size: 50px;
-  background: linear-gradient(90deg, rgba(0, 0, 0, 0.2), rgb(0, 0, 0), rgba(0, 0, 0, 0.2));
+	color: lightblue;
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 50px;
+	background: linear-gradient(90deg, rgba(0,0,0,0.2), rgb(0,0,0), rgba(0,0,0,0.2));
 }
-
-.romchy {
-  margin: 0;
-  padding: 0 5px;
-  position: relative;
-  display: inline-block;
-  transform: rotateZ(270deg);
-  animation: rotate 3s infinite alternate;
-  color: orange;
+.romchy{
+	margin: 0;
+	padding: 0 5px;
+	position: relative;
+	display: inline-block;
+	transform: rotateZ(270deg);
+	animation: rotate 3s infinite alternate;
+	color: orange;
 }
 
 #romchy {
-  position: relative;
+	position: relative;
 }
 
-#secret-picture {
-  position: relative;
-  visibility: hidden;
+#secret-picture{
+	position: relative;
+	visibility: hidden;
 }
-
 .empty {
-  min-height: 200px;
+	min-height: 200px;
 }
 
 .motWrap {
@@ -66,39 +65,32 @@ div {
 }
 
 .steamPunk {
-  color: blue;
-  text-shadow: 2px 0px 0 #F71735, 0 2px 0 #41EAD4;
-  position: relative;
+	color: blue;
+	text-shadow: 2px 0px 0 #F71735, 0 2px 0 #41EAD4;
+	position: relative;
 }
 
-#sun00 {
-  font-size: 50px;
-  color: rgb(69, 240, 126);
+#sun00{
+	font-size: 50px;
+	color:rgb(69, 240, 126);
 }
 
 @keyframes rotate {
-  0% {
-    transform: rotateZ(270deg)
-  }
-  50% {
-    transform: rotateZ(450deg)
-  }
-  100% {
-    transform: rotateZ(0deg)
-  }
+  0%{ transform: rotateZ(270deg) }
+  50%{ transform: rotateZ(450deg) }
+  100%{ transform: rotateZ(0deg) }
 }
 
 #alex-nielsen {
-  text-align: right;
-  color: yellow;
-  font-size: 1.5em;
+	text-align: right;
+	color: yellow;
+	font-size: 1.5em;
   transition-property: font-size;
   transition-duration: 2s;
 }
-
 #alex-nielsen:hover {
-  font-size: 5em;
-  text-shadow: 5px 5px 6px crimson;
+	font-size: 5em;
+	text-shadow: 5px 5px 6px crimson;
 }
 
 #i3123708 {
@@ -118,127 +110,116 @@ div {
 }
 
 .dmac {
-  font-family: Georgia;
-  position: relative;
-  font-size: 1.25em;
-  color: orange;
+font-family: Georgia;
+position: relative;
+font-size: 1.25em;
+color: orange;
 }
 
 .sunny {
-  font-size: 50px;
-  color: #ff00eb;
+font-size: 50px;
+color: #ff00eb;
 }
 
 .stacy {
-  font-size: 1.5em;
-  color: purple;
-  text-align: center;
-  animation: pulse 1.5s ease alternate infinite;
+	font-size: 1.5em;
+	color: purple;
+	text-align: center;
+	animation: pulse 1.5s ease alternate infinite;
 }
 
 @keyframes pulse {
-  0% {
-    transform: scale(1);
-  }
-  100% {
-    transform: scale(2);
-  }
+	0% {transform: scale(1);}
+	100% {transform: scale(2);}
 }
 
 .mills {
-  border: 1px solid #000;
-  position: relative;
-  margin: 0;
-  font-size: 10vmin;
+	border: 1px solid #000;
+	position: relative;
+	margin: 0;
+	font-size: 10vmin;
   text-align: center;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+	font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
   color: #fff;
-  cursor: pointer;
-  text-shadow: 2px 2px 2px #000;
-  text-decoration: none;
+	cursor: pointer;
+	text-shadow: 2px 2px 2px #000;
+	text-decoration: none;
 }
 
 .ariel-container {
-  background: #2a2a2a;
-  display: flex;
-  justify-content: center;
+	background: #2a2a2a;
+	display: flex;
+	justify-content: center;
 }
-
 .ariel {
-  position: relative;
-  font-size: 24px;
+	position: relative;
+	font-size: 24px;
   color: transparent;
   background: linear-gradient(to right, red, yellow, green, blue);
-  background-clip: text;
-  -webkit-background-clip: text;
+	background-clip: text;
+	-webkit-background-clip: text;
 }
 
 .firuz {
-  font-size: 30px;
-  font-weight: 900;
-  color: transparent;
-  background: linear-gradient(0deg, #444110, #f6e46a, #444110);
-  background-clip: text;
-  -webkit-background-clip: text;
-  position: relative;
+	font-size: 30px;
+	font-weight: 900;
+	color: transparent;
+	background: linear-gradient(0deg, #444110, #f6e46a, #444110);
+	background-clip: text;
+	-webkit-background-clip: text;
+	position: relative;
 }
 
 #secret {
-  width: 1px;
-  height: 1px;
-  background: transparent;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  border: none;
+	width: 1px;
+	height: 1px;
+	background: transparent;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	border: none;
 }
 
-.sheena-style {
-  position: static;
-  background: transparent;
-  box-shadow: 5px 5px 10px #000;
-  padding: 30px;
+.sheena-style{
+	position: static;
+	background: transparent;
+	box-shadow: 5px 5px 10px #000;
+	padding:30px;
 }
-
-.sheena-style a {
-  font-size: 30px;
-  text-decoration: none;
-  color: #000;
+.sheena-style a{
+	font-size: 30px;
+	text-decoration: none;
+	color:#000;
 }
-
-.sheena-style:hover {
-  background: #fff;
+.sheena-style:hover{
+	background:#fff;
 }
 
 #ppessi {
-  font-family: "Comic Sans MS";
-  color: Chartreuse;
-  background: DeepPink;
-  font-size: 40px;
-  padding: 10px;
-  border: 5px dashed Yellow;
+	font-family: "Comic Sans MS";
+	color: Chartreuse;
+	background: DeepPink;
+	font-size: 40px;
+	padding: 10px;
+	border: 5px dashed Yellow;
 }
-
 /* Code below is added by Sachithra. */
-
-#c47 {
-  position: relative;
-  color: #ff00de;
-  text-shadow: 0 0 1px #fff, 0 0 2px #fff, 0 0 8px #ff00de, 0 0 10px #ff00de;
-  font-size: 20px;
+#c47{
+	position:relative;
+	color: #ff00de;
+  text-shadow:0 0 1px #fff, 0 0 2px #fff, 0 0 8px #ff00de,0 0 10px #ff00de;
+	font-size: 20px;
 }
-
-#break {
-  position: relative;
+#break{
+  position:relative;
   width: 100px;
   height: 100px;
   border-radius: 50%;
-  box-shadow: 0 0 0 4px #b2009b, 0 0 2px 6px #b2009b, 0 0 15px 6px #b2009b;
+  box-shadow: 0 0 0 4px #b2009b,0 0 2px 6px #b2009b,0 0 15px 6px #b2009b;
   border-left: 2px solid #b2009b;
   border-right: 2px solid #b2009b;
 }
-
-.spinBreak {
+.spinBreak{
   animation: spin 10s linear infinite;
 }
 
@@ -251,9 +232,8 @@ div {
   background-color: #3A7295;
   grid-column: 1 / -1;
   font-family: Arial, Helvetica, sans-serif;
-  margin-bottom: -10px;
+margin-bottom: -10px;
 }
-
 .contributors a {
   color: white;
   text-decoration: none;
@@ -261,27 +241,21 @@ div {
   font-size: 2em;
   transition: color 0.5s;
 }
-
 .contributors a:hover {
-  color: #c9c8c5;
+  color:#c9c8c5;
 }
 
-@keyframes spin {
-  0% {
-    transform: rotate(0deg);
-  }
-  100% {
-    transform: rotate(360deg);
-  }
+@keyframes spin{
+  0%{transform : rotate(0deg);}
+  100%{transform : rotate(360deg);}
 }
-
 /* Code above is added by Sachithra. */
 
-.h1tag {
+.h1tag{
   position: relative;
 }
 
-.h1tag a {
+.h1tag a{
   position: absolute;
   top: 50%;
   left: 50%;
