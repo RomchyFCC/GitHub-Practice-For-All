@@ -246,3 +246,4 @@ Could this CONTRIBUTING file be improved? Was anything inaccurate or unclear? Pl
 - [Ayush](https://github.com/heyayushh)
 - [Bing](https://github.com/BingZL1983)
 - [Dimitra Karamperi](https://github.com/dimikara)
+- [dar-puch](https://github.com/dar-puch)
