@@ -284,3 +284,20 @@ margin-bottom: -10px;
 .daria a:hover {
   color: #ddbc95;
 }
+
+
+.ravi{
+	background: linear-gradient(#e66465, #9198e5);
+	background-size: cover;
+	box-shadow: rgba(0, 0, 0, 0.2);
+}
+
+.ravi a{
+	color: #ffc600;
+	text-decoration: none;
+	padding-top: 50px;
+	text-align: center;
+}
+
+
+
