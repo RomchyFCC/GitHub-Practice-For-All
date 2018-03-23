@@ -284,3 +284,21 @@ margin-bottom: -10px;
 .daria a:hover {
   color: #ddbc95;
 }
+
+.ravi{
+	background: linear-gradient(#68e0b8, #ce5dbf);
+	background-size: cover;
+}
+
+.ravi h1 a{
+	text-decoration: none;
+	color: #ffc600;
+	text-shadow:3px 3px 3px rgba(0, 0, 0, 0.2);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.ravi  h1 a:hover{
+	font-size: 40px;
+}
