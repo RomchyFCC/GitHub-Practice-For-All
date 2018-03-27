@@ -135,7 +135,7 @@ Aside from that, stick to the fork-pull workflow outlined below.
     `git push`
 
 Now your local repo and your GitHub repo is up to date with the original repo you forked from.
-<strong>For more in-depth look at github and markdown, here are some courses/guides/cheatsheets: [Link](https://github.com/ravikishorethella/Front-End-Bible/tree/master/Learning%20Resources/Github%20and%20Markdown%20Guides)</strong>
+<strong>For more in-depth look at github and markdown, here are some courses/guides/cheatsheets: [Link](https://github.com/JABedford/Front-End-Bible/tree/master/Learning%20Resources/Github%20and%20Markdown%20Guides)</strong>
 
 ## Code of Conduct
 
@@ -249,3 +249,4 @@ Could this CONTRIBUTING file be improved? Was anything inaccurate or unclear? Pl
 - [Dimitra Karamperi](https://github.com/dimikara)
 - [Daria Puch](https://github.com/dar-puch)
 - [Ravi Kishore Thella](https://github.com/ravikishorethella)
+- [Rob Williams](https://github.com/poppashingles)
