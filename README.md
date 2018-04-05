@@ -250,3 +250,5 @@ Could this CONTRIBUTING file be improved? Was anything inaccurate or unclear? Pl
 - [Daria Puch](https://github.com/dar-puch)
 - [Ravi Kishore Thella](https://github.com/ravikishorethella)
 - [Rob Williams](https://github.com/poppashingles)
+- [richardson3535](https://github.com/richardson3535)
+- [Jacek Złoty](https://github.com/jzloty)
