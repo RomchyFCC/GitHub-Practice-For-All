@@ -1,6 +1,11 @@
-window.addEventListener('click', ()=>{
+const secretPicture = document.getElementById("secret-picture");
+
+window.addEventListener('click', (event)=>{
   // Show picture when user clicks anywhere on screen
-  document.getElementById("secret-picture").style.visibility = "visible";
+  if(event.target === secretPicture)
+    secretPicture.style.visibility = "hidden";
+  else
+    secretPicture.style.visibility = "visible";
 })
 
 let secretArray = ['s','a','c','h','i','t','h','r','a'];
