@@ -3,3 +3,24 @@ body {
   background: pink;
 }
 /*--------------------------------*/
+
+.container {
+  
+}
+
+.top-navbar {
+  overflow: hidden;
+  background-color: black;
+  border-style: solid;
+  border-color: blue;
+  border-radius: 25px;
+}
+
+.top-navbar a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
