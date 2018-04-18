@@ -4,6 +4,10 @@ body {
 }
 /*--------------------------------*/
 
+:root {
+  scroll-behavior: smooth;
+}
+
 .container {
   
 }
