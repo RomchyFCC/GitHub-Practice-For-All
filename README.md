@@ -252,3 +252,8 @@ Could this CONTRIBUTING file be improved? Was anything inaccurate or unclear? Pl
 - [Rob Williams](https://github.com/poppashingles)
 - [richardson3535](https://github.com/richardson3535)
 - [Jacek Złoty](https://github.com/jzloty)
+- [Rose](https://github.com/rkett)
+- [vignesh](https://github.com/vignesh240)
+- [Kevin T Reynolds](https://github.com/OnlinePseudonym)
+- [William Larry](https://github.com/geekiam23)
+- [Akshay Kumar](https://github.com/akshaykumar123)
