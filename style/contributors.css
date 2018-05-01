@@ -307,11 +307,12 @@ margin-bottom: -10px;
   background-color: lightgreen;
 }
 
+/* changed border-size with border-width as I suppose that this is what the user meant */
 .rcat {
 	background: radial-gradient(#6a28e5,#9115c6);
 	border-style: solid;
 	border-color: #24e24a;
-	border-size: 10px;
+	border-width: 10px;
 	border-radius: 5%;
 	padding-top: 15%;
 	box-shadow: 5px 5px 5px green;
