@@ -21,10 +21,40 @@ body {
 }
 
 .top-navbar a {
-  float: left;
   color: white;
   text-align: center;
-  padding: 14px 16px;
+  padding: 30px 16px;
   text-decoration: none;
   font-size: 17px;
+}
+
+.menu{
+  display:inline-block;
+  
+  padding: 30px 16px;
+}
+
+.subMenu a{
+  text-decoration: none;
+  display:block;
+  color:white;
+  margin:0;
+  padding: 15px 16px;
+  border-top:solid 1px blue;
+}
+
+.sub-sub:hover{
+  background:grey; 
+}
+
+.subMenu{
+  position:absolute;
+  background:black;
+  display:none;
+  top:90px;
+  z-index:2;
+}
+
+.opacity{
+  opacity:0.4;
 }
