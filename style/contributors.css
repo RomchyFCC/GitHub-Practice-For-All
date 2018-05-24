@@ -333,3 +333,31 @@ margin-bottom: -10px;
 .rcat h1 a:visited {
 	color: #24e24a;
 }
+
+.dcook {
+	display: flex;
+	justify-content: center;
+	align-content: center;
+	background-color: #212322;
+	color: white;
+	border: none;
+	border-radius: 0.3em;
+	transition: 0.3s;
+}
+
+
+.dcook h1 a {
+	text-decoration: none !important;
+	color: white;
+	font-family: avenir;
+	font-weight: 100;
+}
+
+.dcook h1 {
+	transition: 0.3s;
+}
+
+.dcook h1:hover {
+	transform: scale(1.15);
+	letter-spacing: 2pt;
+}
