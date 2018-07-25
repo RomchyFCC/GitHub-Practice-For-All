@@ -2,11 +2,37 @@
 <html>
   <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>golf-project</title>
     <link rel="stylesheet" type="text/css" href="style.css">
   </head>
   <body>
-    
+
+    <div id="slider">
+      <div class="slide slide1">
+        <p class="heroText textAnimation">Welcome to our Golf Club</p>
+      </div>
+      <div class="slide slide2">
+        <!-- <iframe
+          src="https://www.youtube.com/embed/k6OBfKKDW24?autoplay=1&loop=1&playlist=k6OBfKKDW24&rel=0&mute=1&showinfo=0&controls=0&autohide=1"
+          frameborder="0"
+          allow="autoplay; encrypted-media"
+          >
+        </iframe> -->
+        <video autoplay loop muted>
+         <source src="assets/flyover.mp4" type="video/mp4" />
+         <source src="assets/flyover.webm" type="video/webm" />
+        </video>
+        <p class="heroText">3 challenging courses</p>
+      </div>
+      <div class="slide slide3">
+        <p class="heroText">Become a member today!</p>
+      </div>
+
+      <div class="controls prevBtn"><</div>
+      <div class="controls nextBtn">></div>
+    </div>
+
     <script type="text/javascript" src="script.js"></script>
   </body>
 </html>
