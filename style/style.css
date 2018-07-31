@@ -8,10 +8,6 @@ body {
   scroll-behavior: smooth;
 }
 
-.container {
-  
-}
-
 .top-navbar {
   overflow: hidden;
   background-color: black;
@@ -30,7 +26,6 @@ body {
 
 .menu{
   display:inline-block;
-  
   padding: 30px 16px;
 }
 
@@ -44,7 +39,7 @@ body {
 }
 
 .sub-sub:hover{
-  background:grey; 
+  background:grey;
 }
 
 .subMenu{
