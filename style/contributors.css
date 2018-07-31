@@ -110,15 +110,15 @@ div {
 }
 
 .dmac {
-font-family: Georgia;
-position: relative;
-font-size: 1.25em;
-color: orange;
+  font-family: Georgia;
+  position: relative;
+  font-size: 1.25em;
+  color: orange;
 }
 
 .sunny {
-font-size: 50px;
-color: #ff00eb;
+  font-size: 50px;
+  color: #ff00eb;
 }
 
 .stacy {
@@ -232,7 +232,7 @@ color: #ff00eb;
   background-color: #3A7295;
   grid-column: 1 / -1;
   font-family: Arial, Helvetica, sans-serif;
-margin-bottom: -10px;
+  margin-bottom: -10px;
 }
 .contributors a {
   color: white;
@@ -364,10 +364,9 @@ margin-bottom: -10px;
 
 .matt2 {
 	color: rebeccapurple;
-    font-weight: bold;
-    background-color: deeppink;
-    font-size: 70px;
-	
+  font-weight: bold;
+  background-color: deeppink;
+  font-size: 70px;
 }
 
 #mattl {
@@ -375,4 +374,4 @@ margin-bottom: -10px;
 	color: purple;
 	text-align: center;
 	animation: spin 2.5s infinite alternate;
-   }
+}
