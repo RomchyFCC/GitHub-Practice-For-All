@@ -1,60 +1,196 @@
-/*---Just to test it's working---*/
-body {
-  background-color: lightblue;
-}
-/*--------------------------------*/
 
 :root {
   scroll-behavior: smooth;
 }
 
-.container {
-  
+section.container{
+  position: relative;
+  width: 100%;
+  height: 100%;
+  border: 2px solid white;
 }
 
-.top-navbar {
-  overflow: hidden;
-  background-color: black;
-  border-style: solid;
-  border-color: blue;
-  border-radius: 25px;
+div.block{
+  display: table-cell;
+  vertical-align: middle;
+  width: 100%;
+  height: auto;
 }
 
-.top-navbar a {
+section > div.overlay{
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: white;
+}
+
+section.container:hover .overlay{
+  opacity: 1;
+}
+
+div.text {
+  color: black;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+
+#title, #titleContent{
+  font-family: Impact, Charcoal, sans-serif;
   color: white;
   text-align: center;
-  padding: 30px 16px;
+}
+
+#title{
+  font-size: 5em;
+}
+
+#titleContent{
+  margin-top: -2.5em;
+  margin-bottom: 3em;
+  font-size: 1.5em;
+}
+
+body{
+  margin: 0;
+}
+
+.center{
+  overflow: hidden;
+  background-color: black;
+}
+
+
+a#titleLink{
   text-decoration: none;
-  font-size: 17px;
+  color: black;
 }
 
-.menu{
-  display:inline-block;
-  
-  padding: 30px 16px;
-}
-
-.subMenu a{
+a#iconLink{
   text-decoration: none;
-  display:block;
-  color:white;
-  margin:0;
-  padding: 15px 16px;
-  border-top:solid 1px blue;
+  color: black;
 }
 
-.sub-sub:hover{
-  background:grey; 
+#aboutContent{
+  text-align: center;
+  font-family:"Comic Sans MS", cursive, sans-serif;
+  font-size: 1.5em;
 }
 
-.subMenu{
-  position:absolute;
-  background:black;
-  display:none;
-  top:90px;
-  z-index:2;
+#aboutTitle{
+  font-family: Impact, Charcoal, sans-serif;
+  font-size: 2em;
+  text-align: center;
+  color: black;
 }
 
-.opacity{
-  opacity:0.4;
+.grid-container{
+  display: grid;
+  grid-template-columns: 50% 50%;
+  grid-template-rows: 200px 250px;
+  align-items: center;
+}
+
+.grid-item{
+  text-align: center;
+}
+
+#contributors{
+  background-image:url('../img/contributors.jpg');
+}
+
+#connect{
+  background-image:url('../img/connect.jpg');
+}
+
+#contact{
+  background-image:url('../img/contact.jpg');
+}
+
+#faq{
+  background-image:url('../img/faq.jpg');
+}
+
+#resources{
+  background-image: url('../img/resources.jpg');
+}
+
+.main{
+  position: relative;
+  font-size: 2em;
+  color: white;
+  text-align: center;
+  font-family:Impact, Charcoal, sans-serif;
+  height: 4em;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.mainContent{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.mainMiddle{
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  width: 100%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%)
+}
+
+.mainText{
+  font-family:Impact, Charcoal, sans-serif;
+  font-size: 1em;
+}
+
+.main:hover .mainContent{
+  opacity:0;
+}
+
+.main:hover .mainMiddle{
+  opacity:1.0;
+}
+
+.main a{
+  text-decoration: none;
+}
+
+.main a:link,.main a:visited{
+  color: aqua;
+}
+
+.main a:hover {
+  color: red;
+}
+
+.main a:active {
+  color: blue;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+    width:16.66%;
+    text-align: center;
 }
