@@ -11,7 +11,14 @@
       <a href="#contact" style="width:14.26%" class="w3-bar-item w3-button w3-mobile">Contact</a>
       <a href="#faq" style="width:14.26%" class="w3-bar-item w3-button w3-mobile">FAQ</a>
       <a href="#resources" style="width:14.26%" class="w3-bar-item w3-button w3-mobile">Resources</a>
-      <a href="#project" style="width:14.26%" class="w3-bar-item w3-button w3-mobile">Projects</a>
+      <div class="w3-dropdown-hover" style="width:14.26%">
+        <button class="w3-button">Dropdown</button>
+        <div class="w3-dropdown-content w3-bar-block w3-card-4">
+          <a href="https://victorhills.com/" class="w3-bar-item w3-button">Golf Club</a>
+          <a href="#" class="w3-bar-item w3-button">Project 2</a>
+        </div>
+      </div>
+
     </div>
   </div>
 </header>
