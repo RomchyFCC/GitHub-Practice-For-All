@@ -258,3 +258,4 @@ Could this CONTRIBUTING file be improved? Was anything inaccurate or unclear? Pl
 - [William Larry](https://github.com/geekiam23)
 - [Akshay Kumar](https://github.com/akshaykumar123)
 - [Daniel Cook](https://github.com/dcookwebdev)
+- [Gan Chew Ying] (https://github.com/gcyying123)
