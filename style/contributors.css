@@ -367,7 +367,7 @@ margin-bottom: -10px;
     font-weight: bold;
     background-color: deeppink;
     font-size: 70px;
-
+	
 }
 
 #mattl {
@@ -375,10 +375,4 @@ margin-bottom: -10px;
 	color: purple;
 	text-align: center;
 	animation: spin 2.5s infinite alternate;
-}
-
-#tee{
-  font-size: 4em;
-  color: blue;
-  text-align: center,
-}
+   }
