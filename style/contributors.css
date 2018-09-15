@@ -376,3 +376,25 @@ margin-bottom: -10px;
 	text-align: center;
 	animation: spin 2.5s infinite alternate;
    }
+
+@keyframes rotorFlip {
+	from {
+		transform: rotateY(0deg) rotateZ(0deg);
+	}
+	
+	to {
+		transform: rotateY(360deg) rotateZ(360deg);
+	}
+};
+.jphanna {
+	background: linear-gradient(135deg, rgba(0,0,0,0.65) 0%,rgba(0,0,0,0) 100%);
+}
+.jphanna h1 {
+	animation: rotorFlip 10s infinite alternate;
+	text-align: center;
+}
+.jphanna a {
+	color: white;
+	font-size: 1.3em;
+	text-decoration: none;
+}
