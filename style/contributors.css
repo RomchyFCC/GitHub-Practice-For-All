@@ -467,3 +467,28 @@ div {
     justify-content: center;
     font: italic bold 30px
 }
+
+/* Additions by Amber Roberts */
+
+.amber {
+  font-family: fantasy;
+  text-shadow: 2px 2px rgba(140, 0, 255, .3);
+  background: rgba(148, 0, 211, 0.5);
+  border: 5px dashed purple;
+  border-radius: 12px 4px;
+  text-align: center;
+  padding: 50px;
+  margin: auto;
+  box-shadow: 12px 12px 2px 1px rgba(140, 0, 255, .2);
+}
+
+.amber:hover {
+  box-shadow: 12px 12px 2px 1px grey;
+  background: rgba(140, 0, 255, .2);
+  border: 6px dashed white;
+}
+
+.amber a:hover {
+  color: white;
+  text-shadow: 2px 2px #551A8B;
+}
