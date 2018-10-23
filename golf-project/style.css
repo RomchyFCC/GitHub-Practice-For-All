@@ -94,6 +94,36 @@
   right: 0;
 }
 
+/* Menu */
+.menuBar {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.menuBar img {
+  max-height: 75px;
+  background-color: #333;
+}
+
+.menuBar ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+}
+
+.menuBar li {
+  position: sticky;
+  display: inline;
+  margin: auto;
+}
+
+.menuBar a {
+  color: #f2f2f2;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 1.02em;
+}
+
 /* To avoid sticky hover states on tablets/phones */
 @media screen and (max-width: 1025px) {
   .controls {
@@ -106,4 +136,5 @@
     background: hsla(0, 100%, 100%, .4);
     color: hsla(0, 100%, 100%, .9);
   }
+
 }
