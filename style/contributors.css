@@ -335,6 +335,10 @@ div {
     background-color: lightgreen;
 }
 
+.ankit {
+	background-color: blue;
+}
+
 
 /* changed border-size with border-width as I suppose that this is what the user meant */
 
