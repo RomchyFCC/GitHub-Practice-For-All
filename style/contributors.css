@@ -494,8 +494,13 @@ div {
 }
 
 /* For Andi Robinson */
+.a-rob {
+    text-align: center;
+    margin: auto;
+}
 
-.halloween-style {
+ .halloween-style {
+    text-decoration: none;
     color: black;
     text-shadow:
     4px 4px 1px #300000,
@@ -510,5 +515,5 @@ div {
     4px 22px 1px #C00000,
     4px 24px 1px #D00000,
     4px 26px 1px #E00000,
-    4px 28px 1px #F00000,
-}
+    4px 28px 1px #F00000;
+} 
