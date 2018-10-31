@@ -521,3 +521,10 @@ div {
     4px 26px 1px #E00000,
     4px 28px 1px #F00000;
 } 
+
+/* styles for Adam Fitzgibbon */
+.adamfitzgibbon {
+    color: orange;
+    margin: 50px;
+    background: green;
+}
