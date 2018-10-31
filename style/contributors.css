@@ -521,6 +521,7 @@ div {
     4px 26px 1px #E00000,
     4px 28px 1px #F00000;
 } 
+
 /* Tiffany Du was here! */
 .t-du {
     background-color: #319495;
@@ -540,4 +541,9 @@ div {
 .t-du:hover {
     box-shadow: 0 4px 10px rgba(0,0,0,0.3);
     transform: translateY(-5px);
+/* styles for Adam Fitzgibbon */
+.adamfitzgibbon {
+    color: orange;
+    margin: 50px;
+    background: green;
 }
