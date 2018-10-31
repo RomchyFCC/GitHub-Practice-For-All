@@ -260,4 +260,5 @@ Could this CONTRIBUTING file be improved? Was anything inaccurate or unclear? Pl
 - [Daniel Cook](https://github.com/dcookwebdev)
 - [Tee Wen Seng](https://github.com/tws9797)
 - [Gan Chew Ying](https://github.com/gcyying123)
+- [Dev Kant Chouhan](https://github.com/devkant)
 - [Tiffany Du](https://github.com/tiffanyadu/GitHub-Practice-For-All)
