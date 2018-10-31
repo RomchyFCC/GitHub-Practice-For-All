@@ -521,3 +521,12 @@ div {
     4px 26px 1px #E00000,
     4px 28px 1px #F00000;
 } 
+.aDivTooFar {
+    display: inline-block;
+    color: black;
+    border: groove black 2px;
+    padding: 20px;
+    text-align: center;
+    background-color: white;
+    font-family: fantasy;
+}
