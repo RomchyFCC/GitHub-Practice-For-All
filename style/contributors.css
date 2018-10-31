@@ -541,9 +541,34 @@ div {
 .t-du:hover {
     box-shadow: 0 4px 10px rgba(0,0,0,0.3);
     transform: translateY(-5px);
+}
+
+/* styles for Devin Golden */
+.devin{
+    background-color: #b8ad1ac5;
+    border: 3px black solid;
+    text-align: center;
+}
+
+.devin a {
+    color: rgb(163, 31, 14);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.devin:hover{
+    color: gray;
+    text-shadow: 0 4px 10px black;
+}
+
+
+
 /* styles for Adam Fitzgibbon */
 .adamfitzgibbon {
     color: orange;
     margin: 50px;
     background: green;
 }
+
