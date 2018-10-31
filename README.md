@@ -260,3 +260,4 @@ Could this CONTRIBUTING file be improved? Was anything inaccurate or unclear? Pl
 - [Daniel Cook](https://github.com/dcookwebdev)
 - [Tee Wen Seng](https://github.com/tws9797)
 - [Gan Chew Ying](https://github.com/gcyying123)
+- [Kyle Fertile](https://github.com/Fertalicious)
