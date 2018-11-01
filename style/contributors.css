@@ -530,7 +530,7 @@ div {
     text-align: center;
     background-color: white;
     font-family: fantasy;
-
+}
 
 /* Tiffany Du was here! */
 .t-du {
@@ -552,9 +552,22 @@ div {
     box-shadow: 0 4px 10px rgba(0,0,0,0.3);
     transform: translateY(-5px);
 /* styles for Adam Fitzgibbon */
+}
 .adamfitzgibbon {
     color: orange;
     margin: 50px;
     background: green;
 
+}
+
+#yoon{
+    color: white;
+    border: dotted red 2px;
+    text-align: center;
+    background-color: black;
+    height:140px;
+}
+
+#yoon a{
+    color:white;
 }
