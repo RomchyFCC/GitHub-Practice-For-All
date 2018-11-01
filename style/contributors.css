@@ -521,6 +521,7 @@ div {
     4px 26px 1px #E00000,
     4px 28px 1px #F00000;
 } 
+
 .aDivTooFar {
     display: inline-block;
     color: black;
@@ -529,4 +530,31 @@ div {
     text-align: center;
     background-color: white;
     font-family: fantasy;
+
+
+/* Tiffany Du was here! */
+.t-du {
+    background-color: #319495;
+    border: none;
+    color: #ffffff;
+    margin: 30px 0;
+    transition: 0.2s ease-out;
+}
+.t-du a {
+    color: #ffffff;
+    font-family: helvetica, sans-serif;
+    letter-spacing: 2px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.t-du:hover {
+    box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+    transform: translateY(-5px);
+/* styles for Adam Fitzgibbon */
+.adamfitzgibbon {
+    color: orange;
+    margin: 50px;
+    background: green;
+
 }
