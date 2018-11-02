@@ -7,7 +7,7 @@
 
 [Our Contributors so far!](#contributors)
 
-### How to contribute: 
+### How to contribute:
 
 1. Fork a copy of this project to your own repository in the upper-right corner of this page!
 
@@ -263,3 +263,4 @@ Could this CONTRIBUTING file be improved? Was anything inaccurate or unclear? Pl
 - [Leandro Bitencourt](https://github.com/lavela)
 - [Kyle Fertile](https://github.com/Fertalicious)
 - [Dev Kant Chouhan](https://github.com/devkant)
+- [Whyzar](https://github.com/whyzar)
