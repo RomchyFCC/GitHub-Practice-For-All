@@ -263,4 +263,5 @@ Could this CONTRIBUTING file be improved? Was anything inaccurate or unclear? Pl
 - [Leandro Bitencourt](https://github.com/lavela)
 - [Kyle Fertile](https://github.com/Fertalicious)
 - [Dev Kant Chouhan](https://github.com/devkant)
+- [Oleks Sobol](https://github.com/OleksSobol)
 - [Whyzar](https://github.com/whyzar)
