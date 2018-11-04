@@ -129,6 +129,33 @@ div {
     color: #ff00eb;
 }
 
+.aditya{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background-color: #212322;
+    color: white;
+    border: none;
+    border-radius: 0.3em;
+    transition: 0.3s;
+}
+.aditya h1 a {
+    text-decoration: none !important;
+    color: white;
+    font-family: avenir;
+    font-weight: 100;
+}
+
+.aditya h1 {
+    transition: 0.3s;
+}
+
+.aditya h1:hover {
+    transform: scale(1.15);
+    letter-spacing: 2pt;
+}
+
+
 .stacy {
     font-size: 1.5em;
     color: purple;
