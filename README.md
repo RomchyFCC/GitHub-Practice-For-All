@@ -266,3 +266,4 @@ Could this CONTRIBUTING file be improved? Was anything inaccurate or unclear? Pl
 - [Sergio Enriquez](https://github.com/saeg2k3)
 - [Oleks Sobol](https://github.com/OleksSobol)
 - [Whyzar](https://github.com/whyzar)
+- [Nicholas Comendant](https://github.com/ncomendant)
