@@ -598,3 +598,35 @@ div {
 #yoon a{
     color:white;
 }
+
+
+/* Styles for Nicholas Comendant */
+    #ncom {
+        background-image: linear-gradient(45deg, blue, dodgerblue);
+        text-align: center;
+        font-family: 'Raleway', sans-serif;
+        color: white;
+        border: none;
+    }
+    
+    #ncom img {
+        height: 50px;
+        width: auto;
+        opacity: 0.5;
+        transition-property: opacity;
+        transition-duration: 0.5s;
+    }
+
+    #ncom span {
+        display: flex;
+        justify-content: space-evenly;
+    }
+
+    #ncom h1 {
+        font-size: 30px;
+    }
+
+    #ncom img:hover {
+        opacity: 1;
+        cursor: pointer;
+    }
