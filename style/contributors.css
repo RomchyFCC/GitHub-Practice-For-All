@@ -547,7 +547,7 @@ div {
     4px 24px 1px #D00000,
     4px 26px 1px #E00000,
     4px 28px 1px #F00000;
-} 
+}
 
 .aDivTooFar {
     display: inline-block;
@@ -608,7 +608,7 @@ div {
         color: white;
         border: none;
     }
-    
+
     #ncom img {
         height: 50px;
         width: auto;
@@ -630,3 +630,15 @@ div {
         opacity: 1;
         cursor: pointer;
     }
+
+#pan {
+        background-image: linear-gradient(0deg, black, grey);
+        text-align: center;
+        font-family: 'Arial Black', Gadget, sans-serif;
+        color: white;
+        border: none;
+}
+
+#pan a{
+    color:white;
+}
