@@ -66,3 +66,7 @@ const secretCompare = (e) => {
 
 
 document.addEventListener('keydown', (e) => secretCompare(e));
+
+function ram(){
+  document.getElementById("sai").innerHTML="Hey whatsup ??";
+}
