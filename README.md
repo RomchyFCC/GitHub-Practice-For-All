@@ -1,3 +1,6 @@
+### Important note
+This project is no longer maintained due to lack of interest for side projects inside the community.
+
 # GitHub-Practice-For-All
 [![first-timers-only](http://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](http://www.firsttimersonly.com/)
 
