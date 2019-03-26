@@ -642,3 +642,9 @@ div {
 #pan a{
     color:white;
 }
+
+.ram{
+    border:3px solid;
+    border-radius: 3px;
+    border-color: red;
+}
