@@ -648,3 +648,23 @@ div {
     border-radius: 3px;
     border-color: red;
 }
+
+.lol{
+	border: 10px solid;
+	border-color: hotpink;
+	background: black;
+	text-align: center;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	-webkit-transition: 0.6s ease;
+     transition: 0.6s ease;
+}
+
+.lol a{
+	color: pink;
+	text-decoration: none;
+}
+
+.km:hover .lol{
+	-webkit-transform: scale(10);
+	transition-property: scale(10);
+}
