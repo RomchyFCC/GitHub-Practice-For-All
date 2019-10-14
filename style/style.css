@@ -194,3 +194,41 @@ li {
     width:16.66%;
     text-align: center;
 }
+
+
+
+
+
+.w3-bar{
+  height: 56px;
+  display: flex;
+  align-items: center;
+}
+
+.w3-bar .w3-bar-item{
+  height: 100%;
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+  float: none;
+}
+
+.w3-bar .w3-button{
+  width: 100%;
+  height: 56px;
+  padding: 0 !important;
+  outline: none;
+}
+
+.w3-bar .w3-dropdown-content {
+  margin-top: 65px;
+}
+
+.w3-bar .w3-dropdown-content .w3-button{
+  height: auto;
+  padding: 8px 16px !important;
+}
+
+.w3-dropdown-hover:hover{
+  background-color: #ccc!important
+}
