@@ -671,3 +671,44 @@ div {
 #dmitriyaa img {
   max-width: 100%;
 }
+
+/* Paragon_Aureole stylesheet start */
+
+.Paragon_Aureole {
+    background-color: black;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    color: green;
+    border-style: ridge;
+    border-width: 7px;
+    border-color: green;
+}
+
+.Paragon_Aureole img {
+    height: 50px;
+    width: auto;
+    opacity: 0.5;
+    transition-property: opacity;
+    transition-duration: 0.5s;
+}
+
+.Paragon_Aureole span {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.Paragon_Aureole h1 {
+    font-size: 30px;
+    transition-duration: 0.5s;
+}
+
+.Paragon_Aureole h1:hover {
+    font-size: 32px;
+    text-decoration: underline;
+}
+
+.Paragon_Aureole img:hover {
+    opacity: 1;
+    cursor: pointer;
+}
+/* Paragon_Aureole stylesheet end */
