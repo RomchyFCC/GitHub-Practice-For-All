@@ -671,3 +671,24 @@ div {
 #dmitriyaa img {
   max-width: 100%;
 }
+
+/* Hi! Aditya Singh is here!! */
+.adityanjr {
+    background-color: rgba(0,0,128);
+    border: none;
+    color: #ffffff;
+    margin: 30px 0;
+    transition: 0.2s ease-out;
+}
+.adityanjr a {
+    color: #ffffff;
+    font-family: "Comic Sans MS";
+    letter-spacing: 6px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.adityanjr:hover {
+    box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+    transform: translateY(-5px);
+}
