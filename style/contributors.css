@@ -685,3 +685,28 @@ div {
   text-decoration: none;
   color: white;
 }
+
+
+#miguelMartin{
+    border-color: transparent;
+    font-size: 1rem;
+    justify-self: center;
+    align-self: center;
+    font-family: helvetica, sans-serif;
+    text-transform: uppercase;
+}
+#miguelMartin::after{
+    content: "";
+    display: block;
+    border-top: 5px solid blue;
+    position: relative;
+    top: -10%;
+}
+#miguelMartin::before{
+    content: "";
+    display: block;
+    border-top: 5px solid blue;
+    position: relative;
+    top: 10%;
+}
+
