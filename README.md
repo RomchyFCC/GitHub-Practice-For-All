@@ -1,5 +1,5 @@
 ### Important note
-This project is no longer maintained due to lack of interest for side projects inside the community.
+I will no longer be accepting any pull requests that contained beutified code or different number of spaces and tags from the original one. It's too much work, to look through all the changes. Hope you can all respect this.
 
 # GitHub-Practice-For-All
 [![first-timers-only](http://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](http://www.firsttimersonly.com/)
