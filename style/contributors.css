@@ -714,3 +714,16 @@ div {
     right: -5px;
     top: -5px
 }
+#beatrizsmerino{
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 2rem;
+  background-color: #3A4F64;
+}
+#beatrizsmerino img{
+  margin-bottom: 1rem;
+}
+#beatrizsmerino a{
+  text-decoration: none;
+  color: white;
+}
