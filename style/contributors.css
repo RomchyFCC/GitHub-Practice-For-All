@@ -672,6 +672,48 @@ div {
   max-width: 100%;
 }
 
+.lrw {
+    overflow:hidden;
+    position: relative;
+    background-color:#fff;
+}
+.lrw a {
+    height: 100%;
+    width: 100%;
+    text-decoration: none;
+    display: flex;
+    flex: 1 1 auto;
+    justify-content: center;
+    align-items: center;
+}
+.lrw a > h1 {
+    text-align: center;
+    position: relative;
+    color: rgba(0,0,0,1);
+}
+.lrw a > h1::before,
+.lrw a > h1::after {
+    content:"Liam Wrigley :)";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    color: rgba(0,0,0,1);
+    transition: all 100ms ease-in-out;
+}
+.lrw a:hover > h1 {
+    color: rgba(0,255,0,0.6);
+}
+.lrw a:hover h1::before {
+    color: rgba(255,0,0,0.6);
+    left: -5px;
+    top: 5px
+}
+.lrw a:hover h1::after {
+    color: rgba(0,0,255,0.6);
+    right: -5px;
+    top: -5px
+}
 #beatrizsmerino{
   text-align: center;
   font-family: sans-serif;
