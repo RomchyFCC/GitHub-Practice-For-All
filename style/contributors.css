@@ -726,4 +726,14 @@ div {
 #beatrizsmerino a{
   text-decoration: none;
   color: white;
+  .nikhil{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background-color: #3A2364;
+    color: blue;
+    border: none;
+    font-size:2rem;
+    font-family:sans-serif;
+
 }
