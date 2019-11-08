@@ -242,6 +242,7 @@ Could this CONTRIBUTING file be improved? Was anything inaccurate or unclear? Pl
 - [Pinja Pessi](https://github.com/ppessi)
 - [h1tag](https://github.com/h1tag)
 - [Danielle Shwed](https://github.com/danielleshwed)
+- [Rannie Pavillon](https://github.com/RanniePavillon)
 - [dinamahmoud25](https://github.com/dinamahmoud25)
 - [sunil](https://github.com/usunil0)
 - [Nirmal Dalmia](https://github.com/nirmaldalmia)
