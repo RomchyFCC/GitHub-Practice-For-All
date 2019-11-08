@@ -263,7 +263,8 @@ Could this CONTRIBUTING file be improved? Was anything inaccurate or unclear? Pl
 - [Daniel Cook](https://github.com/dcookwebdev)
 - [Tee Wen Seng](https://github.com/tws9797)
 - [Gan Chew Ying](https://github.com/gcyying123)
-- [Leandro Bitencourt](https://github.com/lavela)
+- [Leandro Bitencourt](https://github.com/lavela)z
+- [Ramon Pacleb](https://github.com/bananaKetchup)
 - [Kyle Fertile](https://github.com/Fertalicious)
 - [Dev Kant Chouhan](https://github.com/devkant)
 - [Sergio Enriquez](https://github.com/saeg2k3)
