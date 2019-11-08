@@ -270,3 +270,4 @@ Could this CONTRIBUTING file be improved? Was anything inaccurate or unclear? Pl
 - [Oleks Sobol](https://github.com/OleksSobol)
 - [Whyzar](https://github.com/whyzar)
 - [Nicholas Comendant](https://github.com/ncomendant)
+- [Helly Hirpara](https://github.com/Hackhell)
