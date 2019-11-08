@@ -172,6 +172,7 @@ advances
   address, without explicit permission
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
+* Using abusive language
 
 ### Our Responsibilities
 
@@ -187,7 +188,7 @@ threatening, offensive, or harmful.
 
 ### Scope
 
-This Code of Conduct applies both within project spaces and in public spaces
+This Code of Conduct applies not only within project spaces but also in public spaces
 when an individual is representing the project or its community. Examples of
 representing a project or community include using an official project e-mail
 address, posting via an official social media account, or acting as an appointed
@@ -270,3 +271,4 @@ Could this CONTRIBUTING file be improved? Was anything inaccurate or unclear? Pl
 - [Oleks Sobol](https://github.com/OleksSobol)
 - [Whyzar](https://github.com/whyzar)
 - [Nicholas Comendant](https://github.com/ncomendant)
+- [Akshat Mishra](https://github.com/Akshat5673)
