@@ -1,23 +1,22 @@
-
 :root {
   scroll-behavior: smooth;
 }
 
-section.container{
+section.container {
   position: relative;
   width: 100%;
   height: 100%;
   border: 2px solid white;
 }
 
-div.block{
+div.block {
   display: table-cell;
   vertical-align: middle;
   width: 100%;
   height: auto;
 }
 
-section > div.overlay{
+section > div.overlay {
   position: absolute;
   top: 0;
   bottom: 0;
@@ -26,11 +25,11 @@ section > div.overlay{
   height: 100%;
   width: 100%;
   opacity: 0;
-  transition: .5s ease;
+  transition: 0.5s ease;
   background-color: white;
 }
 
-section.container:hover .overlay{
+section.container:hover .overlay {
   opacity: 1;
 }
 
@@ -44,133 +43,135 @@ div.text {
   -ms-transform: translate(-50%, -50%);
 }
 
-#title, #titleContent{
+#title,
+#titleContent {
   font-family: Impact, Charcoal, sans-serif;
   color: white;
   text-align: center;
 }
 
-#title{
+#title {
   font-size: 5em;
 }
 
-#titleContent{
+#titleContent {
   margin-top: -2.5em;
   margin-bottom: 3em;
   font-size: 1.5em;
 }
 
-body{
+body {
   margin: 0;
 }
 
-.center{
+.center {
   overflow: hidden;
-  background-color: black;
 }
 
-
-a#titleLink{
+a#titleLink {
   text-decoration: none;
   color: black;
 }
 
-a#iconLink{
+a#iconLink {
   text-decoration: none;
   color: black;
 }
 
-#aboutContent{
+#aboutContent {
   text-align: center;
-  font-family:"Comic Sans MS", cursive, sans-serif;
+  /* font-family: "Comic Sans MS", cursive, sans-serif; */
+  font-family: "Julius Sans One", sans-serif;
   font-size: 1.5em;
+  margin-top: 7rem;
 }
 
-#aboutTitle{
+#aboutTitle {
   font-family: Impact, Charcoal, sans-serif;
   font-size: 2em;
   text-align: center;
   color: black;
 }
 
-.grid-container{
+.grid-container {
   display: grid;
   grid-template-columns: 50% 50%;
   grid-template-rows: 200px 250px;
   align-items: center;
 }
 
-.grid-item{
+.grid-item {
   text-align: center;
 }
 
-#contributors{
-  background-image:url('../img/contributors.jpg');
+#contributors {
+  background-image: url("../img/contributors.jpg");
 }
 
-#connect{
-  background-image:url('../img/connect.jpg');
+#connect {
+  background-image: url("../img/connect.jpg");
 }
 
-#contact{
-  background-image:url('../img/contact.jpg');
+#contact {
+  background-image: url("../img/contact.jpg");
 }
 
-#faq{
-  background-image:url('../img/faq.jpg');
+#faq {
+  background-image: url("../img/faq.jpg");
 }
 
-#resources{
-  background-image: url('../img/resources.jpg');
+#resources {
+  background-image: url("../img/resources.jpg");
 }
 
-.main{
+.main {
   position: relative;
   font-size: 2em;
   color: white;
   text-align: center;
-  font-family:Impact, Charcoal, sans-serif;
+  font-family: Impact, Charcoal, sans-serif;
   height: 4em;
-  transition: .5s ease;
+  transition: 0.5s ease;
   backface-visibility: hidden;
 }
 
-.mainContent{
+.mainContent {
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
 
-.mainMiddle{
-  transition: .5s ease;
+.mainMiddle {
+  transition: 0.5s ease;
   opacity: 0;
   position: absolute;
   width: 100%;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%)
+  -ms-transform: translate(-50%, -50%);
 }
 
-.mainText{
-  font-family:Impact, Charcoal, sans-serif;
+.mainText {
+  font-family: Impact, Charcoal, sans-serif;
   font-size: 1em;
 }
 
-.main:hover .mainContent{
-  opacity:0;
+.main:hover .mainContent {
+  opacity: 0;
 }
 
-.main:hover .mainMiddle{
-  opacity:1.0;
+.main:hover .mainMiddle {
+  opacity: 1;
 }
 
-.main a{
+.main a {
   text-decoration: none;
 }
 
-.main a:link,.main a:visited{
+.main a:link,
+.main a:visited {
   color: white;
 }
 
@@ -183,14 +184,25 @@ a#iconLink{
 }
 
 ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
 }
 
 li {
-    float: left;
-    width:16.66%;
-    text-align: center;
+  float: left;
+  width: 16.66%;
+  text-align: center;
+}
+
+.parallax {
+  height: 100vh;
+  background-image: url("../img/contact.jpg");
+  color: #fff;
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
