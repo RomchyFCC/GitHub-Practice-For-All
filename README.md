@@ -19,7 +19,7 @@ I will no longer be accepting any pull requests that contain beutified code or d
    - Create a new branch `git checkout -b <branch-name>`
    - Set `upstream` branch so you can keep your local files synched with the original repository; [Details](#how-to-sync-your-local-repo-with-the-original-repo)
 
-3. Now open the files in your own text editor of choice.
+3. Now open the files in your text editor of choice.
 
 4. Write your name anywhere in the file so it shows up in the webpage!
 
