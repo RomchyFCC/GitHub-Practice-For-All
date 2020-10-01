@@ -727,3 +727,14 @@ div {
   text-decoration: none;
   color: white;
 }
+.ayayace h1 a {
+    text-decoration: none;
+    color: red; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ayayace h1 a:hover {
+    font-size: 40px;
+}
