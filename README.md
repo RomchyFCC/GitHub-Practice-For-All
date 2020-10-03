@@ -1,5 +1,5 @@
 ### Important note
-I will no longer be accepting any pull requests that contain beutified code or different number of spaces and tags from the original one. It's too much work, to look through all the changes. Hope you can all respect this.
+I will no longer be accepting any pull requests that contain beautified code or different number of spaces and tags from the original one. It's too much work, to look through all the changes. Hope you can all respect this.
 
 # GitHub-Practice-For-All
 [![first-timers-only](http://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](http://www.firsttimersonly.com/)
@@ -74,7 +74,7 @@ Aside from that, stick to the fork-pull workflow outlined below.
 ## How to PR
 (pull request)
 
-+ On your forked verision of the repo on GitHub, click the green 'clone or download' button and copy the link.
++ On your forked version of the repo on GitHub, click the green 'clone or download' button and copy the link.
   + The link will look something like this: `https://github.com/RomchyFCC/GitHub-Practice-For-All.git` (but with your username, not mine)
 + In the terminal write the following command to clone the repo. This will give you a local copy to work on:
   + `git clone <paste-the-link-of-your-repo.git-here>`
