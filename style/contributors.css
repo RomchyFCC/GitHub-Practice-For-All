@@ -727,3 +727,38 @@ div {
   text-decoration: none;
   color: white;
 }
+
+/* ---ronco-------------------------------------------------------- */
+.ronco{
+    text-align: center;
+    margin: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+    border: none;
+    background: #00F260;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #0575E6, #00F260);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #0575E6, #00F260); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color: wheat;
+    font-family: 'Roboto', sans-serif;
+}
+
+.ronco a{
+    text-decoration: none;
+    transition: ease-in all 0.15s;
+}
+
+.ronco a svg{
+    fill: wheat;
+}
+
+.ronco a svg:hover{
+    fill: white;
+}
+
+.ronco a:hover{
+    transform: scale(1.2);
+}
+/* --------------------------------------------------------------- */
