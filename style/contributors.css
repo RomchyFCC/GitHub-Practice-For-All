@@ -101,6 +101,22 @@ div {
     text-shadow: 5px 5px 6px crimson;
 }
 
+#arsh {
+	text-align: center;
+	color: purple;
+	font-size: 1.5em;
+	transition: all 2s;
+}
+
+#arsh p {
+	
+}
+
+#arsh:hover {
+	font-size: 3em;
+	color: green;
+}
+
 #i3123708 {
     position: relative;
     border: none !important;
