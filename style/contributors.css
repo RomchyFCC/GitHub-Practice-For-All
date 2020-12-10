@@ -726,4 +726,26 @@ div {
 #beatrizsmerino a{
   text-decoration: none;
   color: white;
+} 
+.nj 
+{
+    width:40%;
+    height: 50%;
+    background-color: white;
+    border: 2px solid hotpink;
+    
+    
+}
+.nj a{
+    color: orangered;
+    font-style: italic;
+    
+    
+}
+.nj a:hover
+{
+    color: purple;
+    font-size: xx-large;
+    font-family: monospace;
+   
 }
