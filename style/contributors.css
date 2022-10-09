@@ -80,9 +80,11 @@ div {
     0% {
         transform: rotateZ(270deg)
     }
+
     50% {
         transform: rotateZ(450deg)
     }
+
     100% {
         transform: rotateZ(0deg)
     }
@@ -129,7 +131,7 @@ div {
     color: #ff00eb;
 }
 
-.aditya{
+.aditya {
     display: flex;
     justify-content: center;
     align-content: center;
@@ -139,6 +141,7 @@ div {
     border-radius: 0.3em;
     transition: 0.3s;
 }
+
 .aditya h1 a {
     text-decoration: none !important;
     color: white;
@@ -167,6 +170,7 @@ div {
     0% {
         transform: scale(1);
     }
+
     100% {
         transform: scale(2);
     }
@@ -298,6 +302,7 @@ div {
     0% {
         transform: rotate(0deg);
     }
+
     100% {
         transform: rotate(360deg);
     }
@@ -363,7 +368,7 @@ div {
 }
 
 .ankit {
-	background-color: blue;
+    background-color: blue;
 }
 
 
@@ -440,6 +445,7 @@ div {
     from {
         transform: rotateY(0deg) rotateZ(0deg);
     }
+
     to {
         transform: rotateY(360deg) rotateZ(360deg);
     }
@@ -484,6 +490,7 @@ div {
 /* added by faldi */
 
 @import url('https://fonts.googleapis.com/css?family=K2D');
+
 .nrs {
     background-color: #F4D58D;
     box-shadow: 5px 10px #708D81;
@@ -502,26 +509,26 @@ div {
 /* Additions by Amber Roberts */
 
 .amber {
-  font-family: fantasy;
-  text-shadow: 2px 2px rgba(140, 0, 255, .3);
-  background: rgba(148, 0, 211, 0.5);
-  border: 5px dashed purple;
-  border-radius: 12px 4px;
-  text-align: center;
-  padding: 50px;
-  margin: auto;
-  box-shadow: 12px 12px 2px 1px rgba(140, 0, 255, .2);
+    font-family: fantasy;
+    text-shadow: 2px 2px rgba(140, 0, 255, .3);
+    background: rgba(148, 0, 211, 0.5);
+    border: 5px dashed purple;
+    border-radius: 12px 4px;
+    text-align: center;
+    padding: 50px;
+    margin: auto;
+    box-shadow: 12px 12px 2px 1px rgba(140, 0, 255, .2);
 }
 
 .amber:hover {
-  box-shadow: 12px 12px 2px 1px grey;
-  background: rgba(140, 0, 255, .2);
-  border: 6px dashed white;
+    box-shadow: 12px 12px 2px 1px grey;
+    background: rgba(140, 0, 255, .2);
+    border: 6px dashed white;
 }
 
 .amber a:hover {
-  color: white;
-  text-shadow: 2px 2px #551A8B;
+    color: white;
+    text-shadow: 2px 2px #551A8B;
 }
 
 /* For Andi Robinson */
@@ -530,23 +537,23 @@ div {
     margin: auto;
 }
 
- .halloween-style {
+.halloween-style {
     text-decoration: none;
     color: black;
     text-shadow:
-    4px 4px 1px #300000,
-    4px 6px 1px #400000,
-    4px 8px 1px #500000,
-    4px 10px 1px #600000,
-    4px 12px 1px #700000,
-    4px 14px 1px #800000,
-    4px 16px 1px #900000,
-    4px 18px 1px #A00000,
-    4px 20px 1px #B00000,
-    4px 22px 1px #C00000,
-    4px 24px 1px #D00000,
-    4px 26px 1px #E00000,
-    4px 28px 1px #F00000;
+        4px 4px 1px #300000,
+        4px 6px 1px #400000,
+        4px 8px 1px #500000,
+        4px 10px 1px #600000,
+        4px 12px 1px #700000,
+        4px 14px 1px #800000,
+        4px 16px 1px #900000,
+        4px 18px 1px #A00000,
+        4px 20px 1px #B00000,
+        4px 22px 1px #C00000,
+        4px 24px 1px #D00000,
+        4px 26px 1px #E00000,
+        4px 28px 1px #F00000;
 }
 
 .aDivTooFar {
@@ -567,6 +574,7 @@ div {
     margin: 30px 0;
     transition: 0.2s ease-out;
 }
+
 .t-du a {
     color: #ffffff;
     font-family: helvetica, sans-serif;
@@ -575,11 +583,13 @@ div {
     text-decoration: none;
     text-transform: uppercase;
 }
+
 .t-du:hover {
-    box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
     transform: translateY(-5px);
-/* styles for Adam Fitzgibbon */
+    /* styles for Adam Fitzgibbon */
 }
+
 .adamfitzgibbon {
     color: orange;
     margin: 50px;
@@ -587,96 +597,99 @@ div {
 
 }
 
-#yoon{
+#yoon {
     color: white;
     border: dotted red 2px;
     text-align: center;
     background-color: black;
-    height:140px;
+    height: 140px;
 }
 
-#yoon a{
-    color:white;
+#yoon a {
+    color: white;
 }
 
 
 /* Styles for Nicholas Comendant */
-    #ncom {
-        background-image: linear-gradient(45deg, blue, dodgerblue);
-        text-align: center;
-        font-family: 'Raleway', sans-serif;
-        color: white;
-        border: none;
-    }
+#ncom {
+    background-image: linear-gradient(45deg, blue, dodgerblue);
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    border: none;
+}
 
-    #ncom img {
-        height: 50px;
-        width: auto;
-        opacity: 0.5;
-        transition-property: opacity;
-        transition-duration: 0.5s;
-    }
+#ncom img {
+    height: 50px;
+    width: auto;
+    opacity: 0.5;
+    transition-property: opacity;
+    transition-duration: 0.5s;
+}
 
-    #ncom span {
-        display: flex;
-        justify-content: space-evenly;
-    }
+#ncom span {
+    display: flex;
+    justify-content: space-evenly;
+}
 
-    #ncom h1 {
-        font-size: 30px;
-    }
+#ncom h1 {
+    font-size: 30px;
+}
 
-    #ncom img:hover {
-        opacity: 1;
-        cursor: pointer;
-    }
+#ncom img:hover {
+    opacity: 1;
+    cursor: pointer;
+}
 
 #pan {
-        background-image: linear-gradient(0deg, black, grey);
-        text-align: center;
-        font-family: 'Arial Black', Gadget, sans-serif;
-        color: white;
-        border: none;
+    background-image: linear-gradient(0deg, black, grey);
+    text-align: center;
+    font-family: 'Arial Black', Gadget, sans-serif;
+    color: white;
+    border: none;
 }
 
-#pan a{
-    color:white;
+#pan a {
+    color: white;
 }
 
-.ram{
-    border:3px solid;
+.ram {
+    border: 3px solid;
     border-radius: 3px;
     border-color: red;
 }
 
 #dmitriyaa {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  border: none;
-  border-radius: 4px;
-  background: #fff;
-  font-family: "Raleway", sans-serif;
-  text-align: center;
-  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    border-radius: 4px;
+    background: #fff;
+    font-family: "Raleway", sans-serif;
+    text-align: center;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
 }
+
 #dmitriyaa a {
-  display: block;
-  font-size: 1.5rem;
-  color: #000;
-  text-decoration: none;
-  margin-bottom: 1rem;
+    display: block;
+    font-size: 1.5rem;
+    color: #000;
+    text-decoration: none;
+    margin-bottom: 1rem;
 }
+
 #dmitriyaa img {
-  max-width: 100%;
+    max-width: 100%;
 }
 
 .lrw {
-    overflow:hidden;
+    overflow: hidden;
     position: relative;
-    background-color:#fff;
+    background-color: #fff;
 }
+
 .lrw a {
     height: 100%;
     width: 100%;
@@ -686,44 +699,109 @@ div {
     justify-content: center;
     align-items: center;
 }
-.lrw a > h1 {
+
+.lrw a>h1 {
     text-align: center;
     position: relative;
-    color: rgba(0,0,0,1);
+    color: rgba(0, 0, 0, 1);
 }
-.lrw a > h1::before,
-.lrw a > h1::after {
-    content:"Liam Wrigley :)";
+
+.lrw a>h1::before,
+.lrw a>h1::after {
+    content: "Liam Wrigley :)";
     position: absolute;
     top: 0;
     left: 0;
     right: 0;
-    color: rgba(0,0,0,1);
+    color: rgba(0, 0, 0, 1);
     transition: all 100ms ease-in-out;
 }
-.lrw a:hover > h1 {
-    color: rgba(0,255,0,0.6);
+
+.lrw a:hover>h1 {
+    color: rgba(0, 255, 0, 0.6);
 }
+
 .lrw a:hover h1::before {
-    color: rgba(255,0,0,0.6);
+    color: rgba(255, 0, 0, 0.6);
     left: -5px;
     top: 5px
 }
+
 .lrw a:hover h1::after {
-    color: rgba(0,0,255,0.6);
+    color: rgba(0, 0, 255, 0.6);
     right: -5px;
     top: -5px
 }
-#beatrizsmerino{
-  text-align: center;
-  font-family: sans-serif;
-  font-size: 2rem;
-  background-color: #3A4F64;
+
+#beatrizsmerino {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 2rem;
+    background-color: #3A4F64;
 }
-#beatrizsmerino img{
-  margin-bottom: 1rem;
+
+#beatrizsmerino img {
+    margin-bottom: 1rem;
 }
-#beatrizsmerino a{
-  text-decoration: none;
-  color: white;
+
+#beatrizsmerino a {
+    text-decoration: none;
+    color: white;
+}
+
+.sourabh-container {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 4rem;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #0e8dbc;
+    background-color: #fff;
+    color: #202c2d;
+    text-shadow:
+        0 1px #808d93,
+        -1px 0 #cdd2d5,
+        -1px 2px #808d93,
+        -2px 1px #cdd2d5,
+        -2px 3px #808d93,
+        -3px 2px #cdd2d5,
+        -3px 4px #808d93,
+        -4px 3px #cdd2d5,
+        -4px 5px #808d93,
+        -5px 4px #cdd2d5,
+        -5px 6px #808d93,
+        -6px 5px #cdd2d5,
+        -6px 7px #808d93,
+        -7px 6px #cdd2d5,
+        -7px 8px #808d93,
+        -8px 7px #cdd2d5;
+    transition: 0.5s ease-in;
+}
+
+.sourabh-container a {
+    text-decoration: none;
+    color: #202c2d;
+    transition: all 0.5s ease-in 0.5;
+}
+
+.sourabh-container:hover {
+    background: #0e8dbc;
+    color: white;
+    text-shadow: 0 1px 0 #ccc,
+        0 2px 0 #c9c9c9,
+        0 3px 0 #bbb,
+        0 4px 0 #b9b9b9,
+        0 5px 0 #aaa,
+        0 6px 1px rgba(0, 0, 0, .1),
+        0 0 5px rgba(0, 0, 0, .1),
+        0 1px 3px rgba(0, 0, 0, .3),
+        0 3px 5px rgba(0, 0, 0, .2),
+        0 5px 10px rgba(0, 0, 0, .25),
+        0 10px 10px rgba(0, 0, 0, .2),
+        0 20px 20px rgba(0, 0, 0, .15);
+}
+.sourabh-container:hover a{
+    color: white;
 }
