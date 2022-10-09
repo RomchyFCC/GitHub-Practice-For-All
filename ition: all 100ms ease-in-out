@@ -1,0 +1,2604 @@
+[33mcommit 9470604542e9568e50d451d4caf691b2fc2e3ba7[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 4c7b0c8 a9a0dc3
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Tue Oct 29 19:50:48 2019 +0100
+
+    Merge pull request #189 from Liamwrigley/LRW
+    
+    Added Name (html+css)
+
+[33mcommit a9a0dc30289a0891d4415c63e710ed8db7cfab0b[m
+Merge: e29363a 4c7b0c8
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Tue Oct 29 19:46:41 2019 +0100
+
+    Merge branch 'master' into LRW
+
+[33mcommit 4c7b0c8cc763258fe893587b7f6c8f2d201ee653[m
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Tue Oct 29 19:41:07 2019 +0100
+
+    Update README.md
+
+[33mcommit 84a2b48580f2d30c3db3681755f26f7235743e5f[m
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Tue Oct 29 19:40:36 2019 +0100
+
+    Update README.md
+
+[33mcommit cc38f6862def41149921aeca88e280719c71a8d4[m
+Merge: bc28143 57fd529
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Thu Oct 24 18:15:00 2019 +0200
+
+    Merge pull request #186 from dmitriyaa/add-name-to-contributors
+    
+    Removed one of two link to profile
+
+[33mcommit 57fd5292ba9b8dd33ebcc2b7b8e5cdbaf848f55d[m
+Merge: 01768c6 bc28143
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Thu Oct 24 18:12:39 2019 +0200
+
+    Merge branch 'master' into add-name-to-contributors
+
+[33mcommit bc2814324a82c858f9a9ce28f46ed21db8c1ddd0[m
+Merge: b03a6bf a37ccf5
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Sun Oct 20 19:26:29 2019 +0200
+
+    Merge pull request #187 from beatrizsmerino/master
+    
+    Added my contribution
+
+[33mcommit e29363ac8dad60a02bbd8bb734f32bcd4f22165e[m
+Author: Liam <Wrigley>
+Date:   Tue Oct 15 16:24:49 2019 +1000
+
+    Added Name (html+css)
+
+[33mcommit a37ccf52716ea4be844c83b451bc0b5648e90ec2[m
+Author: Beatriz Sopeña Merino <beatrizsmerino@gmail.com>
+Date:   Mon Oct 14 02:15:47 2019 +0200
+
+    Added my contribution
+
+[33mcommit 01768c68f647137c013a3573458fbcfd89e65dac[m
+Author: Dmitriy An <dmitriym44@gmail.com>
+Date:   Tue Oct 8 23:17:17 2019 +0200
+
+    removed one of two link to profile
+
+[33mcommit b03a6bf4ab6fd31462e6ee1c2a3da12991406770[m
+Merge: 18b94cc ced9837
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Tue Oct 8 20:51:14 2019 +0200
+
+    Merge pull request #185 from GreenGreaper/master
+    
+    Update contributors.html
+
+[33mcommit 18b94cc8b75223cd62b1bd002fc14cbf27d03f71[m
+Merge: b9cc2f0 85a7cea
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Tue Oct 8 20:48:56 2019 +0200
+
+    Merge pull request #184 from GimanthaDissanayake/gima-patch
+    
+    added my name to contributers
+
+[33mcommit 85a7cea0109d7b85282dd344795775f848e1dbaf[m
+Merge: 25240af b9cc2f0
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Tue Oct 8 20:47:56 2019 +0200
+
+    Merge branch 'master' into gima-patch
+
+[33mcommit b9cc2f00f69c8b6ef90e6b3424fd2cf5c18ec1aa[m
+Merge: 02678da 710fc2c
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Tue Oct 8 20:47:07 2019 +0200
+
+    Merge pull request #183 from dmitriyaa/add-name-to-contributors
+    
+    Added my name to contributors html
+
+[33mcommit 02678da01c746030b449b503509d0cd30ba9ea8f[m
+Merge: d41c7d1 a18bffc
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Tue Oct 8 20:36:39 2019 +0200
+
+    Merge pull request #181 from beef-erikson/Add-name-html
+    
+    added name to HTML contributors file
+
+[33mcommit d41c7d149b0d02efc3c3a9d17d5549d789597a1a[m
+Merge: 9dd364d 9e44b02
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Tue Oct 8 20:34:26 2019 +0200
+
+    Merge pull request #179 from Sven72/user-contribution
+    
+    Added my name and inline style
+
+[33mcommit ced983750db0672175f0f5b70cbd98e6f41edf7a[m
+Author: GreenGreaper <metallicadevil66@hotmail.com>
+Date:   Sat Oct 5 19:24:17 2019 -0500
+
+    Update contributors.html
+
+[33mcommit 25240af5cb8757f7bc3e20feb5161e98cdaed1ab[m
+Author: Gimantha <gimanthad@gmail.com>
+Date:   Fri Oct 4 00:57:38 2019 +0530
+
+    added my name to contributers
+
+[33mcommit 710fc2c414be9c8eb5c8157e34f52885f37a42de[m
+Author: Dmitriy An <dmitriym44@gmail.com>
+Date:   Wed Oct 2 11:50:21 2019 +0200
+
+    add dmitriyaa to contributors
+
+[33mcommit a18bffc846c197d402dfe54f7af14f2c43004fc0[m
+Author: Troy Martin <beef.erikson.studios@gmail.com>
+Date:   Wed Oct 2 02:01:40 2019 -0400
+
+    added name to HTML contributors file
+
+[33mcommit 9e44b02ff986c05735b59ff38fc824069e70c58e[m
+Author: Sven Huff <info@sven-huff.de>
+Date:   Fri Sep 27 12:44:56 2019 +0200
+
+    Added my name and inline style
+
+[33mcommit 9dd364db3dc59cdfe1c66fb6f1c9b3a6141d7aa4[m
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Tue Mar 26 21:56:04 2019 +0100
+
+    Update README.md
+
+[33mcommit 25527a8ba94e214dd2a8a7ac54ab65498dccd62d[m
+Merge: dbd2003 f26d839
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Tue Mar 26 21:54:26 2019 +0100
+
+    Merge pull request #177 from Ram1607/ram
+    
+    user:ram
+
+[33mcommit f26d839135f9389b4f33b7b96150b0d3be2142d2[m
+Author: Ram1607 <sairamsudireddy7@gmail.com>
+Date:   Sat Mar 9 16:03:46 2019 +0530
+
+    user:ram
+
+[33mcommit dbd2003d021522f75909481acaebda8e365a41fd[m
+Merge: 222e04b d368fdd
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Tue Dec 4 21:17:03 2018 +0100
+
+    Merge pull request #176 from YoonSL/colorsuggest
+    
+    color suggestion for menu / resources
+
+[33mcommit d368fdd972db6248b5aaea3ae9322ede888b4b8e[m
+Author: Yoonsub <yoonsub90@gmail.com>
+Date:   Tue Nov 27 20:18:53 2018 -0500
+
+    color suggestion for menu / resources
+
+[33mcommit 222e04b87b8ac663d007753ec23cb0ea02491266[m
+Merge: 5b8285a 285f8aa
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Tue Nov 27 22:07:31 2018 +0100
+
+    Merge pull request #175 from panchee/pan
+    
+    Added Pan Chee as Contributor
+
+[33mcommit 285f8aa7f46a49511dcc639b46cf7abf93cc7fb1[m
+Author: Woo Pan Chee <woopanchee@gmail.com>
+Date:   Tue Nov 20 16:56:43 2018 +0800
+
+    Added Pan Chee as Contributor
+
+[33mcommit 5b8285afe5d206a446f4cc469526f2c0e90ae9e6[m
+Merge: e799733 150d90f
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Sat Nov 17 13:51:02 2018 +0100
+
+    Merge pull request #173 from ncomendant/name-addition
+    
+    Added name to contributors.
+
+[33mcommit 150d90f827e0904719f57dd4f1cb9a9785be8162[m
+Author: ncomendant <nicholas.comendant@gmail.com>
+Date:   Tue Nov 13 13:22:03 2018 -0800
+
+    Added name to contributors.
+
+[33mcommit e799733bf8496c97f16fc968b2d736db8870dfbd[m
+Merge: f6e4059 d424373
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Fri Nov 9 18:07:35 2018 +0100
+
+    Merge pull request #172 from wmahathre/master
+    
+    commit
+
+[33mcommit d424373d420eef1106bac9a3e61e26db2e5b180e[m
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Fri Nov 9 18:07:23 2018 +0100
+
+    deleting .Rhistory
+    
+    not needed
+
+[33mcommit f6e4059647f014166d2867d0a5f8c855cf8980ea[m
+Merge: 7cf3658 3830e9f
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Fri Nov 9 18:05:54 2018 +0100
+
+    Merge pull request #171 from YoonSL/mobilefix
+    
+    mobile version project button set to middle
+
+[33mcommit a20f3dab0e9598f4f5c9fe5e0fa10261cd4d49b6[m
+Author: wmahathre <wmahathre@gmail.com>
+Date:   Thu Nov 8 20:55:23 2018 -0500
+
+    commit
+
+[33mcommit 3830e9fcc03e05be03964cb18a96890589328fde[m
+Author: Yoonsub <yoonsub90@gmail.com>
+Date:   Thu Nov 8 15:33:28 2018 -0500
+
+    mobile version project button set to middle
+
+[33mcommit 7cf365838136f5f55d594fa690bb5f17bda04a5d[m
+Merge: e9f7979 f8866be
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Sun Nov 4 09:06:16 2018 +0100
+
+    Merge pull request #170 from akumbhar11/my-branch
+    
+    added name to contributers
+
+[33mcommit f8866be6c6fb134d5f386cc506c4f9d2ddfb80a3[m
+Author: Aditya Kumbhar <akumbhar@mediaocean.com>
+Date:   Sun Nov 4 13:31:01 2018 +0530
+
+    added name to contributers
+
+[33mcommit e9f7979f054b55747f2315728a0a661cceb576b0[m
+Merge: 1855880 0dce822
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Sat Nov 3 14:12:26 2018 +0100
+
+    Merge pull request #169 from YoonSL/new-contributor-yoon
+    
+    new-contributor-yoon
+
+[33mcommit 1855880200d292c2b455ee4bbfb03175a11c56cf[m
+Merge: 9455f65 ad7dbf3
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Sat Nov 3 14:11:42 2018 +0100
+
+    Merge pull request #168 from TowarzyszBroni/branchtest
+    
+    Branchtest
+
+[33mcommit 9455f657712a0eaadb2c4347fc4a0ce6df2b971c[m
+Merge: 9639151 e7f728a
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Fri Nov 2 21:36:04 2018 +0100
+
+    Merge pull request #166 from saeg2k3/patch-1
+    
+    update readme, added as contributor
+
+[33mcommit e7f728afa474b93b224b9db89594b734f433ae5a[m
+Merge: cdadc0e 9639151
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Fri Nov 2 21:35:50 2018 +0100
+
+    Merge branch 'master' into patch-1
+
+[33mcommit 9639151686c474f8044f8a4b99aef5b5a210b6c1[m
+Merge: f519539 56eb794
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Fri Nov 2 21:35:01 2018 +0100
+
+    Merge pull request #163 from OleksSobol/new_contributor
+    
+    added my name
+
+[33mcommit 56eb794f7c855ca30602e2e32b4499fed00658c9[m
+Merge: a5f35ca f519539
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Fri Nov 2 21:34:48 2018 +0100
+
+    Merge branch 'master' into new_contributor
+
+[33mcommit f51953915e5202fc0ac86db31a53b7a28fd0a079[m
+Merge: 7f8c59a ef51a9f
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Fri Nov 2 21:33:21 2018 +0100
+
+    Merge pull request #161 from PedroTerriquez/adding-pedro
+    
+    Adding pedro to contributors
+
+[33mcommit ef51a9f888045d33852d26069c4bbb3152c5d6e3[m
+Merge: aefe82e 7f8c59a
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Fri Nov 2 21:33:08 2018 +0100
+
+    Merge branch 'master' into adding-pedro
+
+[33mcommit 7f8c59a151fdda3f7876ee9a2e0bbaa24483b706[m
+Merge: 119e675 087977e
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Fri Nov 2 21:32:30 2018 +0100
+
+    Merge pull request #167 from saeg2k3/patch-2
+    
+    added me on list
+
+[33mcommit 087977e3c4f7507ffd2d693cb47d9b827219be44[m
+Merge: 291d9ef 119e675
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Fri Nov 2 21:32:15 2018 +0100
+
+    Merge branch 'master' into patch-2
+
+[33mcommit 119e675122be7f30105fe71825eaa2700bb5d35c[m
+Merge: a415603 83af779
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Fri Nov 2 21:31:12 2018 +0100
+
+    Merge pull request #165 from totalamd/patch-1
+    
+    Update contributors (add myself)
+
+[33mcommit a4156034d8e3a31c82cfff43e56a9ab9e57fd656[m
+Merge: 293a8be 9dadbfc
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Fri Nov 2 21:30:42 2018 +0100
+
+    Merge pull request #164 from whyzar/add_name
+    
+    Update README.md
+
+[33mcommit 0dce8220778adeafaf726e5298da8511a7581213[m
+Author: Yoonsub <yoonsub90@gmail.com>
+Date:   Thu Nov 1 15:16:26 2018 -0400
+
+    new-contributor-yoon
+
+[33mcommit ad7dbf3589922b7b7d127fb217b6e14caf9109cc[m
+Author: TowarzyszBroni <sarxin@wp.pl>
+Date:   Thu Nov 1 18:03:16 2018 +0000
+
+    Update contributors.html
+
+[33mcommit 9bbb9716d58f4168ddf639747d9f223ba9d5e97e[m
+Author: TowarzyszBroni <sarxin@wp.pl>
+Date:   Thu Nov 1 18:01:11 2018 +0000
+
+    Revert "Update contributors.html"
+    
+    This reverts commit fce410d6cfb6f4f5e3f178e25fa6b6a2b45795e5.
+
+[33mcommit fce410d6cfb6f4f5e3f178e25fa6b6a2b45795e5[m
+Author: TowarzyszBroni <sarxin@wp.pl>
+Date:   Thu Nov 1 18:00:00 2018 +0000
+
+    Update contributors.html
+
+[33mcommit 291d9ef4c3549c4fd917c4a98e8475c2ed81de80[m
+Author: Sergio Enriquez <saeg2k3@users.noreply.github.com>
+Date:   Wed Oct 31 22:36:21 2018 -0500
+
+    added me on list
+    
+    added my name on list as instructed
+
+[33mcommit cdadc0ed555357e98852ccd1d4fb5306012167d6[m
+Author: Sergio Enriquez <saeg2k3@users.noreply.github.com>
+Date:   Wed Oct 31 22:33:39 2018 -0500
+
+    update readme, added as contributor
+    
+    added as a contributor on list as instructed
+
+[33mcommit 83af779ffcb476ea05d16ee65b9b75c555a6dd75[m
+Author: totalamd <totalamd@users.noreply.github.com>
+Date:   Thu Nov 1 05:31:55 2018 +0200
+
+    Update contributors.html
+
+[33mcommit 9dadbfc6a1ba5d5e853cd8cba85be74a84f3ca6d[m
+Author: whyzar <whyzar@users.noreply.github.com>
+Date:   Wed Oct 31 23:01:10 2018 -0400
+
+    Update README.md
+
+[33mcommit a5f35ca07584434472dec49d2db8f9958302da3e[m
+Author: Oleks Sobol <olekssobol@gmail.com>
+Date:   Wed Oct 31 20:50:20 2018 -0600
+
+    added my name
+
+[33mcommit 293a8be38541f3895c5a3355634d04205835e5b8[m
+Merge: 7dd30c8 fc4f510
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Thu Nov 1 01:52:33 2018 +0100
+
+    Merge pull request #160 from zinczar/first-time-contribute
+    
+    added name to contributors
+
+[33mcommit fc4f5103b595e77aef2ec3aad712bc9d043659b3[m
+Merge: 1ce342b 7dd30c8
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Thu Nov 1 01:50:51 2018 +0100
+
+    Merge branch 'master' into first-time-contribute
+
+[33mcommit 7dd30c815eb8983c90e12c69a7f336eb5086db0f[m
+Merge: 3070d71 759a570
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Thu Nov 1 01:50:05 2018 +0100
+
+    Merge pull request #158 from keshumania/patch-1
+    
+    Update contributors.html
+
+[33mcommit 759a5704d5f474671cb4cd34320f8ed0c339b291[m
+Merge: 88a368d 3070d71
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Thu Nov 1 01:49:54 2018 +0100
+
+    Merge branch 'master' into patch-1
+
+[33mcommit 3070d71669ad4aa3c465d26cbfcef7081b6a6496[m
+Merge: abfe2a8 86981ba
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Thu Nov 1 01:48:12 2018 +0100
+
+    Merge pull request #157 from lavela/patch-1
+    
+    Update README.md
+
+[33mcommit 86981ba4876cd6f9fec430b9dd3af0b5f6842424[m
+Merge: f58362a abfe2a8
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Thu Nov 1 01:47:52 2018 +0100
+
+    Merge branch 'master' into patch-1
+
+[33mcommit abfe2a8991a984fa3cab95baba048e7e60c64ce3[m
+Merge: 7f98041 a712ccd
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Thu Nov 1 01:47:06 2018 +0100
+
+    Merge pull request #156 from nsvaidya/master
+    
+    added name
+
+[33mcommit a712ccdea4be045c45c477815f7dbd714974a1e5[m
+Merge: 6ce7660 7f98041
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Thu Nov 1 01:46:44 2018 +0100
+
+    Merge branch 'master' into master
+
+[33mcommit 7f98041d40e8ff65a00c29862d6be02aea8c29fd[m
+Merge: 733e07e fa9e0a6
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Thu Nov 1 01:45:02 2018 +0100
+
+    Merge pull request #155 from RanveerSinghKhattra/master
+    
+    Update contributors.html
+
+[33mcommit 733e07ece51a19b754a623081c4a7432033e60ac[m
+Merge: 7fa5c51 82416ce
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Thu Nov 1 01:42:01 2018 +0100
+
+    Merge pull request #162 from dleung25/Hacktober-Derrick-Leung
+    
+    added name to contributors.html
+
+[33mcommit 82416ce3baad5e0c82d27844138430dcb0e5acef[m
+Author: dleung25 <dleung25@myseneca.ca>
+Date:   Wed Oct 31 18:03:23 2018 -0400
+
+    added name to contributors.html
+
+[33mcommit aefe82ee0ef01e8fcbb51eec25cf9b0ee92a062d[m
+Author: Pedro Terriquez <pedroterriquez@hotmail.com>
+Date:   Wed Oct 31 15:15:25 2018 -0600
+
+    Adding pedro to contributors
+
+[33mcommit 1ce342bda4e5e431369099a772c0d2d794dd7437[m
+Author: Brendan Eliason <brendaneliason@Macintosh.local>
+Date:   Wed Oct 31 13:20:12 2018 -0700
+
+    added name to contributors
+
+[33mcommit 7fa5c5190ca23aaf50d727a8fb6fcbf0e6afb4d0[m
+Merge: ce205f0 660c9a4
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Wed Oct 31 19:44:01 2018 +0100
+
+    Merge pull request #154 from Fertalicious/master
+    
+    added name to contributors
+
+[33mcommit 660c9a4387308c48fac85809d46f7fbde7ee11b1[m
+Merge: b2927a6 ce205f0
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Wed Oct 31 19:42:57 2018 +0100
+
+    Merge branch 'master' into master
+
+[33mcommit ce205f0d4d94dcfe9fa41a66322808fb97a18a4e[m
+Merge: 77f2228 2ef50ea
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Wed Oct 31 19:38:55 2018 +0100
+
+    Merge pull request #153 from devkant/master
+    
+    Added name to contributors
+
+[33mcommit 2ef50eabdba40dc38c242b5b6ce6b69dd18023ea[m
+Merge: 79334ae 77f2228
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Wed Oct 31 19:38:03 2018 +0100
+
+    Merge branch 'master' into master
+
+[33mcommit 77f222884a258963fa11d6a22a93ec8b7f7c5700[m
+Merge: 54c0e5e 642fef9
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Wed Oct 31 19:31:01 2018 +0100
+
+    Merge pull request #152 from tiffanyadu/add-name-to-contributors
+    
+    Add my name to contributor list
+
+[33mcommit 642fef94d75314881eb0b5a39dd60fb52bef9837[m
+Merge: 486e8c3 54c0e5e
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Wed Oct 31 19:29:04 2018 +0100
+
+    Merge branch 'master' into add-name-to-contributors
+
+[33mcommit 54c0e5ea4be26c6bcaa7f6c17d5bd1fe37e016c8[m
+Merge: c004715 c462705
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Wed Oct 31 19:26:28 2018 +0100
+
+    Merge pull request #151 from nickarmet/master
+    
+    Added my name to the contributors
+
+[33mcommit c46270576a894c226f751d61cbee16463b66d475[m
+Merge: 850fea6 c004715
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Wed Oct 31 19:25:47 2018 +0100
+
+    Merge branch 'master' into master
+
+[33mcommit c00471588af7afa9fff1722b1f50ce3dab3febe7[m
+Merge: 9102116 8a876cc
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Wed Oct 31 19:24:33 2018 +0100
+
+    Merge pull request #150 from kit0t0yu/add-kit0t0yu
+    
+    Add Name in contributors.html
+
+[33mcommit 8a876cc30066fe42711de4eb6087c06b7a877291[m
+Merge: 8157760 9102116
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Wed Oct 31 19:24:12 2018 +0100
+
+    Merge branch 'master' into add-kit0t0yu
+
+[33mcommit 9102116a5a679af4c2dc49de4c82c73e8afd3015[m
+Merge: 55a9585 5017b19
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Wed Oct 31 19:22:10 2018 +0100
+
+    Merge pull request #148 from adamfitzgibbon/add_contributor
+    
+    Adding myself on the contributor page
+
+[33mcommit 88a368d9a926b41e82267499336ae02dd243efb0[m
+Author: Keshav Mishra <keshumania@gmail.com>
+Date:   Wed Oct 31 23:00:11 2018 +0530
+
+    Update contributors.html
+
+[33mcommit f58362a420b6f1bf8c2a31fce6e20395c744c44a[m
+Author: Leandro Bitencourt <leandrocintrabitencourt@gmail.com>
+Date:   Wed Oct 31 14:23:25 2018 -0300
+
+    Update README.md
+
+[33mcommit 6ce766041d8e307dc5216c0fbe1387b73921430c[m
+Author: Neerad Vaidya <neeradtheprogrammer1997@gmail.com>
+Date:   Wed Oct 31 21:49:02 2018 +0530
+
+    added name
+
+[33mcommit fa9e0a65d260234c028ecf8b51c984abb1a46317[m
+Author: RanveerSinghKhattra <37954826+RanveerSinghKhattra@users.noreply.github.com>
+Date:   Wed Oct 31 19:41:27 2018 +0530
+
+    Update contributors.html
+
+[33mcommit b2927a645572a25bd10209fdd66c55bf6f19b891[m
+Author: Hobbes4 <kylefertile@gmail.com>
+Date:   Tue Oct 30 23:30:23 2018 -0700
+
+    added name to contributors
+
+[33mcommit 79334aec75f520494eb66cf4832f1a9bec91c8dc[m
+Author: Dev Kant K Chouhan <32243035+devkant@users.noreply.github.com>
+Date:   Wed Oct 31 10:47:01 2018 +0530
+
+    Added name to contributors
+
+[33mcommit 486e8c31eac72bd0fa604ea8597cc63826d6803f[m
+Author: tiffanyadu <tadofdesign@gmail.com>
+Date:   Tue Oct 30 20:22:09 2018 -0500
+
+    Add my name to contributor list
+
+[33mcommit 850fea66a4a49f8b20cf21d178abc4dfc51674ea[m
+Author: Nick Armet <nick.armet@gmail.com>
+Date:   Tue Oct 30 19:52:51 2018 -0500
+
+    Added my name to the contributors
+
+[33mcommit 81577602cd04d3e04d0429ba6aefdee82bcd937a[m
+Author: kit0t0yu <kit0t0yu@gmail.com>
+Date:   Wed Oct 31 08:08:07 2018 +0900
+
+    Add Name in contributors.html
+
+[33mcommit 5017b19d0fe73e175b5abe8eadbd86b94b00225f[m
+Author: Adam Fitzgibbon <fitzgamer@hotmail.com>
+Date:   Mon Oct 29 20:48:30 2018 -0500
+
+    Adding myself on the contributor page
+
+[33mcommit 55a9585ee375e549f5bc765c727b810557a0edc5[m
+Merge: df5b8c8 af69428
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Sun Oct 28 17:11:53 2018 +0100
+
+    Merge pull request #147 from ankitsuman4/master
+    
+    Added name in contributors.html and deleted the swp file
+
+[33mcommit af69428dc86771891f102fda930d2285330e0cd5[m
+Merge: d7292c5 2824f95
+Author: ankitsuman4 <ankit.suman4@gmail.com>
+Date:   Sun Oct 28 00:30:45 2018 +0530
+
+    Added Name in contributors.html
+
+[33mcommit d7292c595bd2cfa80361534e72bc1cd53a0aeff8[m
+Author: ankitsuman4 <ankit.suman4@gmail.com>
+Date:   Sun Oct 28 00:22:24 2018 +0530
+
+    Added name in contibutors.html and removed swp file
+
+[33mcommit 2824f9560e7eba2744f44c26d3a3c96aeb2f8f43[m
+Author: ankitsuman4 <38225987+ankitsuman4@users.noreply.github.com>
+Date:   Sun Oct 28 00:08:15 2018 +0530
+
+    Delete .contributers.css.swp
+
+[33mcommit 2f169fac74c622e541084f6f57cc0ea63ddc9ff7[m
+Merge: 30e9873 df5b8c8
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Fri Oct 26 23:17:57 2018 +0200
+
+    Merge branch 'master' into master
+
+[33mcommit df5b8c8a65494538b566a0e75ca91e8ed464a417[m
+Merge: db70248 c2be52e
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Fri Oct 26 23:17:10 2018 +0200
+
+    Merge pull request #145 from andirobinson/halloween-my-name
+    
+    Ok! This will fix my name!
+
+[33mcommit 30e98739ca0c1e9a6323eadba5c8a1e7c48ecb27[m
+Author: ankitsuman4 <ankit.suman4@gmail.com>
+Date:   Fri Oct 26 03:55:56 2018 +0530
+
+    Ankit Added in Contributers
+
+[33mcommit c2be52e19af9ca04a690ce1454760b3dcf34cda9[m
+Author: Andi Robinson <arobinson@rumblefish.com>
+Date:   Tue Oct 23 16:32:42 2018 -0700
+
+    fix the creepy name look
+
+[33mcommit db702489b3f6ada7d6a8995d5f31624137ea0587[m
+Merge: 3ebc78e b534d66
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Tue Oct 23 20:55:05 2018 +0200
+
+    Merge pull request #143 from andirobinson/menu-bar
+    
+    Add Menu Bar
+
+[33mcommit 3ebc78e25e6301828924af1db3393d463f5cae7a[m
+Merge: ec8edb8 95d67e2
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Tue Oct 23 20:54:34 2018 +0200
+
+    Merge pull request #142 from andirobinson/add-my-name
+    
+    Add My Name, Halloween Style
+
+[33mcommit b534d6620a20df86dbc80f012fa8f5ccb41c8b5e[m
+Author: Andi Robinson <arobinson@rumblefish.com>
+Date:   Tue Oct 23 11:49:04 2018 -0700
+
+    add menu bar, some styling, and a logo image
+
+[33mcommit 95d67e2a0920aedf06d654e864842534eedee509[m
+Author: Andi Robinson <arobinson@rumblefish.com>
+Date:   Tue Oct 23 08:03:20 2018 -0700
+
+    add my name and make it spooky for the approaching holiday
+
+[33mcommit ec8edb82a510091dbadc22adb32c5e475bd3f54d[m
+Merge: a22ab4f 269fd50
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Sun Oct 21 23:29:19 2018 +0200
+
+    Merge pull request #141 from AmberRoberts/amber
+    
+    Amber
+
+[33mcommit 269fd508a9138cdc0f36b25cfe582cd72c2de400[m
+Author: Amber Roberts <amberrobertsvt@gmail.com>
+Date:   Sun Oct 21 15:14:15 2018 -0400
+
+    Added Amber Roberts
+
+[33mcommit 4014468b7a56ea137498c6a9e933c002c1d46e22[m
+Author: Amber Roberts <amberrobertsvt@gmail.com>
+Date:   Sun Oct 21 15:10:59 2018 -0400
+
+    Added Amber Roberts
+
+[33mcommit a22ab4fdf273296eb9a7b5d66a18b1469dafaf5d[m
+Merge: aa63329 74bce2e
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Sat Oct 20 00:54:07 2018 +0200
+
+    Merge pull request #140 from TatoAlves/master
+    
+    Funny way to learn to contribute
+
+[33mcommit 74bce2eff7ea00dfd9aeb436e3def1040841ba49[m
+Author: Otavio J S Alves <16417770+TatoAlves@users.noreply.github.com>
+Date:   Fri Oct 19 23:29:23 2018 +0100
+
+    Funny way to learn to contribute
+    
+    Funny way to learn to contribute #34
+
+[33mcommit aa63329767e2678178801de19cdc6fb28bce4816[m
+Merge: de8e031 e01582f
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Tue Oct 16 17:57:51 2018 +0200
+
+    Merge pull request #139 from dinaelhanan/dinaelhanan
+    
+    added myself to the contributors!
+
+[33mcommit e01582f70d5b2b70fc8c74a05cf74917b214c1fe[m
+Author: digitaldina <dinaelhanan@gmail.com>
+Date:   Sat Oct 13 22:25:27 2018 -0400
+
+    Update contributors.html
+
+[33mcommit dfaadc8b2740e878bc38843ca582e735e616b32b[m
+Author: dinaelhanan <dinaelhanan@gmail.com>
+Date:   Sat Oct 13 21:45:50 2018 -0400
+
+    added myself to the contributors!
+
+[33mcommit de8e031e1893c33eecb32ab138930c4c5783930b[m
+Merge: fd92e1f a452112
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Wed Oct 10 17:59:11 2018 +0200
+
+    Merge pull request #138 from DannyTheDev/DannyTheDev-patch-1
+    
+    updated contributors.html
+
+[33mcommit a452112b5c90c9ec3e70edbf28f88c656bc75afd[m
+Author: Danny Espinal <43760993+DannyTheDev@users.noreply.github.com>
+Date:   Tue Oct 9 20:26:17 2018 -0400
+
+    updated contributors.html
+    
+    Added my name, "DannyTheDev. To the html and learned that to make a "<a>" class into a bigger size like <h2> you put the h2 around the a class which was a pretty new concept to me. Thank you so much for this
+
+[33mcommit fd92e1fea2c1270fec57e522cb6e5b0210c56eb0[m
+Merge: e4c2870 0bf6d4e
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Thu Oct 4 17:42:51 2018 +0200
+
+    Merge pull request #137 from naufaldi/name-nrs
+    
+    Adding myname nrs
+
+[33mcommit 0bf6d4e5fb78d7aa7f1b6cfd0b1351f51915b56e[m
+Merge: 108a95b e4c2870
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Thu Oct 4 17:40:53 2018 +0200
+
+    Merge branch 'master' into name-nrs
+
+[33mcommit 108a95b4e90711666abefc7ab224cb82835f71cc[m
+Author: Naufaldi <naufaldi.rafif@gmail.com>
+Date:   Thu Oct 4 10:13:16 2018 +0700
+
+    name add nrs
+
+[33mcommit c3dabb6e97e1315ab45c307f577f6590dc5d7250[m
+Author: Naufaldi <naufaldi.rafif@gmail.com>
+Date:   Thu Oct 4 10:09:59 2018 +0700
+
+    add myname nrs
+
+[33mcommit e4c287063098e3b8714f088202d5d49bc45e22bb[m
+Merge: fc659aa f7e1ee7
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Wed Oct 3 23:50:22 2018 +0200
+
+    Merge pull request #136 from daphnied/my-name
+    
+    Added my information
+
+[33mcommit fc659aaefbac4720bf6606a9a089c27398167692[m
+Merge: f3878ca deaa990
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Wed Oct 3 23:48:45 2018 +0200
+
+    Merge pull request #134 from agarwal-akash/master
+    
+    Added name to Contributors.html
+
+[33mcommit f7e1ee7ad2bfef263dcfea5a395f8e19dc39468b[m
+Author: D Donnell <daphniedonnell@gmail.com>
+Date:   Tue Oct 2 18:14:14 2018 -0400
+
+    Added my information
+
+[33mcommit deaa9908428264c2ebbbe17745bb69f3e692eb02[m
+Author: Akash Agarwal <agarwal.akash1997@gmail.com>
+Date:   Tue Oct 2 01:22:31 2018 +0530
+
+    Added name to Contributors.html
+
+[33mcommit f3878ca6b4fb71b93442ebe3c228ba4d68c7c2c5[m
+Merge: 57528a6 5e3a7b3
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Sat Sep 22 11:58:01 2018 +0200
+
+    Merge pull request #133 from aakashpawar1999/first-contribution
+    
+    added my name
+
+[33mcommit 5e3a7b3ba85232d6f24738a9e7f0a4a0d23df824[m
+Author: aakashpawar1999 <aakashpawar1999@gmail.com>
+Date:   Sat Sep 22 12:45:48 2018 +0530
+
+    added my name
+
+[33mcommit 57528a6d094b5cf3badfe97f17741fbb42e1f6d8[m
+Merge: 6980bf6 c92ece5
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Sat Sep 15 11:35:18 2018 +0200
+
+    Merge pull request #132 from jphanna/add-john-hanna
+    
+    Add John Hanna to contributors
+
+[33mcommit c92ece5e4aedfb870aea5fa325565237979a39c9[m
+Merge: 7d78ed0 2d3ea30
+Author: John Hanna <jph_jr@yahoo.com>
+Date:   Fri Sep 14 22:30:06 2018 -0400
+
+    Merge branch 'add-john-hanna' of https://github.com/jphanna/GitHub-Practice-For-All into add-john-hanna
+
+[33mcommit 7d78ed092e591f0ea0549e9aa02ca427668012a0[m
+Author: John Hanna <jph_jr@yahoo.com>
+Date:   Fri Sep 14 21:46:07 2018 -0400
+
+    Add John Hanna to contributors and remove semicolon boo-boo from css
+
+[33mcommit 2d3ea30e0452ec7481410b963500d3effd73df1d[m
+Author: John Hanna <jph_jr@yahoo.com>
+Date:   Fri Sep 14 21:46:07 2018 -0400
+
+    Add John Hanna to contributors
+
+[33mcommit 6980bf61f32f57540472b5d365ef9170a74af9ee[m
+Merge: 6c22dd5 fd45ab4
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Sun Sep 2 20:25:56 2018 +0200
+
+    Merge pull request #131 from FreeMaNnn/upstream
+    
+    Add my name
+
+[33mcommit fd45ab4875b0fad72577ca43e911fbb78c03cff0[m
+Author: Yunus Emre <emreozvarlik@gmail.com>
+Date:   Sat Aug 25 19:04:42 2018 +0300
+
+    Add my name
+
+[33mcommit 6c22dd5941635a4ff19f1736c56c9e5c87177aaf[m
+Merge: 466c7f0 8e96832
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Fri Aug 24 16:56:19 2018 +0200
+
+    Merge pull request #129 from charliecjung/charliecjung
+    
+    adding charliecjung to contributors.html
+
+[33mcommit 8e968329c65c5fcff1f2a176ccfffe2f1400405e[m
+Author: Charlie Jung <32102793+Charlanx@users.noreply.github.com>
+Date:   Thu Aug 23 22:16:09 2018 -0500
+
+    adding charliecjung to contributors.html
+
+[33mcommit 466c7f0ac8f602239db6b4dbd63370de9f75f34a[m
+Merge: b900d3e 9676767
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Thu Aug 2 19:47:54 2018 +0200
+
+    Merge pull request #127 from gcyying123/add-my-name
+    
+    modifying name
+
+[33mcommit 9676767fb0188732d329f3c46e05e6b9da4478d7[m
+Merge: 7794f5c b900d3e
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Thu Aug 2 19:45:03 2018 +0200
+
+    Merge branch 'master' into add-my-name
+
+[33mcommit 7794f5cf18f79a57e4909d9cb4aa2ec371caf703[m
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Thu Aug 2 18:44:00 2018 +0100
+
+    made changes to the committed pull request
+    
+    removed the white space and added Tee Wan Seng, due to a merge conflict
+
+[33mcommit b900d3e13e2fc4248ac1341ab80090b5695b2012[m
+Merge: 2adb1e7 df73b69
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Thu Aug 2 19:29:44 2018 +0200
+
+    Merge pull request #126 from tws9797/changing-interface-html
+    
+    Changed interface using html
+
+[33mcommit c0b5f7df0daf549bc6454a54a4492361c159c41d[m
+Author: Tee Wen Seng <twenseng7227@gmail.com>
+Date:   Thu Aug 2 17:58:17 2018 +0800
+
+    modifying name
+
+[33mcommit df73b6977b8894fa8b47cb21fc7f86eb980f488d[m
+Author: Tee Wen Seng <twenseng7227@gmail.com>
+Date:   Thu Aug 2 12:49:56 2018 +0800
+
+    Changed interface using html
+
+[33mcommit 2adb1e71e2a4e0aaada8cf8e3362c8335239487d[m
+Merge: e982efd c8ba883
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Tue Jul 31 17:52:23 2018 +0200
+
+    Merge pull request #122 from tws9797/add-my-name
+    
+    Modified contributors.md
+
+[33mcommit c8ba883e61b4fe107df94976a0d62cb5110624d9[m
+Author: Tee Wen Seng <twenseng7227@gmail.com>
+Date:   Tue Jul 31 18:18:39 2018 +0800
+
+    add my name
+
+[33mcommit e982efdb328b7387c95e29aeca0b2c827ad4f6b3[m
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Thu Jul 26 22:40:56 2018 +0100
+
+    Removal of iframe from index.html
+
+[33mcommit d69f240d6d4e0e0e187397d97f5a1cdaa1d25b42[m
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Thu Jul 26 15:10:12 2018 +0100
+
+    updated the projects html file
+    
+    removed the comment tags for iframe
+
+[33mcommit 67895537e665657c49b4e6138ef8dec8a400119b[m
+Merge: 9c621e4 6770ca3
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Wed Jul 25 22:57:38 2018 +0200
+
+    Merge pull request #121 from mills3/top-slider
+    
+    Slider for the golf project
+
+[33mcommit 6770ca39268705fe5ef3c8076ca56059c4bd1c92[m
+Author: mills3 <mills827@gmail.com>
+Date:   Sat Jul 21 20:14:07 2018 +0100
+
+    Slider for the golf project
+
+[33mcommit 9c621e4092aff91995c1e9ecdc8838cbc589b767[m
+Merge: 20b8462 22cc2a3
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Mon Jul 16 22:33:17 2018 +0100
+
+    Merge pull request #120 from h1tag/lets-make-a-project-0
+    
+    Let's make a project 0
+
+[33mcommit 22cc2a38d7888c63e72464adfdaa5c5cc0c6ab4f[m
+Author: h1tag <kkerm@protonmail.com>
+Date:   Mon Jul 16 12:20:15 2018 +0300
+
+    Let's make a project 0
+
+[33mcommit 20b8462374998be53b68e9346cfdd28284f80c9e[m
+Merge: ddfd431 dea1072
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Wed Jun 27 20:24:30 2018 +0200
+
+    Merge pull request #111 from shivank1234/master
+    
+    My first commit
+
+[33mcommit dea107210531af6f7960b089a9e35b83e672fc66[m
+Author: Shivank <shivankkapoor5@gmail.com>
+Date:   Wed Jun 27 13:05:24 2018 +0530
+
+    My first commit
+
+[33mcommit ddfd431fa75803486717cc8ae76cc27afe88f0ce[m
+Merge: 561abe7 e2c133f
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Sat Jun 16 21:58:32 2018 +0200
+
+    Merge pull request #110 from mlestina/matt-again
+    
+    matt#2 being added as a contributer
+
+[33mcommit e2c133fdf9d58c360f1b76753ac943156d6ae1a9[m
+Merge: 7be5fcc 561abe7
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Sat Jun 16 21:58:21 2018 +0200
+
+    Merge branch 'master' into matt-again
+
+[33mcommit 7be5fccade488ec00d6e7b4db6b92ad696863507[m
+Author: Matt <mlestina@hotmail.com>
+Date:   Fri Jun 15 18:01:55 2018 -0400
+
+    matt#2 being added as a contributer
+
+[33mcommit 561abe7f40aa8e17e2075e324637ab7214a61e6d[m
+Merge: 49ff66b 7f51ce4
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Fri Jun 15 07:49:36 2018 +0200
+
+    Merge pull request #109 from mlestina/add-my-name
+    
+    Matt added as a contributer
+
+[33mcommit 7f51ce46f03bf9fed0438661c4182818d8df7e7c[m
+Author: Matt <mlestina@hotmail.com>
+Date:   Thu Jun 14 17:14:06 2018 -0400
+
+    Matt added as a contributer
+
+[33mcommit 49ff66be50913643bc67429f4f17d106f01e90ae[m
+Merge: 08e1435 1cfc57a
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Wed Jun 6 20:08:27 2018 +0200
+
+    Merge pull request #108 from rddravic/add-your-name-#34
+    
+    add-your-name-#34
+
+[33mcommit 1cfc57a9c69db547cb8a418bf939653958be7787[m
+Author: rddravic <rddravic@gmail.com>
+Date:   Sun Jun 3 23:45:38 2018 +0530
+
+    add-your-name-#34
+
+[33mcommit 08e143531353ba08bf319daf4095db02cbc9a1de[m
+Merge: 6ce1926 2f4c0c3
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Fri May 25 19:29:22 2018 +0200
+
+    Merge pull request #107 from dcookwebdev/addme
+    
+    Addme
+
+[33mcommit 2f4c0c388a68e83e7c88ea81b1374d6f2b00075e[m
+Author: Dan Cook <cook.r.dan@gmail.com>
+Date:   Fri May 25 00:14:49 2018 +0900
+
+    added name to readme.md
+
+[33mcommit 123d502b0ef5c6cf6085101881b7812077768179[m
+Author: Dan Cook <cook.r.dan@gmail.com>
+Date:   Fri May 25 00:10:36 2018 +0900
+
+    css for my name card in contributors
+
+[33mcommit 0502fd1d9a30a81ad47d3d7e812ef478bfe3af17[m
+Author: Dan Cook <cook.r.dan@gmail.com>
+Date:   Thu May 24 23:55:46 2018 +0900
+
+    added html
+
+[33mcommit 6ce1926a551d7ff71f623781e070d631beb4cccf[m
+Merge: fcc204d f1781aa
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Fri May 18 22:52:46 2018 +0200
+
+    Merge pull request #105 from leesan11/projectNav
+    
+    added nav and noreferrer security on contributors page
+
+[33mcommit fcc204d0ba593fcff4fda49d4781f54d09635884[m
+Merge: 25e6591 080a45a
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Fri May 18 22:49:19 2018 +0200
+
+    Merge pull request #104 from Zach048/add-links-resources
+    
+    Added links to Resources
+
+[33mcommit f1781aaa2d8be6cb3353dfb1bb30ac0e5faabf29[m
+Author: sang <leesanxi@gmail.com>
+Date:   Fri May 18 14:18:09 2018 -0400
+
+    added nav and noreferrer security on contributors page
+
+[33mcommit 080a45a70d3ec9608c6a201a740fb216cfeeb5c0[m
+Author: Zach048 <zearl048@gmail.com>
+Date:   Thu May 17 21:51:17 2018 -0400
+
+    added links to resources
+
+[33mcommit 25e6591fd9204d2ecdc33ca72178807576e7e284[m
+Merge: 9a726fc 0428818
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Thu May 17 20:29:43 2018 +0200
+
+    Merge pull request #103 from lsurasani/master
+    
+    content creation changes
+
+[33mcommit 0428818a06893ca9ec7765a0d941a30a75b8ca68[m
+Author: Lekha Surasani <lesurasani@gmail.com>
+Date:   Tue May 15 16:33:05 2018 -0400
+
+    faq and contact info
+
+[33mcommit 9a726fcca6f26437aa23ae34bb6b154a0dd22f3a[m
+Merge: 4268566 0d626cb
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Wed May 2 21:57:06 2018 +0200
+
+    Merge pull request #101 from mayur-rana/my-practice
+    
+    add name to contributors list
+
+[33mcommit 4268566bd483c68272b5f3c76bea75579533b226[m
+Merge: e743e0f 1e04904
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Wed May 2 21:56:30 2018 +0200
+
+    Merge pull request #100 from SakiPgr/master
+    
+    changed the contributers.css .rcat border-size to border-width
+
+[33mcommit 0d626cb6782674613c2912fec8cd8c301a1e6a67[m
+Author: Mayur <mayur.h.rana@gmail.com>
+Date:   Wed May 2 10:11:30 2018 +1200
+
+    add name to contributors list
+
+[33mcommit 1e049044f32d8bf09cd22d154be2e9674e44cf50[m
+Author: Athanasios Dratzidis <realsaki@hotmail.gr>
+Date:   Tue May 1 19:42:11 2018 +0300
+
+    changed the contributers.css .rcat border-size to border-width
+
+[33mcommit e743e0f39532561a6faf3661e727e3d38e9e7941[m
+Author: romchy <roman.struna.dev@gmail.com>
+Date:   Wed Apr 25 08:35:57 2018 +0100
+
+    adding most recent contributors and deleting the DS_Store file
+
+[33mcommit 0e5e54d8c4526462f6fbbbd0b9f6a83757a1068d[m
+Merge: 46f5784 925b436
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Wed Apr 25 08:23:10 2018 +0200
+
+    Merge pull request #99 from akshaykumar123/patch-1
+    
+    Update style.css
+
+[33mcommit 925b436162a784b4529fab0a1f24c54f79a6d5f1[m
+Author: Akshay Kumar <gakkikumar@gmail.com>
+Date:   Tue Apr 24 20:37:00 2018 +0530
+
+    Update style.css
+    
+    bg color change
+
+[33mcommit 46f578498a9aad88ae4a70aa370c9132867a39a0[m
+Merge: ba90aff b5f426e
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Tue Apr 24 08:29:34 2018 +0200
+
+    Merge pull request #98 from geekiam23/feature/instruct
+    
+    Added instructions section to page
+
+[33mcommit b5f426e7ec58ee4584f49e77a8a3be469515d18f[m
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Tue Apr 24 07:26:22 2018 +0100
+
+    combined 2 links as per instructions
+    
+    renamed the sections
+
+[33mcommit a5e2a0d88493f36a945822a93c91638bdf4cc24f[m
+Author: Will Larry <will23larry@gmail.com>
+Date:   Mon Apr 23 17:55:18 2018 -0400
+
+    Added instructions section to page
+
+[33mcommit ba90aff81645b3ef1b36720c2e613d34c29c76ce[m
+Merge: 00e4f9e ce560bc
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Wed Apr 18 07:41:45 2018 +0100
+
+    Merge pull request #94 from OnlinePseudonym/nav
+    
+    add section elements
+
+[33mcommit ce560bcbc0eccf49965d2d2258a0fe62fa0ec074[m
+Author: Kevin Reynolds <Kevin.T.Reynolds30@gmail.com>
+Date:   Tue Apr 17 08:56:07 2018 -0700
+
+    add section elements
+
+[33mcommit 00e4f9e36fde2172086e09c02994435d107ac2e0[m
+Merge: dbf3321 5f99231
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Thu Apr 12 09:42:57 2018 +0100
+
+    Merge pull request #92 from vignesh240/vignesh240-work
+    
+    Added Navbar And Few Menus
+
+[33mcommit dbf3321371b96caedc65a709dd34078cf3855d31[m
+Merge: e87a50f 4382132
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Thu Apr 12 09:39:32 2018 +0100
+
+    Merge pull request #91 from rkett/personal-cont-rcat
+    
+    Added rcat contribution.
+
+[33mcommit 4382132f022ddc4472bdf3a7c933095084ac664a[m
+Author: rkett <rkett@uoguelph.ca>
+Date:   Thu Apr 12 02:47:29 2018 -0400
+
+    Added rcat contribution.
+
+[33mcommit 5f99231dbb24638d8c0f67c9649ad31a45a6165b[m
+Author: vignesh <mvignesh240@gmail.com>
+Date:   Thu Apr 12 11:59:19 2018 +0530
+
+    Added Navbar And Few Menus
+
+[33mcommit e87a50fdecf17aefd08c20ed66185a337c3ad509[m
+Merge: 8317500 9272cf4
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Sun Apr 8 17:30:35 2018 +0100
+
+    Merge pull request #89 from h1tag/make-img-disappear
+    
+    Made the secret image disappear on clicking it
+
+[33mcommit 9272cf4207b77c8a7d18d1444f21ddfcd036273b[m
+Author: h1tag <kkerm@protonmail.com>
+Date:   Sun Apr 8 15:52:05 2018 +0300
+
+    Made the secret image disappear when clicked on
+
+[33mcommit 831750020ae98a90f4a8143b71fd0ed7f9790bcd[m
+Merge: fcf133e 91a06be
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Sun Apr 8 10:42:27 2018 +0100
+
+    Merge pull request #88 from h1tag/link-controbutorsjs
+    
+    Linked contributors.js to contributors.html
+
+[33mcommit 91a06be76d1efdf3c74ae7dacb35dc8c986627d8[m
+Author: h1tag <kkerm@protonmail.com>
+Date:   Sun Apr 8 12:38:27 2018 +0300
+
+    Linked contributors.js to contributors.html
+
+[33mcommit fcf133ea1823dad84010ea6889139b22c2c72713[m
+Merge: d5ad886 8e60606
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Sun Apr 8 10:26:02 2018 +0100
+
+    Merge pull request #87 from h1tag/move-js-file
+    
+    Moved the JS file and added a new one to the scripts folder
+
+[33mcommit 8e60606b5a54aa079467b84111e7563814f15e31[m
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Sun Apr 8 10:25:45 2018 +0100
+
+    renamed the script file connected to index.html
+
+[33mcommit 34f4a3a0c15387d48fdfa51a8464fc6d4a35bc91[m
+Author: h1tag <kkerm@protonmail.com>
+Date:   Sun Apr 8 11:50:48 2018 +0300
+
+    Moved the JS file and added a new one in the scripts folder
+
+[33mcommit d5ad886a2ceaa10ad18765b7b15ee70aca407fbd[m
+Author: romchy <roman.struna.dev@gmail.com>
+Date:   Fri Apr 6 08:03:24 2018 +0100
+
+    adding latest contributor to contributors.html and removing all names from index.html
+
+[33mcommit c0bf30f970a6da86392721e6738882f2bf78c632[m
+Merge: 2e7ebd8 5df3c65
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Thu Apr 5 19:41:56 2018 +0100
+
+    Merge pull request #86 from jzloty/AddName
+    
+    AddName
+
+[33mcommit 5df3c65429f84df995b128060c9b803a431f1952[m
+Author: jzloty-invessen <jacek.zloty@invessen.pl>
+Date:   Thu Apr 5 14:19:44 2018 +0200
+
+    AddName
+
+[33mcommit 2e7ebd85554aa7d1f505da57b9f76e1413b45062[m
+Merge: aaa7c56 deed943
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Thu Apr 5 13:12:30 2018 +0100
+
+    Merge pull request #85 from jzloty/master
+    
+    Update README.md
+
+[33mcommit deed943ce5ea31bb305f07ca408e74f6c81cb788[m
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Thu Apr 5 13:12:08 2018 +0100
+
+    added richardson
+
+[33mcommit 9e275df6d774d4f231ee1bdb8bcfa533cef43645[m
+Author: Jacek Złoty <38064224+jzloty@users.noreply.github.com>
+Date:   Thu Apr 5 13:58:16 2018 +0200
+
+    Update README.md
+
+[33mcommit aaa7c56a3fa4053e9605e79e57985a76ca74dd97[m
+Merge: 1689593 24f87ce
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Wed Apr 4 19:57:52 2018 +0100
+
+    Merge pull request #83 from richardson3535/add-richardson3535
+    
+    added my name
+
+[33mcommit 24f87ce95862c7f27b80958464129f8eb67bc883[m
+Author: Austin Richardson <richardson.austin35@gmail.com>
+Date:   Wed Apr 4 17:10:37 2018 +0000
+
+    added my name
+
+[33mcommit 16895936f51965e11b5d190ca95a48a221aa6017[m
+Author: romchy <roman.struna.dev@gmail.com>
+Date:   Tue Mar 27 19:43:15 2018 +0100
+
+    adding a new contributor and fixing a broken link
+
+[33mcommit dbdb1c6a1395321e687c5906bc19c791e77128c8[m
+Merge: d25d7bc 2ba9efd
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Tue Mar 27 18:37:04 2018 +0100
+
+    Merge pull request #82 from poppashingles/master
+    
+    Added to contributors.html and stylesheet
+
+[33mcommit 2ba9efd2d6aed595d0f27918e02d4aa0e393a8ce[m
+Author: Rob <robdwilliams85@gmail.com>
+Date:   Tue Mar 27 17:09:17 2018 +0100
+
+    Added to contributors.html and stylesheet
+
+[33mcommit d25d7bc92b708cfcc11d73fb0d0612afeae8bd22[m
+Merge: 39af4d6 e6ac834
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Tue Mar 27 08:47:41 2018 +0100
+
+    Merge pull request #81 from poppashingles/master
+    
+    Added my name to the list
+
+[33mcommit e6ac834a948b36f52fec66707694785195315183[m
+Author: Rob <robdwilliams85@gmail.com>
+Date:   Mon Mar 26 19:43:14 2018 +0100
+
+    Added my name to the list
+
+[33mcommit 39af4d6c5ff60c631a3edbc113fb1b3529c14acb[m
+Author: romchy <roman.struna.dev@gmail.com>
+Date:   Fri Mar 23 06:33:24 2018 +0100
+
+    removing guides and adding contributors
+
+[33mcommit 99603ccb1207fb9080336109d735607e8b2afac5[m
+Merge: 133b0c1 983e010
+Author: romchy <roman.struna.dev@gmail.com>
+Date:   Fri Mar 23 05:45:28 2018 +0100
+
+    Merge branch 'ravikishorethella-contributor'
+
+[33mcommit 983e010fef00ab2bce9292003fcd8896f305c7d4[m
+Merge: 133b0c1 f944ce0
+Author: romchy <roman.struna.dev@gmail.com>
+Date:   Fri Mar 23 05:44:49 2018 +0100
+
+    removed the whitespace and added the style folder back
+
+[33mcommit 133b0c189400623ac820364ce089fd43a7e334ea[m
+Merge: 6922f4f 30079dd
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Fri Mar 23 05:25:42 2018 +0100
+
+    Merge pull request #78 from mills3/folder-for-stylesheets
+    
+    Renamed style.css to contributors.css
+
+[33mcommit f944ce0eefb7e066808dc6688102152d27a8bc3a[m
+Author: ravikishorethella <ravikishorethella@gmail.com>
+Date:   Thu Mar 22 16:46:20 2018 -0400
+
+    new contributor
+
+[33mcommit 30079ddb1302360776577f923368686583b1c28b[m
+Author: mills3 <mills827@gmail.com>
+Date:   Thu Mar 22 19:57:22 2018 +0000
+
+    Renamed style.css to contributors.css
+
+[33mcommit 6922f4f2d693ec0f3555e8b6fd2a853ae8e0a34d[m
+Author: romchy <roman.struna.dev@gmail.com>
+Date:   Thu Mar 22 18:11:12 2018 +0100
+
+    addind recent contributor
+
+[33mcommit e75ad0c654ef945ba55d3e34a2d524b20c5a0dd0[m
+Merge: 6b910ab d91aeb7
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Wed Mar 21 06:28:50 2018 +0100
+
+    Merge pull request #77 from dar-puch/Time-to-move-2/5
+    
+    Time to move 2/5
+
+[33mcommit d91aeb7cec8eff5245ca8af4a5d83a49d1fc7e02[m
+Merge: 2a2c12d 6b910ab
+Author: dar-puch <dar-puch@users.noreply.github.com>
+Date:   Wed Mar 21 00:15:21 2018 +0100
+
+    Merge branch 'master' into Time-to-move-2/5
+
+[33mcommit 2a2c12df737050f378fef8bf6543e0b4cd78109e[m
+Author: Daria Puch <dar-puch@users.noreply.github.com>
+Date:   Tue Mar 20 23:50:14 2018 +0100
+
+    undo beautify
+
+[33mcommit 6481e8366aebcbbf0f9ef3859193613f9ea180b5[m
+Author: Daria Puch <dar-puch@users.noreply.github.com>
+Date:   Tue Mar 20 18:48:29 2018 +0100
+
+    Add styling to contributors link
+
+[33mcommit 6b910ab87ee1bf655e0be7b1e31873b04ec12e39[m
+Merge: b3b29e5 cf95463
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Tue Mar 20 16:59:15 2018 +0100
+
+    Merge pull request #76 from dar-puch/add-my-name
+    
+    Add my name
+
+[33mcommit 5db12d8de4032dbcdf9cbce75b9ce8124c2377e5[m
+Author: Daria Puch <dar-puch@users.noreply.github.com>
+Date:   Tue Mar 20 15:22:38 2018 +0100
+
+    Add link to contributors
+
+[33mcommit 93d4c8c9b47370913ec73ed2e402589e36501304[m
+Author: Daria Puch <dar-puch@users.noreply.github.com>
+Date:   Tue Mar 20 15:16:06 2018 +0100
+
+    add index.html
+
+[33mcommit cabd6ce79d8bda61dc2dde450f72b4fb71b0f919[m
+Author: Daria Puch <dar-puch@users.noreply.github.com>
+Date:   Tue Mar 20 15:00:20 2018 +0100
+
+    rename index.html to contributors.html
+
+[33mcommit cf95463eba10b17905ed41479fcb5b40a0354ff7[m
+Author: Daria Puch <dar-puch@users.noreply.github.com>
+Date:   Tue Mar 20 13:23:58 2018 +0100
+
+    Delete unnecessary classes
+
+[33mcommit 93afbfa2cd164f5911487a0c2da1e3354c20b8c7[m
+Author: Daria Puch <dar-puch@users.noreply.github.com>
+Date:   Tue Mar 20 13:06:46 2018 +0100
+
+    Add styling
+
+[33mcommit 62a0b6eac2d02d29cadba06971d37313e1e2a92b[m
+Author: Daria Puch <dar-puch@users.noreply.github.com>
+Date:   Tue Mar 20 12:47:10 2018 +0100
+
+    Add Daria Puch
+
+[33mcommit b3b29e59e94c8aba9a0b7d5d3091cfbcffe2aa75[m
+Author: romchy <roman.struna.dev@gmail.com>
+Date:   Tue Mar 13 19:04:26 2018 +0100
+
+    added extra steps to git push instructions and added Dimitra to contributors
+
+[33mcommit 6d539045e85f4e5a49c9cb41be40b2c8a343de08[m
+Merge: cdad0d9 83dbe99
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Tue Mar 13 18:55:15 2018 +0100
+
+    Merge pull request #69 from dimikara/dimitra-change
+    
+    Update index.html
+
+[33mcommit 83dbe9972789a0d46070246524e85efe87af963c[m
+Author: Dimitra Karamperi <dimikara@users.noreply.github.com>
+Date:   Tue Mar 13 16:21:58 2018 +0200
+
+    Update index.html
+
+[33mcommit cdad0d93dd4613a2227de54b5d15e55d48ed0048[m
+Merge: 06a7434 a494233
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Mon Mar 12 17:22:52 2018 +0100
+
+    Merge pull request #68 from h1tag/add-my-name
+    
+    Added my name with some style.
+
+[33mcommit a4942332cb7d79e11189db885320b69421d3f8ef[m
+Author: h1tag <kkerm@protonmail.com>
+Date:   Mon Mar 12 18:00:46 2018 +0300
+
+    Added my name with some style.
+
+[33mcommit 06a74347ae1ea3fd5db4ee30eddd993975f242b9[m
+Merge: 2e828c8 f87363b
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Sat Mar 10 08:26:02 2018 +0100
+
+    Merge pull request #67 from BIngZL1983/feature-indent
+    
+    README.md Indenting
+
+[33mcommit f87363b322642f443eca2f4f735814f106fb1a0d[m
+Merge: 8497864 2e828c8
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Sat Mar 10 08:25:51 2018 +0100
+
+    Merge branch 'master' into feature-indent
+
+[33mcommit 84978648d8f50de92016cf5e356493b49cec46c7[m
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Sat Mar 10 08:21:52 2018 +0100
+
+    Removed the complexity of added spaces and dots
+    
+    The markdown already adds spaces and dots automatically if used correctly :)
+
+[33mcommit 4c6f1cad3ef919e30f829320c434a04ea64d3d6f[m
+Author: BingZL1983 <wolve3000@icloud.com>
+Date:   Sat Mar 10 00:10:39 2018 -0500
+
+    README.md
+
+[33mcommit 6943670fd3c720da5e52200c5edf0f3786e5d20b[m
+Author: BingZL1983 <wolve3000@icloud.com>
+Date:   Fri Mar 9 03:14:58 2018 -0500
+
+    'README.md'
+
+[33mcommit 2e828c8c38e2ede0c16741b0a512894fbf0ee866[m
+Merge: 42bbbb8 78b0268
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Thu Mar 8 23:52:38 2018 +0100
+
+    Merge pull request #65 from mills3/mobile-meta-tag
+    
+    Added meta tag for mobile devices
+
+[33mcommit 78b0268fc38a370046aa115d2dd049d4460e95d2[m
+Author: mills3 <mills827@gmail.com>
+Date:   Thu Mar 8 19:55:36 2018 +0000
+
+    Added meta tag for mobile devices
+
+[33mcommit 42bbbb8300d9e48a73d344624c4dcbfcd3818193[m
+Author: romchy <roman.struna.dev@gmail.com>
+Date:   Thu Mar 8 14:30:23 2018 +0100
+
+    fixed the indentation
+
+[33mcommit 48636e4c2394cdef43511640d4ca10adcc5bb152[m
+Author: romchy <roman.struna.dev@gmail.com>
+Date:   Thu Mar 8 14:25:54 2018 +0100
+
+    added Ayush to contributors list
+
+[33mcommit 9e1d868db33ee36b079df2003580f085d8ccb6f6[m
+Merge: 08bd1f8 2848944
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Thu Mar 8 14:19:39 2018 +0100
+
+    Merge pull request #64 from heyAyushh/patch-1
+    
+    indented
+
+[33mcommit 2848944fa27fcde4d3425590455fa51954853734[m
+Author: Ayush <Ayush-15@live.com>
+Date:   Thu Mar 8 18:27:49 2018 +0530
+
+    indented
+    
+    https://github.com/RomchyFCC/GitHub-Practice-For-All/issues/61
+
+[33mcommit 08bd1f84ead6cdc54eb022b350fefaec577629c4[m
+Merge: 4a1bf09 ef6c408
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Thu Mar 8 08:32:15 2018 +0100
+
+    Merge pull request #63 from mills3/grid
+    
+    CSS Grid applied to body tag
+
+[33mcommit ef6c4089df78d3fce4b89ad5104a0d6868a2a923[m
+Author: mills3 <mills827@gmail.com>
+Date:   Wed Mar 7 21:37:49 2018 +0000
+
+    CSS Grid applied to body tag
+
+[33mcommit 4a1bf09792896a820cf2a3da79725cd08c20aac1[m
+Author: romchy <roman.struna.dev@gmail.com>
+Date:   Wed Mar 7 19:42:57 2018 +0100
+
+    adding recent contributors
+
+[33mcommit e0c9979e7293826b79d07511d60522d87366d4bf[m
+Merge: cff103e 5792846
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Wed Mar 7 10:05:37 2018 +0100
+
+    Merge pull request #60 from ivan3123708/ivan
+    
+    Added ivan3123708
+
+[33mcommit 5792846232093fc9a30581107df57b04b923ae23[m
+Author: ivan3123708 <ivan3123708@gmail.com>
+Date:   Wed Mar 7 03:03:16 2018 +0100
+
+    Added ivan3123708
+
+[33mcommit cff103edd8d5f846450b6398f36953dc930880dd[m
+Merge: fb96d92 aace362
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Mon Mar 5 08:06:11 2018 +0100
+
+    Merge pull request #58 from mukul7/master
+    
+    Add name
+
+[33mcommit aace3627cd9a6572925249f2eeb2b7c614799c93[m
+Author: Mukul Pahwa <mukulpahwa504@gmail.com>
+Date:   Mon Mar 5 11:52:13 2018 +0530
+
+    Add name
+
+[33mcommit fb96d92899828dc8278fc60c97cff5ade2e739f7[m
+Author: romchy <roman.struna.dev@gmail.com>
+Date:   Thu Mar 1 08:04:17 2018 +0100
+
+    adding a contributor
+
+[33mcommit d05000760f94fc7441e15a5739bc9aa5807ea128[m
+Merge: 992fbda 9374478
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Thu Mar 1 07:54:05 2018 +0100
+
+    Merge pull request #57 from nirmaldalmia/upstream
+    
+    Added my name
+
+[33mcommit 9374478aaa5a2a52eb6f10cd4307fcc708dfbf3d[m
+Author: Nirmal Dalmia <nirmaldalmia17@gmail.com>
+Date:   Thu Mar 1 01:50:05 2018 +0530
+
+    Added my name
+
+[33mcommit 992fbda6fa48185be8d0912689589ce98bcf3b12[m
+Merge: a8c53f8 cb7ad84
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Wed Feb 28 20:02:49 2018 +0100
+
+    Merge pull request #56 from mills3/background-clip-prefix
+    
+    Added a prefix for background-clip in chrome
+
+[33mcommit cb7ad84cbe2c3af583ed3052e17413411efce8dd[m
+Author: mills3 <mills827@gmail.com>
+Date:   Wed Feb 28 18:47:08 2018 +0000
+
+    Added a prefix for background-clip in chrome
+
+[33mcommit a8c53f86e7367517ef0f7383c6177343ecea7133[m
+Merge: ad1e5b9 90c99ab
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Wed Feb 28 18:45:12 2018 +0100
+
+    Merge pull request #55 from mills3/styles-for-firuz
+    
+    Changed styles for Firuz Shoev
+
+[33mcommit 90c99ab5bbaa11db5d8ac13a6b636e619cdfd086[m
+Author: mills3 <mills827@gmail.com>
+Date:   Wed Feb 28 15:49:37 2018 +0000
+
+    Changed styles for Firuz Shoev
+
+[33mcommit ad1e5b9d7dd54ae9e41e31b6681c57674d2c8499[m
+Author: romchy <roman.struna.dev@gmail.com>
+Date:   Wed Feb 28 10:54:38 2018 +0100
+
+    fixing the broken links
+
+[33mcommit 290772f0fb14760557cd59a19e93d9719c7e0af6[m
+Author: romchy <roman.struna.dev@gmail.com>
+Date:   Wed Feb 28 10:52:32 2018 +0100
+
+    refactoring the readme and removed the website file
+
+[33mcommit 77ccdfaff6d8997b5a3cfae7972a8add72264935[m
+Merge: 7b176b9 8cace41
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Tue Feb 27 20:16:49 2018 +0100
+
+    Merge pull request #54 from usunil0/adding-my-name
+    
+    added my name
+
+[33mcommit 8cace416e9fb8463c07a0c27d78b716f0ab0246c[m
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Tue Feb 27 20:14:44 2018 +0100
+
+    fixed the style selector
+
+[33mcommit d24a2062f25635d38bf901271c640c06561f573f[m
+Author: usunil0 <usunil0@gmail.com>
+Date:   Tue Feb 27 11:31:24 2018 +0530
+
+    added my name
+
+[33mcommit 7b176b95df80d0ed9fb92116c39860dddd3ad91b[m
+Merge: 326ccb1 14950b8
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Sat Feb 24 07:43:50 2018 +0100
+
+    Merge pull request #52 from dinamahmoud25/organizing-website
+    
+    modifying colors
+
+[33mcommit 14950b86b9a9438c6d4d841d0b531990e1cb216b[m
+Author: Dina Mahmoud <dinamahmoud25@gmail.com>
+Date:   Sat Feb 24 00:51:00 2018 +0200
+
+    modifying colors
+
+[33mcommit 326ccb11e188fe1288d1e50572369dbb877fb86c[m
+Merge: c7c945d 8626bf2
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Thu Feb 22 19:12:11 2018 +0100
+
+    Merge pull request #49 from Sacheec47/master
+    
+     Added a spinning circle and changed the secret code
+
+[33mcommit c7c945de186158d1396f4916d0ba70b9570fd990[m
+Merge: bb72b70 e067e18
+Author: Darren <darrenfjoy@gmail.com>
+Date:   Thu Feb 22 12:58:32 2018 -0500
+
+    Merge pull request #48 from h1tag/enhancements-to-div
+    
+    Added padding and a border to the div
+
+[33mcommit 8626bf29d66872bd8f613d85aa2ea6a0fe359514[m
+Author: Sachithra <sachithra.kahatapitiya@gmail.com>
+Date:   Thu Feb 22 23:27:01 2018 +0530
+
+    Added a spinning circle and changed the secret code
+
+[33mcommit e067e1835bfaa12bc5001b30bb59596e2eb89307[m
+Author: h1tag <kkerm@protonmail.com>
+Date:   Thu Feb 22 20:30:05 2018 +0300
+
+    Added padding and a border to the div
+
+[33mcommit c1d657a52b309cd6bd5ef6856658cad97a765869[m
+Merge: 9d1d07d bb72b70
+Author: Sachithra <sachithra.kahatapitiya@gmail.com>
+Date:   Thu Feb 22 22:43:26 2018 +0530
+
+    Merge remote-tracking branch 'upstream/master'
+
+[33mcommit bb72b7084b27a82ec30829b1701f6e993be618db[m
+Merge: 257a2a0 3ec946f
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Thu Feb 22 06:25:00 2018 +0100
+
+    Merge pull request #47 from danielleshwed/first-timers-only
+    
+    First timers only badge added to the readme
+
+[33mcommit 3ec946fc22f084e6f1ea18fc42922b4685ffdd77[m
+Author: Danielle Shwed <danielleshwed@Danielles-MacBook-Pro-2.local>
+Date:   Wed Feb 21 22:32:34 2018 -0500
+
+    added first timers only badge
+
+[33mcommit ddd6bad47a6beebf8605d321fb25dfe4d070c644[m
+Author: Danielle Shwed <danielleshwed@Danielles-MacBook-Pro-2.local>
+Date:   Wed Feb 21 22:30:41 2018 -0500
+
+    added first timers only badge
+
+[33mcommit 257a2a04364ee529413f482947088d179a878401[m
+Merge: 64e2d6d af064da
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Wed Feb 21 20:52:20 2018 +0100
+
+    Merge pull request #45 from mills3/text-shadow
+    
+    Added text-shadow to my name
+
+[33mcommit af064da77c49bbf8677ef11cc06e739fc0b1a954[m
+Author: mills3 <mills827@gmail.com>
+Date:   Wed Feb 21 19:38:18 2018 +0000
+
+    Added text-shadow to my name
+
+[33mcommit 64e2d6db67ab4983b1fdce999fd49a1e2d800b9d[m
+Merge: e5c77de b09c805
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Wed Feb 21 19:03:32 2018 +0100
+
+    Merge pull request #44 from h1tag/add-background-image
+    
+    Added a background image with some style
+
+[33mcommit e5c77ded4eb8b12023d540559b47b2da6dd04ea7[m
+Merge: 9ab1e2c 6688211
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Wed Feb 21 18:57:32 2018 +0100
+
+    Merge pull request #40 from sheenapercy/add-myname
+    
+    Add styling for Sheena
+
+[33mcommit 668821128ae8d406ec9ad83a6c621e22707118b1[m
+Merge: 65dee24 9ab1e2c
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Wed Feb 21 18:57:03 2018 +0100
+
+    Merge branch 'master' into add-myname
+
+[33mcommit b09c805128d016aa5d277127acc3f5fcc1ae337b[m
+Author: h1tag <kkerm@protonmail.com>
+Date:   Wed Feb 21 16:29:07 2018 +0300
+
+    Added a background image with some style
+
+[33mcommit 9ab1e2cf041d0f3f32d2fb802a39199e175b9a75[m
+Merge: fe7ee68 e0eec0a
+Author: Roman Struna <RomchyFCC@users.noreply.github.com>
+Date:   Wed Feb 21 06:56:23 2018 +0100
+
+    Merge pull request #42 from ppessi/master
+    
+    Add Pinja Pessi
+
+[33mcommit e0eec0a327050a3445771ce6dbfcb11f4d6035ee[m
+Author: Pinja <pinja@pessi.fi>
+Date:   Tue Feb 20 21:33:23 2018 +0200
+
+    Add Pinja Pessi
+
+[33mcommit fe7ee68120402bdecf54cd7bf1ea342723d99f04[m
+Merge: 2d8b6b9 a3f02c9
+Author: Roman <RomchyFCC@users.noreply.github.com>
+Date:   Tue Feb 20 17:14:26 2018 +0100
+
+    Merge pull request #41 from mills3/change-secret-code
+    
+    Changed the secret code
+
+[33mcommit a3f02c9e1191ead6616cc5a502629791717a6ccd[m
+Author: mills3 <mills827@gmail.com>
+Date:   Tue Feb 20 14:33:30 2018 +0000
+
+    Changed the secret code
+
+[33mcommit 65dee242c1e712e5df9a17f1e9c7a0718a4ad3a6[m
+Author: sheenapercy <sheenamattu04@gmail.com>
+Date:   Tue Feb 20 18:51:37 2018 +0530
+
+    add myname to index.html
+
+[33mcommit 2ff504f82fa87f942b92073a65ba34fef63c9c6f[m
+Author: sheenapercy <sheenamattu04@gmail.com>
+Date:   Tue Feb 20 18:36:20 2018 +0530
+
+    Add myname to website
+
+[33mcommit 2d8b6b9a9fc1e68af41a2c807f85fc9ed5405a2f[m
+Author: romchy <roman.struna.dev@gmail.com>
+Date:   Tue Feb 20 07:41:36 2018 +0100
+
+    moved up catherine, alex and kimmi
+
+[33mcommit f0a321c36b69335a04cae30f164783a017ef7dc5[m
+Merge: 913e031 0a740a6
+Author: Roman <RomchyFCC@users.noreply.github.com>
+Date:   Tue Feb 20 07:16:23 2018 +0100
+
+    Merge pull request #39 from rkimmi/master
+    
+    kimmi added his name
+
+[33mcommit 913e0313a4002b785f15cebd5a1e947b5fd8094f[m
+Merge: 7166cd3 7f36cb8
+Author: Roman <RomchyFCC@users.noreply.github.com>
+Date:   Tue Feb 20 07:13:23 2018 +0100
+
+    Merge pull request #38 from ElyseWyatt/master
+    
+    Elyse added her name
+
+[33mcommit 7166cd3e5f0f108f9738623fe5b7f8690284923f[m
+Merge: 47e0063 f4edd4b
+Author: Roman <RomchyFCC@users.noreply.github.com>
+Date:   Tue Feb 20 07:09:39 2018 +0100
+
+    Merge pull request #37 from mills3/mybranch
+    
+    Added function for secret string
+
+[33mcommit 47e0063a10f929480145afa813f01a4af66015f9[m
+Merge: ffa5c53 95d0404
+Author: Roman <RomchyFCC@users.noreply.github.com>
+Date:   Tue Feb 20 07:04:38 2018 +0100
+
+    Merge pull request #36 from tian-dutoit/tian
+    
+    Tian added his name and cleaned up the file a bit
+
+[33mcommit 95d04040f1852ee2c6ec39c44f44dbdbc091fea5[m
+Merge: 8368497 ffa5c53
+Author: Roman <RomchyFCC@users.noreply.github.com>
+Date:   Tue Feb 20 07:04:04 2018 +0100
+
+    Merge branch 'master' into tian
+
+[33mcommit ffa5c5377400c58da6fc9de0c68e52a1bac78f4f[m
+Merge: a39b241 e1c8387
+Author: Roman <RomchyFCC@users.noreply.github.com>
+Date:   Tue Feb 20 06:59:32 2018 +0100
+
+    Merge pull request #35 from catherinefromont/feature-name-add
+    
+    added name to index file
+
+[33mcommit 0a740a647b25ddc2ece91c564dec1bd588cf723c[m
+Author: Kimmi Rindel <kimmi@Kimmis-MacBook-Pro.local>
+Date:   Tue Feb 20 15:38:38 2018 +1300
+
+    kimmi
+
+[33mcommit 7f36cb8edd037b8c15d2639d6a8b34c6df24f588[m
+Author: Elyse Wyatt <hi.elyse.wyatt@gmail.com>
+Date:   Tue Feb 20 15:04:41 2018 +1300
+
+    Added Elyse.
+
+[33mcommit f4edd4b1c6f1332aff817a41ab358ee2a2117b4b[m
+Author: mills3 <mills827@gmail.com>
+Date:   Mon Feb 19 22:54:17 2018 +0000
+
+    updated secret string function for new picture
+
+[33mcommit 8368497e0e6d5535f7bf858ae4230e06a2750cd2[m
+Author: Tian Dutoit <tiandutoit.nz@gmail.com>
+Date:   Tue Feb 20 11:04:24 2018 +1300
+
+    added Tian and deleted extra line
+
+[33mcommit 871e64961056756ab9740b66c38810630f1ffe20[m
+Author: mills3 <mills827@gmail.com>
+Date:   Mon Feb 19 19:39:51 2018 +0000
+
+    Added function to compare keys pressed to secret string
+
+[33mcommit e5d48c02328cb0dac7c2ac23b53d346659a5b3a0[m
+Author: Tian Dutoit <tiandutoit.nz@gmail.com>
+Date:   Tue Feb 20 10:59:51 2018 +1300
+
+    added Tian
+
+[33mcommit e1c83879c252a3742791dcd1c51385641109feed[m
+Author: Your Name <catherinegfromont@gmail.com>
+Date:   Tue Feb 20 10:02:33 2018 +1300
+
+    added name to index file
+
+[33mcommit a39b24119e8431df7240cf73937f1c4ef3337c92[m
+Merge: c67d80f a17b2c3
+Author: Roman <RomchyFCC@users.noreply.github.com>
+Date:   Mon Feb 19 14:12:14 2018 +0100
+
+    Merge pull request #32 from bracar/challenge
+    
+    Security risk, removed cornify from the website
+
+[33mcommit a17b2c353558979b6fae7b187b4a0c5d8f749dce[m
+Author: Bratislav Ranđelović <31524550+bracar@users.noreply.github.com>
+Date:   Mon Feb 19 10:42:07 2018 +0100
+
+    Add comments in js and  img alt
+
+[33mcommit b71d51ac5a030e8651220573d2ba6d7ce752aec4[m
+Author: Bratislav Ranđelović <31524550+bracar@users.noreply.github.com>
+Date:   Mon Feb 19 10:23:13 2018 +0100
+
+    Add picture on window.click
+
+[33mcommit c67d80fb850b1677a8c1958d0775106b83a543c3[m
+Merge: cd8ef98 2883716
+Author: Roman <RomchyFCC@users.noreply.github.com>
+Date:   Sat Feb 17 08:50:21 2018 +0100
+
+    Merge pull request #31 from FiruzShoev/firuz
+    
+    Add new course to Git guides.md
+
+[33mcommit 28837164ce2579ca6f9480b432b782af181dea5b[m
+Author: FiruzShoev <firuz.shoev1@gmail.com>
+Date:   Fri Feb 16 23:08:14 2018 +0300
+
+    Add new course to Git guides.md
+
+[33mcommit cd8ef98f0a4650edf8b574232f9469358e5295d1[m
+Author: romchy <roman.struna.dev@gmail.com>
+Date:   Fri Feb 16 17:39:45 2018 +0100
+
+    adding javascript to our site and some secret action fun
+
+[33mcommit f8e8461ea4351d6c8292bdb26b4b1d0b85648fd7[m
+Merge: 4f66e72 b87e98a
+Author: Roman <RomchyFCC@users.noreply.github.com>
+Date:   Fri Feb 16 06:52:38 2018 +0100
+
+    Merge pull request #28 from bracar/fix-issue
+    
+    Added gradient to .co-creator and padding on .romchy
+
+[33mcommit 4f66e7288565fac6b4ff4fb2288cfff61f583aab[m
+Merge: 4ff1f1c aecc9c1
+Author: Roman <RomchyFCC@users.noreply.github.com>
+Date:   Fri Feb 16 06:50:31 2018 +0100
+
+    Merge pull request #27 from FiruzShoev/firuz
+    
+    Add new name
+
+[33mcommit b87e98ace817095dfa1b9311ae51ff43c6b1da64[m
+Author: Bratislav Ranđelović <daglasadams@gmai.com>
+Date:   Fri Feb 16 02:01:44 2018 +0100
+
+    Added gradient to .co-creator
+
+[33mcommit aecc9c10f46d7456f470ba3fcbaebe8f34bd55a0[m
+Author: FiruzShoev <firuz.shoev1@gmail.com>
+Date:   Thu Feb 15 23:29:00 2018 +0300
+
+    Add new name
+
+[33mcommit 4ff1f1cb094dc122895b0879bd2c07d8d2dfa597[m
+Merge: 1d364b9 9f54b71
+Author: Roman <RomchyFCC@users.noreply.github.com>
+Date:   Thu Feb 15 05:56:18 2018 +0100
+
+    Merge pull request #26 from dmac0505/divborders
+    
+    used css to add borders to div elements
+
+[33mcommit 9f54b710c6bfa9bef7c8e1a68729365a8c459b76[m
+Author: dmac0505 <bagawitz@gmail.com>
+Date:   Wed Feb 14 20:44:11 2018 -0600
+
+    used css to add borders to div elements
+
+[33mcommit 1d364b9770baf4e0538e232ea397e1e267717a5d[m
+Merge: 8862bdb ed62c42
+Author: Roman <RomchyFCC@users.noreply.github.com>
+Date:   Mon Feb 12 20:37:45 2018 +0100
+
+    Merge pull request #23 from akashksunny13/master
+    
+    Sunny added name
+
+[33mcommit ed62c42be3c699967d81a4d2f39e084960943ff3[m
+Author: akash <akashksunny13@gmail.com>
+Date:   Mon Feb 12 22:06:07 2018 +0530
+
+    Sunny added name
+
+[33mcommit 8862bdbe2e750251b400d15bb292b68e0bd4891e[m
+Author: romchy <roman.struna.dev@gmail.com>
+Date:   Mon Feb 12 05:52:58 2018 +0100
+
+    fixing the code break
+
+[33mcommit 3a127929ff5b5cc3b35f909bd3a960fe19ee62d2[m
+Merge: 0b7d81a 566886c
+Author: Roman <RomchyFCC@users.noreply.github.com>
+Date:   Mon Feb 12 05:31:22 2018 +0100
+
+    Merge pull request #22 from stacyHere/stacy
+    
+    Stacy added her name
+
+[33mcommit 566886cbc7d452b3bc9b4b892cb8c8bd70aeb673[m
+Merge: 26e6a80 0b7d81a
+Author: Roman <RomchyFCC@users.noreply.github.com>
+Date:   Mon Feb 12 05:31:02 2018 +0100
+
+    Merge branch 'master' into stacy
+
+[33mcommit 26e6a8082498331a98696590c6f19dfb62776af2[m
+Author: Stacy <stacykillinger@gmail.com>
+Date:   Sun Feb 11 21:00:08 2018 -0500
+
+    Add name
+
+[33mcommit 0b7d81a4d12a6b77f4ce0cae3a1070f750d95d5b[m
+Merge: 4636084 ef2d252
+Author: Roman <RomchyFCC@users.noreply.github.com>
+Date:   Sun Feb 11 06:49:25 2018 +0100
+
+    Merge pull request #20 from mills3/master
+    
+    Gave Drew Mac, mills3 and Ariel Leslie random values for top and left
+
+[33mcommit ef2d252cee6c787ddb18439e2cd80b82267cef83[m
+Author: mills3 <mills827@gmail.com>
+Date:   Sat Feb 10 19:55:43 2018 +0000
+
+    Gave Drew Mac, mills3 and Ariel Leslie random values for top and left
+
+[33mcommit 4636084fa0c9c77aa9c648d0dc4b6412bc2bd5ef[m
+Author: romchy <roman.struna.dev@gmail.com>
+Date:   Sat Feb 10 19:19:36 2018 +0100
+
+    adding a background that is easier on the eyes
+
+[33mcommit c128658a4d7c68484288e316a9db124e0f97250d[m
+Merge: d15c435 640e530
+Author: Roman <RomchyFCC@users.noreply.github.com>
+Date:   Sat Feb 10 18:33:50 2018 +0100
+
+    Merge pull request #19 from mills3/master
+    
+    Added my FCC username
+
+[33mcommit 640e53050029229aece539106f0eed113ddab301[m
+Author: mills3 <mills827@gmail.com>
+Date:   Sat Feb 10 14:31:08 2018 +0000
+
+    Added my FCC username
+
+[33mcommit 9d1d07d07292c125bd12aaa67791de15359a8266[m
+Author: Sachithra Lahiru Kahatapitiya <sachithra.kahatapitiya@gmail.com>
+Date:   Thu Feb 8 16:54:48 2018 +0530
+
+    Updated the CSS to change the location of the Div
+
+[33mcommit d15c43523797cb00dbe177bc8cde8aef6bb6314c[m
+Merge: cc8354f 2f2d154
+Author: Roman <RomchyFCC@users.noreply.github.com>
+Date:   Tue Feb 6 08:54:58 2018 +0100
+
+    Merge pull request #17 from dmac0505/master
+    
+    added my name to the project
+
+[33mcommit cc8354fad4f7400a92de051d191cec81ca81220f[m
+Merge: 7699e03 cb8e203
+Author: Roman <RomchyFCC@users.noreply.github.com>
+Date:   Tue Feb 6 05:40:14 2018 +0100
+
+    Merge pull request #16 from RomchyFCC/change-instructions
+    
+    Changing instructions
+
+[33mcommit 2f2d154b9bedb1fbcd48945079cd5dd11c247017[m
+Author: dmac0505 <bagawitz@gmail.com>
+Date:   Mon Feb 5 22:22:22 2018 -0600
+
+    added my name to the project
+
+[33mcommit 7699e03c2a0f91c43117c7b588d7d0ce78c8f387[m
+Merge: 6a60151 44aee40
+Author: Roman <RomchyFCC@users.noreply.github.com>
+Date:   Mon Feb 5 08:39:27 2018 +0100
+
+    Merge pull request #15 from Sacheec47/patch-1
+    
+    Updated style.css with more colors
+
+[33mcommit 44aee40ec991a4d896bb76438becefe43f2f4357[m
+Author: Sachithra Lahiru Kahatapitiya <sachithra.kahatapitiya@gmail.com>
+Date:   Mon Feb 5 13:07:24 2018 +0530
+
+    Updated style.css with more colors
+    
+    Changed the existing color.
+    Added one more color.
+    Change the deg from 90 to 180.
+
+[33mcommit cb8e20317624e80866aee19d0edb81702b1b76cf[m
+Author: romchy <RomchyFCC@users.noreply.github.com>
+Date:   Mon Feb 5 08:31:36 2018 +0100
+
+    removing parentheses
+
+[33mcommit bb2a6697d3b196e769d569dd2154ce3ae2e8231c[m
+Author: romchy <RomchyFCC@users.noreply.github.com>
+Date:   Mon Feb 5 08:30:06 2018 +0100
+
+    fixing the link to pull requests
+
+[33mcommit 3347c8ded871dd7e6d1b54b606f6117f87db993b[m
+Author: romchy <RomchyFCC@users.noreply.github.com>
+Date:   Mon Feb 5 08:27:10 2018 +0100
+
+    adding changes to readme
+
+[33mcommit 6a601510bf931dc91e67c63c619e22b24254088e[m
+Merge: 0329ec5 8984f51
+Author: Roman <RomchyFCC@users.noreply.github.com>
+Date:   Mon Feb 5 07:47:56 2018 +0100
+
+    Merge pull request #12 from bushbass/alexnielsen
+    
+    added 'alex nielsen' and associated css
+
+[33mcommit 8984f510e904e881868e5edcdb3101e51ee69af3[m
+Author: Alex Nielsen <alex.nielsen@gmail.com>
+Date:   Sun Feb 4 22:46:26 2018 -0500
+
+    added 'alex nielsen' and associated css
+
+[33mcommit 0329ec5aea9d4816ae3ca443f386df48791e318c[m
+Author: romchy <RomchyFCC@users.noreply.github.com>
+Date:   Sat Feb 3 10:23:58 2018 +0100
+
+    added Darren's post on FCC forum to readme
+
+[33mcommit 9643404265b3fefd6514475cf1e65fcd55a4fd47[m
+Author: romchy <RomchyFCC@users.noreply.github.com>
+Date:   Sat Feb 3 09:57:05 2018 +0100
+
+    refactored the layout of the project
+
+[33mcommit cd2d31883f6f5cb0962b470e348a9bcb10669753[m
+Merge: 7e7e646 4f927bd
+Author: Roman <RomchyFCC@users.noreply.github.com>
+Date:   Sat Feb 3 08:11:13 2018 +0100
+
+    Merge pull request #11 from Schmidt-Aaron/more-learnings
+    
+    added courses
+
+[33mcommit 4f927bd4a9910a3eb45ce65c23bb2d4f0275e2dd[m
+Author: Schmidt-Aaron <aschmidt808@gmail.com>
+Date:   Fri Feb 2 10:13:18 2018 -0800
+
+    added courses
+
+[33mcommit 7e7e64610f648d7d1a320f5de26fee413efa5a18[m
+Author: romchy <RomchyFCC@users.noreply.github.com>
+Date:   Thu Feb 1 07:21:28 2018 +0100
+
+    added some more styling to my name
+
+[33mcommit 53e3b3612365b17294694cf998b3d8c782ecfed8[m
+Merge: 080672b 8062e12
+Author: Roman <RomchyFCC@users.noreply.github.com>
+Date:   Thu Feb 1 06:32:23 2018 +0100
+
+    Merge pull request #10 from moT01/mot-branch
+    
+    Added moT
+
+[33mcommit 8062e128fc9a3336e3cf2100aee80025f8b8c1dc[m
+Merge: 1c7edf1 080672b
+Author: Roman <RomchyFCC@users.noreply.github.com>
+Date:   Thu Feb 1 06:31:37 2018 +0100
+
+    Merge branch 'master' into mot-branch
+
+[33mcommit 080672b0b0cf39dfba1ae373757621ff01770499[m
+Merge: 5b7b61c 06a96c0
+Author: Roman <RomchyFCC@users.noreply.github.com>
+Date:   Thu Feb 1 06:24:07 2018 +0100
+
+    Merge pull request #9 from ivanoung/master
+    
+    Add name and style
+
+[33mcommit 1c7edf18cb2e0096f3aa0173a682681863042db4[m
+Author: moT01 <TMondloch01@gmail.com>
+Date:   Wed Jan 31 21:39:18 2018 -0600
+
+    moT
+
+[33mcommit 06a96c049ea9aa39073f3a09a691faa77cfd259c[m
+Author: ivanoung <ivanoung@gmail.com>
+Date:   Thu Feb 1 09:58:24 2018 +0800
+
+    Add name and style
+    
+    Adding my own name and putting up a new steampunk neon css styling.
+
+[33mcommit 5b7b61cc69f66eb01d376b54185301e786c4c5bf[m
+Merge: 9976e9d 011677b
+Author: Roman <RomchyFCC@users.noreply.github.com>
+Date:   Wed Jan 31 06:30:56 2018 +0100
+
+    Merge pull request #8 from ArielLeslie/master
+    
+    Adds sexiest, most amaze-balls camper of all time!
+
+[33mcommit 011677bfce83294d0c1f14a6f5268f5bde2181a6[m
+Author: Ariel <ArielLeslie@users.noreply.github.com>
+Date:   Tue Jan 30 19:49:34 2018 -0700
+
+    Adds sexiest, most amaze-balls camper of all time. Also adds a light background to the forkers paragraph so text is visible.
+
+[33mcommit 9976e9d55c73cb51682b9bc8bd17dc62c1532a2d[m
+Merge: 7cf4de7 91cc0a6
+Author: Roman <RomchyFCC@users.noreply.github.com>
+Date:   Mon Jan 29 10:02:28 2018 +0100
+
+    Merge pull request #7 from DarrenfJ/master
+    
+    Added darren name to the list
+
+[33mcommit 91cc0a665fdb1dd9487087d3a76a9aa67c990aeb[m
+Author: DarrenfJ <darrenfjoy@gmail.com>
+Date:   Sun Jan 28 18:40:25 2018 -0500
+
+    Adding darren to co-creators list
+
+[33mcommit a04a92a7efec7b6ab96b37b49a16d85b70ba7030[m
+Merge: 36a8fa2 7cf4de7
+Author: Darren <darrenfjoy@gmail.com>
+Date:   Fri Jan 26 13:29:22 2018 -0500
+
+    Merge pull request #8 from RomchyFCC/master
+    
+    Update my fork from main project
+
+[33mcommit 7cf4de721c9067bac04b7f56eda920e0e4b9ca91[m
+Author: romchy <RomchyFCC@users.noreply.github.com>
+Date:   Fri Jan 26 11:27:54 2018 +0100
+
+    added my name to the file and updated the readme
+
+[33mcommit 36a8fa2ba71626aa17cc52cc172697708255f2bd[m
+Merge: f880cbe f0dacee
+Author: Darren <darrenfjoy@gmail.com>
+Date:   Fri Jan 19 16:08:58 2018 -0500
+
+    Merge pull request #4 from RomchyFCC/master
+    
+    merging 'head fork' back into my forked repo
+
+[33mcommit f0daceedbcff8097383fd89f567328c0fc2e4265[m
+Merge: 793aa5e fe4da7b
+Author: romchy <RomchyFCC@users.noreply.github.com>
+Date:   Fri Jan 19 17:42:17 2018 +0100
+
+    Merge branch 'DarrenFJ-master'
+    Merged master branch from DarrenfJ
+
+[33mcommit fe4da7b902f3c9f2d5a8e1b20ef2c2400cae8779[m
+Merge: 793aa5e f880cbe
+Author: romchy <RomchyFCC@users.noreply.github.com>
+Date:   Fri Jan 19 17:40:15 2018 +0100
+
+    Merge branch 'master' of https://github.com/DarrenfJ/collaborative_effort into DarrenFJ-master
+
+[33mcommit f880cbef1d9af188fc6d3ffa5921c94f22866c7f[m
+Author: Darren <darrenfjoy@gmail.com>
+Date:   Fri Jan 19 03:42:13 2018 -0500
+
+    update to add markdown from original guide
+
+[33mcommit 307201182c79441b63aab03ca4a624fbcbff38d0[m
+Author: Darren <darrenfjoy@gmail.com>
+Date:   Fri Jan 19 03:41:35 2018 -0500
+
+    update git guide to include only git
+
+[33mcommit 0469edd74b5469a2f64515ffa6ec5cd91fbc25a1[m
+Author: Darren <darrenfjoy@gmail.com>
+Date:   Fri Jan 19 03:40:39 2018 -0500
+
+    Create cheat_sheets.md
+
+[33mcommit 793aa5eb2f161cb5fcc823ec57517fea4941300d[m
+Merge: 890b029 a0efb0d
+Author: Darren <darrenfjoy@gmail.com>
+Date:   Fri Jan 19 03:15:18 2018 -0500
+
+    Merge pull request #5 from DarrenfJ/master
+    
+    Merge pull request #1 from RomchyFCC/master
+
+[33mcommit a0efb0da4a469166f928b6b97b9bf0fed939d6d3[m
+Merge: 7a1b84d 890b029
+Author: Darren <darrenfjoy@gmail.com>
+Date:   Tue Jan 16 18:11:53 2018 -0500
+
+    Merge pull request #1 from RomchyFCC/master
+    
+    updating/merging with Master forked files
+
+[33mcommit 890b029564dde57edc95b91fa93419977c88bd88[m
+Author: romchy <RomchyFCC@users.noreply.github.com>
+Date:   Tue Jan 16 12:38:38 2018 +0100
+
+    Fixed markdown
+
+[33mcommit bab36db60f2f75c3d7c1b9ed0370b5cb058a09c9[m
+Author: romchy <RomchyFCC@users.noreply.github.com>
+Date:   Tue Jan 16 12:35:04 2018 +0100
+
+    Added guides and modified the readme to accompany that change
+
+[33mcommit 7a1b84d02f05b5b684f4f8d272f9f7d47f1e1cb7[m
+Author: romchy <RomchyFCC@users.noreply.github.com>
+Date:   Mon Jan 15 06:49:57 2018 +0100
+
+    Added comments and changed the style names
+
+[33mcommit 2c6a74bf009f8aab02c1474d75af28ee5adccfdf[m
+Author: romchy <RomchyFCC@users.noreply.github.com>
+Date:   Thu Jan 11 14:58:23 2018 +0100
+
+    renamed the copied repos
+
+[33mcommit 3a4cd91e197f8bec354fed2261800bbcaa35319d[m
+Author: romchy <RomchyFCC@users.noreply.github.com>
+Date:   Thu Jan 11 14:54:23 2018 +0100
+
+    added the how to contribute documentation
+
+[33mcommit 0e087826ab7f5c6e60e89e0a5fa491102b8536f2[m
+Author: romchy <RomchyFCC@users.noreply.github.com>
+Date:   Thu Jan 11 14:35:49 2018 +0100
+
+    added margins
+
+[33mcommit 11b7806e62c9d080b398c125a10ecd0fd885ddc2[m
+Author: romchy <RomchyFCC@users.noreply.github.com>
+Date:   Thu Jan 11 08:09:42 2018 +0100
+
+    proper indentation?!
+
+[33mcommit 3fec90aa9f202d39decaf189d5f7ba22cc7e0595[m
+Author: romchy <RomchyFCC@users.noreply.github.com>
+Date:   Thu Jan 11 08:07:08 2018 +0100
+
+    proper indentation
+
+[33mcommit 7af06e25f24096937fe8a6f298ebe1f20bcabe1d[m
+Author: romchy <RomchyFCC@users.noreply.github.com>
+Date:   Thu Jan 11 08:05:30 2018 +0100
+
+    added the style, box elements to be filled up later, color scheme should be optimized
+
+[33mcommit d73a449ecbcf55a41b42fcfcc8972e003051c1e2[m
+Author: romchy <RomchyFCC@users.noreply.github.com>
+Date:   Tue Jan 9 18:57:21 2018 +0100
+
+    added a readme to explain the purpose of this
+
+[33mcommit c339b32c43b9a35f947cd9e5631096676c8610ab[m
+Author: romchy <RomchyFCC@users.noreply.github.com>
+Date:   Tue Jan 9 18:52:12 2018 +0100
+
+    First commit

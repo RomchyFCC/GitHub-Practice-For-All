@@ -3,650 +3,655 @@
 */
 
 body {
-    border: 50px;
-    background: url('../img/feather-3010848_1280.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    grid-gap: 10px;
-    overflow-x: hidden;
+  border: 50px;
+  background: url("../img/feather-3010848_1280.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-gap: 10px;
+  overflow-x: hidden;
 }
 
 div {
-    display: inline-block;
-    border: groove #022c4d 1px;
-    padding: 20px;
+  display: inline-block;
+  border: groove #022c4d 1px;
+  padding: 20px;
 }
 
 .co-creator {
-    color: lightblue;
-    text-transform: uppercase;
-    text-align: center;
-    font-size: 50px;
-    background: linear-gradient(90deg, rgba(0, 0, 0, 0.2), rgb(0, 0, 0), rgba(0, 0, 0, 0.2));
+  color: lightblue;
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 50px;
+  background: linear-gradient(
+    90deg,
+    rgba(0, 0, 0, 0.2),
+    rgb(0, 0, 0),
+    rgba(0, 0, 0, 0.2)
+  );
 }
 
 .romchy {
-    margin: 0;
-    padding: 0 5px;
-    position: relative;
-    display: inline-block;
-    transform: rotateZ(270deg);
-    animation: rotate 3s infinite alternate;
-    color: orange;
+  margin: 0;
+  padding: 0 5px;
+  position: relative;
+  display: inline-block;
+  transform: rotateZ(270deg);
+  animation: rotate 3s infinite alternate;
+  color: orange;
 }
 
 #romchy {
-    position: relative;
+  position: relative;
 }
 
 #secret-picture {
-    position: relative;
-    visibility: hidden;
+  position: relative;
+  visibility: hidden;
 }
 
 .empty {
-    min-height: 200px;
+  min-height: 200px;
 }
 
 .motWrap {
-    text-align: center;
-    background-color: lightblue;
+  text-align: center;
+  background-color: lightblue;
 }
 
 .motLink {
-    text-decoration: none;
-    font-size: 51px;
-    transition: all 300ms linear;
+  text-decoration: none;
+  font-size: 51px;
+  transition: all 300ms linear;
 }
 
 .motLink:hover {
-    color: white;
+  color: white;
 }
 
 .steamPunk {
-    color: blue;
-    text-shadow: 2px 0px 0 #F71735, 0 2px 0 #41EAD4;
-    position: relative;
+  color: blue;
+  text-shadow: 2px 0px 0 #f71735, 0 2px 0 #41ead4;
+  position: relative;
 }
 
 #sun00 {
-    font-size: 50px;
-    color: rgb(69, 240, 126);
+  font-size: 50px;
+  color: rgb(69, 240, 126);
 }
 
 @keyframes rotate {
-    0% {
-        transform: rotateZ(270deg)
-    }
-    50% {
-        transform: rotateZ(450deg)
-    }
-    100% {
-        transform: rotateZ(0deg)
-    }
+  0% {
+    transform: rotateZ(270deg);
+  }
+  50% {
+    transform: rotateZ(450deg);
+  }
+  100% {
+    transform: rotateZ(0deg);
+  }
 }
 
 #alex-nielsen {
-    text-align: right;
-    color: yellow;
-    font-size: 1.5em;
-    transition-property: font-size;
-    transition-duration: 2s;
+  text-align: right;
+  color: yellow;
+  font-size: 1.5em;
+  transition-property: font-size;
+  transition-duration: 2s;
 }
 
 #alex-nielsen:hover {
-    font-size: 5em;
-    text-shadow: 5px 5px 6px crimson;
+  font-size: 5em;
+  text-shadow: 5px 5px 6px crimson;
 }
 
 #i3123708 {
-    position: relative;
-    border: none !important;
+  position: relative;
+  border: none !important;
 }
 
 #i3123708 a {
-    padding: 10px;
-    font-size: 24px;
-    font-weight: bold;
-    font-family: 'Consolas', sans-serif;
-    text-decoration: none;
-    color: #2ed5ff;
-    background: #fa2f4a;
-    border-radius: 10px;
+  padding: 10px;
+  font-size: 24px;
+  font-weight: bold;
+  font-family: "Consolas", sans-serif;
+  text-decoration: none;
+  color: #2ed5ff;
+  background: #fa2f4a;
+  border-radius: 10px;
 }
 
 .dmac {
-    font-family: Georgia;
-    position: relative;
-    font-size: 1.25em;
-    color: orange;
+  font-family: Georgia;
+  position: relative;
+  font-size: 1.25em;
+  color: orange;
 }
 
 .sunny {
-    font-size: 50px;
-    color: #ff00eb;
+  font-size: 50px;
+  color: #ff00eb;
 }
 
-.aditya{
-    display: flex;
-    justify-content: center;
-    align-content: center;
-    background-color: #212322;
-    color: white;
-    border: none;
-    border-radius: 0.3em;
-    transition: 0.3s;
+.aditya {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  background-color: #212322;
+  color: white;
+  border: none;
+  border-radius: 0.3em;
+  transition: 0.3s;
 }
 .aditya h1 a {
-    text-decoration: none !important;
-    color: white;
-    font-family: avenir;
-    font-weight: 100;
+  text-decoration: none !important;
+  color: white;
+  font-family: avenir;
+  font-weight: 100;
 }
 
 .aditya h1 {
-    transition: 0.3s;
+  transition: 0.3s;
 }
 
 .aditya h1:hover {
-    transform: scale(1.15);
-    letter-spacing: 2pt;
+  transform: scale(1.15);
+  letter-spacing: 2pt;
 }
 
-
 .stacy {
-    font-size: 1.5em;
-    color: purple;
-    text-align: center;
-    animation: pulse 1.5s ease alternate infinite;
+  font-size: 1.5em;
+  color: purple;
+  text-align: center;
+  animation: pulse 1.5s ease alternate infinite;
 }
 
 @keyframes pulse {
-    0% {
-        transform: scale(1);
-    }
-    100% {
-        transform: scale(2);
-    }
+  0% {
+    transform: scale(1);
+  }
+  100% {
+    transform: scale(2);
+  }
 }
 
 .mills {
-    border: 1px solid #000;
-    position: relative;
-    margin: 0;
-    font-size: 10vmin;
-    text-align: center;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
-    color: #fff;
-    cursor: pointer;
-    text-shadow: 2px 2px 2px #000;
-    text-decoration: none;
+  border: 1px solid #000;
+  position: relative;
+  margin: 0;
+  font-size: 10vmin;
+  text-align: center;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  color: #fff;
+  cursor: pointer;
+  text-shadow: 2px 2px 2px #000;
+  text-decoration: none;
 }
 
 .ariel-container {
-    background: #2a2a2a;
-    display: flex;
-    justify-content: center;
+  background: #2a2a2a;
+  display: flex;
+  justify-content: center;
 }
 
 .ariel {
-    position: relative;
-    font-size: 24px;
-    color: transparent;
-    background: linear-gradient(to right, red, yellow, green, blue);
-    background-clip: text;
-    -webkit-background-clip: text;
+  position: relative;
+  font-size: 24px;
+  color: transparent;
+  background: linear-gradient(to right, red, yellow, green, blue);
+  background-clip: text;
+  -webkit-background-clip: text;
 }
 
 .firuz {
-    font-size: 30px;
-    font-weight: 900;
-    color: transparent;
-    background: linear-gradient(0deg, #444110, #f6e46a, #444110);
-    background-clip: text;
-    -webkit-background-clip: text;
-    position: relative;
+  font-size: 30px;
+  font-weight: 900;
+  color: transparent;
+  background: linear-gradient(0deg, #444110, #f6e46a, #444110);
+  background-clip: text;
+  -webkit-background-clip: text;
+  position: relative;
 }
 
 #secret {
-    width: 1px;
-    height: 1px;
-    background: transparent;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    border: none;
+  width: 1px;
+  height: 1px;
+  background: transparent;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  border: none;
 }
 
 .sheena-style {
-    position: static;
-    background: transparent;
-    box-shadow: 5px 5px 10px #000;
-    padding: 30px;
+  position: static;
+  background: transparent;
+  box-shadow: 5px 5px 10px #000;
+  padding: 30px;
 }
 
 .sheena-style a {
-    font-size: 30px;
-    text-decoration: none;
-    color: #000;
+  font-size: 30px;
+  text-decoration: none;
+  color: #000;
 }
 
 .sheena-style:hover {
-    background: #fff;
+  background: #fff;
 }
 
 #ppessi {
-    font-family: "Comic Sans MS";
-    color: Chartreuse;
-    background: DeepPink;
-    font-size: 40px;
-    padding: 10px;
-    border: 5px dashed Yellow;
+  font-family: "Comic Sans MS";
+  color: Chartreuse;
+  background: DeepPink;
+  font-size: 40px;
+  padding: 10px;
+  border: 5px dashed Yellow;
 }
-
 
 /* Code below is added by Sachithra. */
 
 #c47 {
-    position: relative;
-    color: #ff00de;
-    text-shadow: 0 0 1px #fff, 0 0 2px #fff, 0 0 8px #ff00de, 0 0 10px #ff00de;
-    font-size: 20px;
+  position: relative;
+  color: #ff00de;
+  text-shadow: 0 0 1px #fff, 0 0 2px #fff, 0 0 8px #ff00de, 0 0 10px #ff00de;
+  font-size: 20px;
 }
 
 #break {
-    position: relative;
-    width: 100px;
-    height: 100px;
-    border-radius: 50%;
-    box-shadow: 0 0 0 4px #b2009b, 0 0 2px 6px #b2009b, 0 0 15px 6px #b2009b;
-    border-left: 2px solid #b2009b;
-    border-right: 2px solid #b2009b;
+  position: relative;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  box-shadow: 0 0 0 4px #b2009b, 0 0 2px 6px #b2009b, 0 0 15px 6px #b2009b;
+  border-left: 2px solid #b2009b;
+  border-right: 2px solid #b2009b;
 }
 
 .spinBreak {
-    animation: spin 10s linear infinite;
+  animation: spin 10s linear infinite;
 }
 
 .contributors {
-    width: 100%;
-    height: 2em;
-    text-align: center;
-    border-style: none;
-    display: block;
-    background-color: #3A7295;
-    grid-column: 1 / -1;
-    font-family: Arial, Helvetica, sans-serif;
-    margin-bottom: -10px;
+  width: 100%;
+  height: 2em;
+  text-align: center;
+  border-style: none;
+  display: block;
+  background-color: #3a7295;
+  grid-column: 1 / -1;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: -10px;
 }
 
 .contributors a {
-    color: white;
-    text-decoration: none;
-    text-transform: uppercase;
-    font-size: 2em;
-    transition: color 0.5s;
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 2em;
+  transition: color 0.5s;
 }
 
 .contributors a:hover {
-    color: #c9c8c5;
+  color: #c9c8c5;
 }
 
 @keyframes spin {
-    0% {
-        transform: rotate(0deg);
-    }
-    100% {
-        transform: rotate(360deg);
-    }
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
 }
-
 
 /* Code above is added by Sachithra. */
 
 .h1tag {
-    position: relative;
+  position: relative;
 }
 
 .h1tag a {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .daria {
-    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.6);
-    background-color: #cdcdc0;
+  box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.6);
+  background-color: #cdcdc0;
 }
 
 .daria,
 .daria a {
-    color: #626d71;
-    font-family: Arial, Helvetica, sans-serif;
-    text-decoration: none;
-    transition: color 0.5s;
+  color: #626d71;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: none;
+  transition: color 0.5s;
 }
 
 .daria {
-    text-shadow: 4px 4px 2px rgba(150, 150, 150, 1);
-    padding-top: 30%;
-    text-align: center;
+  text-shadow: 4px 4px 2px rgba(150, 150, 150, 1);
+  padding-top: 30%;
+  text-align: center;
 }
 
 .daria a:hover {
-    color: #ddbc95;
+  color: #ddbc95;
 }
 
 .ravi {
-    background: linear-gradient(#68e0b8, #ce5dbf);
-    background-size: cover;
+  background: linear-gradient(#68e0b8, #ce5dbf);
+  background-size: cover;
 }
 
 .ravi h1 a {
-    text-decoration: none;
-    color: #ffc600;
-    text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.2);
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  text-decoration: none;
+  color: #ffc600;
+  text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.2);
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .ravi h1 a:hover {
-    font-size: 40px;
+  font-size: 40px;
 }
 
 .rob {
-    background-color: lightgreen;
+  background-color: lightgreen;
 }
 
 .ankit {
-	background-color: blue;
+  background-color: blue;
 }
-
 
 /* changed border-size with border-width as I suppose that this is what the user meant */
 
 .rcat {
-    background: radial-gradient(#6a28e5, #9115c6);
-    border-style: solid;
-    border-color: #24e24a;
-    border-width: 10px;
-    border-radius: 5%;
-    padding-top: 15%;
-    box-shadow: 5px 5px 5px green;
-    font-family: Helvetica;
+  background: radial-gradient(#6a28e5, #9115c6);
+  border-style: solid;
+  border-color: #24e24a;
+  border-width: 10px;
+  border-radius: 5%;
+  padding-top: 15%;
+  box-shadow: 5px 5px 5px green;
+  font-family: Helvetica;
 }
 
 .rcat h1 a {
-    color: #24e24a;
-    text-decoration: none;
-    font-size: 70px;
-    margin: 25%;
+  color: #24e24a;
+  text-decoration: none;
+  font-size: 70px;
+  margin: 25%;
 }
 
 .rcat h1 a:hover {
-    color: white;
+  color: white;
 }
 
 .rcat h1 a:visited {
-    color: #24e24a;
+  color: #24e24a;
 }
 
 .dcook {
-    display: flex;
-    justify-content: center;
-    align-content: center;
-    background-color: #212322;
-    color: white;
-    border: none;
-    border-radius: 0.3em;
-    transition: 0.3s;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  background-color: #212322;
+  color: white;
+  border: none;
+  border-radius: 0.3em;
+  transition: 0.3s;
 }
 
 .dcook h1 a {
-    text-decoration: none !important;
-    color: white;
-    font-family: avenir;
-    font-weight: 100;
+  text-decoration: none !important;
+  color: white;
+  font-family: avenir;
+  font-weight: 100;
 }
 
 .dcook h1 {
-    transition: 0.3s;
+  transition: 0.3s;
 }
 
 .dcook h1:hover {
-    transform: scale(1.15);
-    letter-spacing: 2pt;
+  transform: scale(1.15);
+  letter-spacing: 2pt;
 }
 
 .matt2 {
-    color: rebeccapurple;
-    font-weight: bold;
-    background-color: deeppink;
-    font-size: 70px;
+  color: rebeccapurple;
+  font-weight: bold;
+  background-color: deeppink;
+  font-size: 70px;
 }
 
 #mattl {
-    font-size: 3.5em;
-    color: purple;
-    text-align: center;
-    animation: spin 2.5s infinite alternate;
+  font-size: 3.5em;
+  color: purple;
+  text-align: center;
+  animation: spin 2.5s infinite alternate;
 }
 
 @keyframes rotorFlip {
-    from {
-        transform: rotateY(0deg) rotateZ(0deg);
-    }
-    to {
-        transform: rotateY(360deg) rotateZ(360deg);
-    }
+  from {
+    transform: rotateY(0deg) rotateZ(0deg);
+  }
+  to {
+    transform: rotateY(360deg) rotateZ(360deg);
+  }
 }
 
 .jphanna {
-    background: linear-gradient(135deg, rgba(0, 0, 0, 0.65) 0%, rgba(0, 0, 0, 0) 100%);
+  background: linear-gradient(
+    135deg,
+    rgba(0, 0, 0, 0.65) 0%,
+    rgba(0, 0, 0, 0) 100%
+  );
 }
 
 .jphanna h1 {
-    animation: rotorFlip 10s infinite alternate;
-    text-align: center;
+  animation: rotorFlip 10s infinite alternate;
+  text-align: center;
 }
 
 .jphanna a {
-    color: white;
-    font-size: 1.3em;
-    text-decoration: none;
+  color: white;
+  font-size: 1.3em;
+  text-decoration: none;
+}
+
+.sajal-shlan {
+  text-align: center;
+  font-size: larger;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.sajal-shlan a {
+  text-decoration: none;
+  color: white;
 }
 
 .aakash {
-    background-color: #000;
-    text-align: center;
-    margin: auto;
-    padding: 40px;
-    border: 5px solid #fff;
-    color: #fff;
+  background-color: #000;
+  text-align: center;
+  margin: auto;
+  padding: 40px;
+  border: 5px solid #fff;
+  color: #fff;
 }
 
 .aakash a {
-    font-size: 30px;
-    text-decoration: none;
-    color: #fff;
+  font-size: 30px;
+  text-decoration: none;
+  color: #fff;
 }
 
 .aakash:hover {
-    border: 5px solid #000;
-    zoom: 122%;
+  border: 5px solid #000;
+  zoom: 122%;
 }
-
 
 /* added by faldi */
 
-@import url('https://fonts.googleapis.com/css?family=K2D');
+@import url("https://fonts.googleapis.com/css?family=K2D");
 .nrs {
-    background-color: #F4D58D;
-    box-shadow: 5px 10px #708D81;
-    border: 1px solid;
-    padding: 10px;
+  background-color: #f4d58d;
+  box-shadow: 5px 10px #708d81;
+  border: 1px solid;
+  padding: 10px;
 }
 
 .nrs-font {
-    color: #fff;
-    text-decoration: none;
-    font-family: 'K2D', sans-serif;
-    justify-content: center;
-    font: italic bold 30px
+  color: #fff;
+  text-decoration: none;
+  font-family: "K2D", sans-serif;
+  justify-content: center;
+  font: italic bold 30px;
 }
 
 /* Additions by Amber Roberts */
 
 .amber {
   font-family: fantasy;
-  text-shadow: 2px 2px rgba(140, 0, 255, .3);
+  text-shadow: 2px 2px rgba(140, 0, 255, 0.3);
   background: rgba(148, 0, 211, 0.5);
   border: 5px dashed purple;
   border-radius: 12px 4px;
   text-align: center;
   padding: 50px;
   margin: auto;
-  box-shadow: 12px 12px 2px 1px rgba(140, 0, 255, .2);
+  box-shadow: 12px 12px 2px 1px rgba(140, 0, 255, 0.2);
 }
 
 .amber:hover {
   box-shadow: 12px 12px 2px 1px grey;
-  background: rgba(140, 0, 255, .2);
+  background: rgba(140, 0, 255, 0.2);
   border: 6px dashed white;
 }
 
 .amber a:hover {
   color: white;
-  text-shadow: 2px 2px #551A8B;
+  text-shadow: 2px 2px #551a8b;
 }
 
 /* For Andi Robinson */
 .a-rob {
-    text-align: center;
-    margin: auto;
+  text-align: center;
+  margin: auto;
 }
 
- .halloween-style {
-    text-decoration: none;
-    color: black;
-    text-shadow:
-    4px 4px 1px #300000,
-    4px 6px 1px #400000,
-    4px 8px 1px #500000,
-    4px 10px 1px #600000,
-    4px 12px 1px #700000,
-    4px 14px 1px #800000,
-    4px 16px 1px #900000,
-    4px 18px 1px #A00000,
-    4px 20px 1px #B00000,
-    4px 22px 1px #C00000,
-    4px 24px 1px #D00000,
-    4px 26px 1px #E00000,
-    4px 28px 1px #F00000;
+.halloween-style {
+  text-decoration: none;
+  color: black;
+  text-shadow: 4px 4px 1px #300000, 4px 6px 1px #400000, 4px 8px 1px #500000,
+    4px 10px 1px #600000, 4px 12px 1px #700000, 4px 14px 1px #800000,
+    4px 16px 1px #900000, 4px 18px 1px #a00000, 4px 20px 1px #b00000,
+    4px 22px 1px #c00000, 4px 24px 1px #d00000, 4px 26px 1px #e00000,
+    4px 28px 1px #f00000;
 }
 
 .aDivTooFar {
-    display: inline-block;
-    color: black;
-    border: groove black 2px;
-    padding: 20px;
-    text-align: center;
-    background-color: white;
-    font-family: fantasy;
+  display: inline-block;
+  color: black;
+  border: groove black 2px;
+  padding: 20px;
+  text-align: center;
+  background-color: white;
+  font-family: fantasy;
 }
 
 /* Tiffany Du was here! */
 .t-du {
-    background-color: #319495;
-    border: none;
-    color: #ffffff;
-    margin: 30px 0;
-    transition: 0.2s ease-out;
+  background-color: #319495;
+  border: none;
+  color: #ffffff;
+  margin: 30px 0;
+  transition: 0.2s ease-out;
 }
 .t-du a {
-    color: #ffffff;
-    font-family: helvetica, sans-serif;
-    letter-spacing: 2px;
-    text-align: center;
-    text-decoration: none;
-    text-transform: uppercase;
+  color: #ffffff;
+  font-family: helvetica, sans-serif;
+  letter-spacing: 2px;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
 }
 .t-du:hover {
-    box-shadow: 0 4px 10px rgba(0,0,0,0.3);
-    transform: translateY(-5px);
-/* styles for Adam Fitzgibbon */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+  transform: translateY(-5px);
+  /* styles for Adam Fitzgibbon */
 }
 .adamfitzgibbon {
-    color: orange;
-    margin: 50px;
-    background: green;
-
+  color: orange;
+  margin: 50px;
+  background: green;
 }
 
-#yoon{
-    color: white;
-    border: dotted red 2px;
-    text-align: center;
-    background-color: black;
-    height:140px;
+#yoon {
+  color: white;
+  border: dotted red 2px;
+  text-align: center;
+  background-color: black;
+  height: 140px;
 }
 
-#yoon a{
-    color:white;
+#yoon a {
+  color: white;
 }
-
 
 /* Styles for Nicholas Comendant */
-    #ncom {
-        background-image: linear-gradient(45deg, blue, dodgerblue);
-        text-align: center;
-        font-family: 'Raleway', sans-serif;
-        color: white;
-        border: none;
-    }
+#ncom {
+  background-image: linear-gradient(45deg, blue, dodgerblue);
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+  color: white;
+  border: none;
+}
 
-    #ncom img {
-        height: 50px;
-        width: auto;
-        opacity: 0.5;
-        transition-property: opacity;
-        transition-duration: 0.5s;
-    }
+#ncom img {
+  height: 50px;
+  width: auto;
+  opacity: 0.5;
+  transition-property: opacity;
+  transition-duration: 0.5s;
+}
 
-    #ncom span {
-        display: flex;
-        justify-content: space-evenly;
-    }
+#ncom span {
+  display: flex;
+  justify-content: space-evenly;
+}
 
-    #ncom h1 {
-        font-size: 30px;
-    }
+#ncom h1 {
+  font-size: 30px;
+}
 
-    #ncom img:hover {
-        opacity: 1;
-        cursor: pointer;
-    }
+#ncom img:hover {
+  opacity: 1;
+  cursor: pointer;
+}
 
 #pan {
-        background-image: linear-gradient(0deg, black, grey);
-        text-align: center;
-        font-family: 'Arial Black', Gadget, sans-serif;
-        color: white;
-        border: none;
+  background-image: linear-gradient(0deg, black, grey);
+  text-align: center;
+  font-family: "Arial Black", Gadget, sans-serif;
+  color: white;
+  border: none;
 }
 
-#pan a{
-    color:white;
+#pan a {
+  color: white;
 }
 
-.ram{
-    border:3px solid;
-    border-radius: 3px;
-    border-color: red;
+.ram {
+  border: 3px solid;
+  border-radius: 3px;
+  border-color: red;
 }
 
 #dmitriyaa {
@@ -673,57 +678,57 @@ div {
 }
 
 .lrw {
-    overflow:hidden;
-    position: relative;
-    background-color:#fff;
+  overflow: hidden;
+  position: relative;
+  background-color: #fff;
 }
 .lrw a {
-    height: 100%;
-    width: 100%;
-    text-decoration: none;
-    display: flex;
-    flex: 1 1 auto;
-    justify-content: center;
-    align-items: center;
+  height: 100%;
+  width: 100%;
+  text-decoration: none;
+  display: flex;
+  flex: 1 1 auto;
+  justify-content: center;
+  align-items: center;
 }
 .lrw a > h1 {
-    text-align: center;
-    position: relative;
-    color: rgba(0,0,0,1);
+  text-align: center;
+  position: relative;
+  color: rgba(0, 0, 0, 1);
 }
 .lrw a > h1::before,
 .lrw a > h1::after {
-    content:"Liam Wrigley :)";
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    color: rgba(0,0,0,1);
-    transition: all 100ms ease-in-out;
+  content: "Liam Wrigley :)";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  color: rgba(0, 0, 0, 1);
+  transition: all 100ms ease-in-out;
 }
 .lrw a:hover > h1 {
-    color: rgba(0,255,0,0.6);
+  color: rgba(0, 255, 0, 0.6);
 }
 .lrw a:hover h1::before {
-    color: rgba(255,0,0,0.6);
-    left: -5px;
-    top: 5px
+  color: rgba(255, 0, 0, 0.6);
+  left: -5px;
+  top: 5px;
 }
 .lrw a:hover h1::after {
-    color: rgba(0,0,255,0.6);
-    right: -5px;
-    top: -5px
+  color: rgba(0, 0, 255, 0.6);
+  right: -5px;
+  top: -5px;
 }
-#beatrizsmerino{
+#beatrizsmerino {
   text-align: center;
   font-family: sans-serif;
   font-size: 2rem;
-  background-color: #3A4F64;
+  background-color: #3a4f64;
 }
-#beatrizsmerino img{
+#beatrizsmerino img {
   margin-bottom: 1rem;
 }
-#beatrizsmerino a{
+#beatrizsmerino a {
   text-decoration: none;
   color: white;
 }
