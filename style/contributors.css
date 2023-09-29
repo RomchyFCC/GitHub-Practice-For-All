@@ -155,6 +155,31 @@ div {
     letter-spacing: 2pt;
 }
 
+#carlos-m{
+    background-color:#f2f2f2;
+    text-align: center;
+    font-family: monospace;
+    color: #000;
+    height: 300px;
+}
+
+#carlos-m:hover{
+    background-color: #ddd;
+    border-radius: 8px;
+    border: 2px solid black;
+}
+
+#carlos-m img{
+    margin-top: 1rem;
+    width: 200px !important;
+}
+
+#carlos-m a {
+    text-decoration: none !important;
+    color: #000
+}
+
+
 
 .stacy {
     font-size: 1.5em;
