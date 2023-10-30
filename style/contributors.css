@@ -210,6 +210,24 @@ div {
     position: relative;
 }
 
+#powar {
+    font-size: 30px;
+    font-weight: 700;
+    color: #400000;
+    text-decoration: none;
+    scale: 1;
+    border:solid 2px black;
+    border-radius: 10px;
+    height: 200px;
+    transition: all 0.5s;
+    background-color: #2ed5ff;
+}
+
+#powar:hover {
+    scale: 2;
+    transform:translate(100px,50px);
+}
+
 #secret {
     width: 1px;
     height: 1px;
