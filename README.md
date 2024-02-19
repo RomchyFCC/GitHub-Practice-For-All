@@ -221,6 +221,7 @@ Could this CONTRIBUTING file be improved? Was anything inaccurate or unclear? Pl
 
 ## Contributors
 
+- [Busola Tom](https://github.com/busolatom)
 - [Darren](https://github.com/DarrenfJ)
 - [Ariel Leslie](https://github.com/ArielLeslie)
 - [Ivan Oung](https://github.com/ivanoung)
